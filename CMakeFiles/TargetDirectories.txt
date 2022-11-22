@@ -1,0 +1,6 @@
+/home/joao/Desktop/4ºAno/IC/P/IC/CMakeFiles/rebuild_cache.dir
+/home/joao/Desktop/4ºAno/IC/P/IC/CMakeFiles/imageBright.dir
+/home/joao/Desktop/4ºAno/IC/P/IC/CMakeFiles/imageRotate.dir
+/home/joao/Desktop/4ºAno/IC/P/IC/CMakeFiles/imageNeg.dir
+/home/joao/Desktop/4ºAno/IC/P/IC/CMakeFiles/edit_cache.dir
+/home/joao/Desktop/4ºAno/IC/P/IC/CMakeFiles/imageCopy.dir
