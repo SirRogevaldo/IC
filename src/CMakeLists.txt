@@ -17,9 +17,3 @@ target_link_libraries( imageRotate ${OpenCV_LIBS} )
 
 add_executable( imageBright imageBright.cpp )
 target_link_libraries( imageBright ${OpenCV_LIBS} )
-
-# include_directories(${CMAKE_SOURCE_DIR}/inc)
-# link_directories(${CMAKE_SOURCE_DIR}/lib)
-
-# add_executable(foo ${FOO_SRCS})
-# target_link_libraries(foo bar) # libbar.so is found in ${CMAKE_SOURCE_DIR}/lib
