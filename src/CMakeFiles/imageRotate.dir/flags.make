@@ -6,5 +6,5 @@ CXX_FLAGS =
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -isystem /usr/local/include/opencv4 
+CXX_INCLUDES = -I/usr/local/include/opencv4/src -isystem /usr/local/include/opencv4 
 

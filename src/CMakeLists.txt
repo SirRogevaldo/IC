@@ -1,7 +1,7 @@
-cmake_minimum_required(VERSION 2.8)
+cmake_minimum_required(VERSION 3.16)
 project( DisplayImage )
 find_package( OpenCV REQUIRED )
-include_directories( ${OpenCV_INCLUDE_DIRS} )
+include_directories( ${OpenCV_INCLUDE_DIRS}/src )
 
 SET (BASE_DIR ${CMAKE_SOURCE_DIR} )
 SET (CMAKE_RUNTIME_OUTPUT_DIRECTORY ${BASE_DIR}/bin)
