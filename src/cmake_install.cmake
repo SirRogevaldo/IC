@@ -1,4 +1,4 @@
-# Install script for directory: /home/joao/Desktop/4ºAno/IC/P/IC
+# Install script for directory: /home/joao/Desktop/4ºAno/IC/P/IC/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/joao/Desktop/4ºAno/IC/P/IC/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/joao/Desktop/4ºAno/IC/P/IC/src/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
