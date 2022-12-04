@@ -17,3 +17,6 @@ target_link_libraries( imageRotate ${OpenCV_LIBS} )
 
 add_executable( imageBright imageBright.cpp )
 target_link_libraries( imageBright ${OpenCV_LIBS} )
+
+add_executable( imageMirror imageMirror.cpp )
+target_link_libraries( imageMirror ${OpenCV_LIBS} )

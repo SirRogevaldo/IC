@@ -18,7 +18,6 @@ int main( int argc, char** argv )
 
 
 	uchar r, g, b;
-    double mult = 1.8; // set to input
     for (int i = 0; i < image.rows; ++i)
     {
 		Vec3b* pixel = image.ptr<Vec3b>(i);
@@ -28,12 +27,12 @@ int main( int argc, char** argv )
             g = pixel[j][1];
             b = pixel[j][0];
 
-			imageCopy.ptr<Vec3b>(i)[j] = Vec3b(saturate_cast<uchar>(b*mult),saturate_cast<uchar>(g*mult),saturate_cast<uchar>(r*mult));
+			imageCopy.ptr<Vec3b>(i)[image.cols - j] = Vec3b(b,g,r);
         }
     }
 
  	imshow( ImageFile, image );	                   //show window containing images
-	imshow( "ImageBright.ppm", imageCopy );	
+	imshow( "ImageMirror.ppm", imageCopy );	
  	waitKey(0);	     //to exit
  	return 0;
 }
