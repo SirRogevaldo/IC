@@ -8,4 +8,7 @@ Project 1:
 https://github.com/dario-alv/IC
 
 Project 2:
-(in progress)
+Project2 Folder
+
+Project 3:
+Project3 Folder (In Progress)
