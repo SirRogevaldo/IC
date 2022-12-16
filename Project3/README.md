@@ -2,7 +2,7 @@
 
 ******
 
-## Directoriy Organization
+## Directory Organization
 
 - **test** contains tests to certain source modules
 
