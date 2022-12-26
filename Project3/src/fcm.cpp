@@ -17,6 +17,16 @@ fcm::fcm(int k, double alpha){
     this->alpha = alpha;
 }
 
+void readChar(ifstream &inFile, char *c){
+    char s;
+    do{
+        inFile.get(s);
+        if(!(s == '\n'| s == '\t')) {
+            *c = s;
+        }
+    }while((*c == '\n'|*c == '\t') && !inFile.eof());
+}
+
 void fcm::estimate(map<string, map<char, int>> &model, char *filename){
     
     ifstream inFile(filename, std::ios::in);
@@ -70,6 +80,8 @@ void fcm::estimate(map<string, map<char, int>> &model, char *filename){
     distance = d;
     estimatedEntropy = d / count;
     nLetters = count;
+
+    cout << "distance: " << distance << " estimated entropy: " << estimatedEntropy <<" nLetters: " << nLetters << endl; 
 }
 
 void fcm::loadModel(map<string, map<char, int>> &model, char *filename){
@@ -109,26 +121,21 @@ void fcm::loadModel(map<string, map<char, int>> &model, char *filename){
 
     inFile.close();
 
-    ofstream outFile(filename, std::ios::out);
-    outFile.open("testfile.txt");
+    string outFileName = string(filename).substr(0, string(filename).length() - 4); // tirar ".txt"
+    outFileName = outFileName + to_string(k) + "kModel.txt";
+
+    ofstream outFile;
+    outFile.open(outFileName);
     outFile << k << "\t" << alpha << endl;
     for(auto m: model){
         outFile << m.first;
-        for (auto i: m.second){
+        map<char,int> &occ = model[m.first];
+        for (auto i: occ){
             outFile << "\t" << i.first << " " << i.second;
         }
         outFile << "\n";
     }
 
-    outFile.close();
-}
 
-void readChar(ifstream &inFile, char *c){
-    char s;
-    do{
-        inFile.get(s);
-        if(!(s == '\n'| s == '\t')) {
-            *c = s;
-        }
-    }while((*c == '\n'|*c == '\t') && !inFile.eof());
+    outFile.close();
 }
