@@ -1,0 +1,1808 @@
+3	0.1
+ "5	0 1
+ "I	  1
+ "M	o 3
+ "T	h 2
+ "a	  1	" 2
+ "b	" 1	i 2
+ "m	o 1
+ $0	. 3
+ $1	, 1
+ $3	0 1
+ $6	1 2	8 1
+ $7	3 1
+ $8	. 5
+ $9	. 1
+ (.	1 1
+ (1	3 1
+ (8	. 1
+ (A	l 1
+ (B	i 1
+ (b	e 1
+ (c	u 2
+ (m	o 1
+ (n	o 1
+ (p	r 1
+ ) 	( 1
+ * 	( 1
+ + 	. 1	1 1
+ -0	. 3
+ ..	. 1
+ .0	0 1
+ / 	1 1	l 1
+ 0.	8 1
+ 1 	/ 1	b 1	g 2	m 1
+ 1,	0 1
+ 1/	1 1
+ 10	0 4
+ 12	  1	= 1
+ 15	0 1
+ 1=	a 1
+ 20	0 1
+ 27	5 2
+ 2P	a 1
+ 2p	a 1
+ 30	0 1
+ 36	0 1
+ 8 	b 1
+ 99	  2	9 1
+ : 	" 1
+ = 	$ 2	- 1	G 1	T 1	w 1
+ A 	T 1	l 1
+ AR	E 1
+ Ai	n 1
+ An	  1
+ B/	c 1
+ B=	1 1
+ Ba	b 1	h 3
+ Bi	t 2
+ Ca	n 2	r 1
+ Ce	n 1
+ Co	n 1	u 1
+ Do	n 1
+ F.	  1
+ Fe	r 1
+ G 	= 1
+ G.	  1
+ He	r 2
+ Ho	p 1	w 1
+ I 	b 1	c 1	f 1	h 3	l 1	p 1
+ I.	E 1
+ If	  3
+ In	  1	t 1
+ Is	  1
+ Ja	y 1
+ Ka	n 3
+ La	w 1
+ Li	l 3	t 1
+ Mo	' 4	n 3	r 1
+ Ne	w 1
+ No	. 1
+ Pr	o 1
+ Si	n 1
+ So	  2	, 1
+ Th	a 6	e 11	i 4
+ To	  3
+ US	, 1	D 1
+ Un	f 1
+ Wa	y 2
+ We	  1	e 1	s 3
+ Wi	t 1
+ [(	w 1
+ a 	" 2	T 1	b 3	d 3	f 1	g 7	l 1	p 1	r 1	s 2	t 1	u 1	v 2
+ a=	1 1
+ ab	o 3
+ ac	c 4	t 4
+ ai	n 3
+ am	o 5
+ an	  3	d 14	y 1
+ ap	p 4
+ ar	e 6	o 1
+ as	  3	s 1
+ at	  2
+ av	e 1
+ b=	. 1
+ ba	k 2	s 1
+ be	  4	c 2	e 1	l 1	t 2
+ bi	g 1	t 28
+ bo	t 1	u 1
+ br	o 1
+ bu	c 1	t 5	y 1
+ by	  2
+ ca	l 1	n 7
+ ch	a 1
+ ci	r 1
+ co	m 1	n 2	r 1	s 1	u 1
+ cu	r 1
+ da	u 1
+ de	p 1	r 1
+ di	m 1	v 3
+ do	c 1	e 2	n 2	z 3
+ dr	e 1
+ du	p 1
+ ec	o 1
+ en	o 1	t 1
+ eq	u 5
+ ev	a 1	e 4
+ ex	a 1	p 2	t 1
+ fa	c 3
+ fe	e 2	m 3
+ fi	n 2	r 1
+ fo	l 1	r 14	u 1
+ fr	o 1
+ fu	l 1	n 1	r 2
+ ge	n 1	t 5
+ gi	r 19
+ go	o 22	t 1
+ ha	r 1	s 1	v 8
+ he	  1	l 2	r 2
+ hi	g 1	m 1	s 3
+ ho	l 1	o 1	w 2
+ if	  4	, 1
+ im	p 3
+ in	  11	c 2	s 1	t 1	v 2
+ is	  26	, 1	n 1
+ it	  3	' 2
+ ju	s 1
+ ka	n 2
+ kn	o 5
+ la	r 1	w 3
+ le	a 2	s 1	t 1
+ li	k 1	n 2
+ ln	[ 1
+ lo	t 1	v 1
+ ma	k 4	p 1	r 1	t 3	y 1
+ me	  2	a 3	r 1
+ mi	l 1
+ mo	' 4	n 17	r 1
+ mu	c 1	s 8
+ my	  4
+ ne	e 2	g 1	v 1
+ no	t 2
+ nu	m 3
+ of	  30	f 1
+ on	  2	e 14	l 3
+ op	p 1
+ or	  3	d 2
+ ot	h 1
+ ou	t 2
+ ov	e 2
+ pa	i 1	p 1	r 1
+ pe	r 1
+ po	p 1	s 5	u 1
+ pr	e 1	i 1	o 8
+ pu	b 2
+ re	a 2	l 4	s 1
+ ri	g 1	n 1
+ ru	l 1
+ sa	i 3	m 1	t 1	y 1
+ sc	a 1
+ se	e 4	n 3
+ sh	e 1	i 4
+ si	m 3	n 4	z 1
+ sk	a 1	i 1
+ sm	a 1
+ so	  3	: 1
+ st	a 1	e 2	i 1	r 1
+ sy	r 1
+ te	l 1	r 1
+ th	a 17	e 52	i 6	o 4
+ to	  16	o 1	t 1
+ tr	a 1	u 1
+ tw	o 1
+ ty	p 1
+ un	i 1
+ us	  1	e 1
+ va	l 6
+ ve	r 3
+ wa	n 1	s 1
+ we	  9	d 1	i 1	l 1	r 2
+ wh	e 3	i 3
+ wi	f 2	l 3	t 2
+ wo	m 2	r 16	u 2
+ wr	o 2
+ x 	i 1
+ y 	i 1
+ y=	a 1
+ yi	e 1
+ yo	u 14
+ ~1	1 1
+" :	  1
+" a	n 1
+" i	m 1
+" m	u 1
+" t	h 3
+" v	a 1
+" w	h 1
+" y	i 1
+". 	H 2
+"..	I 1
+"50	  1
+": 	" 1
+"I 	g 1
+"Mo	' 2	n 1
+"Th	a 1	e 1
+"a 	b 1
+"a"	  2
+"b"	  1
+"bi	t 2
+"mo	n 1
+$0.	0 2	1 1
+$1,	5 1
+$30	0 1
+$61	. 2
+$68	. 1
+$7.	6 1
+$73	2 1
+$8.	3 5
+$9.	6 1
+' B	i 1
+' M	o 2
+' P	r 1
+' b	i 1
+' m	o 2
+' p	r 1
+'" 	i 1
+', 	y 1
+'Wa	y 1
+'ll	  1
+'re	  1
+'s 	a 1	m 1	n 1	s 1	w 1
+'t 	A 1	g 1	h 1	m 3	o 1	s 1	w 2
+(.0	0 1
+(.1	) 1	0 1
+(10	0 1
+(13	) 1
+(8.	3 1
+(Al	s 1
+(Bi	t 1
+(Mo	n 1
+(Pr	o 1
+(be	c 1
+(cu	r 2
+(mo	n 1
+(no	t 1
+(pr	o 1
+(wo	r 1
+) (	8 1	c 1	p 1
+) *	  1
+) +	  1
+) /	  1
+) s	o 1
+))H	o 1
+))T	h 1
+)+b	  1	. 1
+)..	N 1
+)2 	= 1
+)=1	1 1
+)Ho	w 1
+)Th	e 1
+)] 	+ 1
+)]b	i 1
+)x1	0 1
+* (	m 1
++ .	0 1
++ 1	  1
++b 	m 1
++b,	  1
++b.	  1
+, $	8 2
+, (	B 1
+, 1	0 1
+, I	  1
+, M	o 1
+, a	  2	c 3	n 2	r 1
+, b	e 1	i 1	u 2
+, d	i 1	o 1
+, h	e 1
+, i	f 2	n 1	t 1
+, l	e 1
+, o	n 1	r 1
+, r	i 1
+, s	i 1
+, t	h 3
+, w	e 3	h 1
+, y	o 1
+,00	0 3
+,02	5 1
+,55	0 1
+-0.	0 2	8 1
+-1 	) 1
+-8.	3 1
+-Z 	p 1
+-ov	e 1
+. 1	/ 1
+. 2	7 1	p 1
+. A	  1	n 1
+. B	a 1
+. C	o 2
+. D	o 1
+. H	e 2	o 2
+. I	  3	f 2	n 1
+. M	o 1
+. N	e 1	o 1
+. S	i 1	o 3
+. T	h 10	o 3
+. W	e 1	i 1
+. a	  1
+...	0 1
+..0	r 1
+..I	n 1	s 1
+..N	o 1
+..T	o 1	r 1
+..Y	e 2	o 1
+.00	  1	. 1	4 2	8 5
+.0r	  1
+.1)	+ 1
+.10	, 1	/ 1
+.11	1 1
+.33	  2	) 2	? 2
+.35	  1
+.69	  2
+.83	c 2
+.89	  1
+.96	  1	( 1
+.E.	  1
+.In	  1
+.Is	  1
+.No	  1
+.To	  1
+.Tr	u 1
+.Ye	a 1	s 1
+.Yo	u 1
+/ 1	0 1
+/ l	n 1
+/10	0 1
+/13	) 1
+/c 	I 1
+0 (	b 1
+0 =	  1
+0 B	a 1
+0 C	e 1
+0 b	i 2
+0 f	e 1	o 1
+0 g	o 1
+0 m	i 1	o 1
+0 o	r 1
+0 w	e 1	h 1
+0)2	  1
+0, 	t 1
+0,0	0 1	2 1
+0-1	  1
+0. 	S 1
+0.0	0 4
+0.1	0 1
+0.8	3 2
+0/1	3 1
+00 	( 1	= 1	B 1	b 2	f 2	m 1	o 1	w 2
+00)	2 1
+00,	0 1
+00-	1 1
+00.	  1
+000	  10	) 1	, 1	0 1	= 1	I 1
+004	3 2
+008	3 5
+00=	$ 1
+00I	t 1
+025	, 1
+043	. 2
+083	( 1	) 1	. 1	3 1	B 1
+0=$	7 1
+0It	  1
+0r 	$ 1
+1 )	  1
+1 /	  1
+1 b	i 1
+1 g	o 2
+1 m	o 1
+1)+	b 1
+1,0	0 1
+1,5	5 1
+1.0	0 2
+1.1	1 1
+1/1	0 1
+10,	  1
+10/	1 1
+100	- 1	0 8
+11.	1 1
+111	. 1	1 6	2 1
+112	  1
+119	. 2
+12 	b 1	p 1
+12=	a 1
+13)	  1	x 1
+150	  1
+19.	9 2
+1=a	( 1
+2 =	  2
+2 a	  1
+2 b	i 1
+2 p	o 1
+200	0 1
+25,	0 1
+275	  2
+2=a	( 1
+2Pa	c 1
+2pa	c 1
+3 T	h 1
+3 a	  1
+3 i	s 1
+3(1	0 1
+3) 	/ 1	s 1
+3)+	b 1
+3)]	  1
+3)x	1 1
+3. 	S 1	T 2
+300	0 2
+32 	a 1
+33 	T 1	a 1	i 1
+33)	  1	] 1
+33?	? 2
+35 	i 1
+360	  1
+3??	W 2
+3B2	  1
+3c,	  1
+3c.	  1
+43.	  2
+5 B	a 2
+5 i	n 1
+5,0	0 1
+50 	C 1	m 1
+50,	0 1
+550	, 1
+6 a	n 1
+6(M	o 1
+60 	g 1
+61.	0 2
+68.	8 1
+69 	. 1	C 1
+7.6	9 1
+732	  1
+75 	B 2
+8 b	u 1
+8.3	3 6	5 1
+8.8	9 1
+83(	1 1
+83)	+ 1
+83.	  1
+833	  1
+83B	2 1
+83c	, 1	. 1
+89 	I 1
+9 .	. 1
+9 C	a 1
+9 I	n 1
+9 a	r 1
+9 p	r 2
+9.6	9 1
+9.9	6 2
+96 	a 1
+96(	M 1
+99 	a 1	p 2
+999	  1
+: "	I 1	M 1
+: (	. 1	c 1
+: G	  1
+= $	0 1	6 1
+= -	0 1
+= G	. 1
+= M	o 1
+= T	h 1
+= m	o 1
+= o	n 1
+= w	o 1
+=$7	. 1
+=.0	0 1
+=10	0 1
+=11	9 2
+=a(	. 2
+=ax	+ 1
+=bi	t 1
+=pr	o 2
+? B	/ 1
+? I	s 1
+? T	h 1
+??I	m 1
+??W	e 2
+?Im	p 1
+?We	  1	l 1
+A T	h 1
+A l	i 1
+ARE	, 1
+Ain	' 1
+Als	o 1
+An 	i 1
+B/c	  1
+B2 	= 1
+B=1	0 1
+Bab	y 1
+Bah	t 3
+Bit	c 3
+Can	a 2
+Car	t 1
+Cen	t 1
+Con	s 1
+Cou	l 1
+D c	u 1
+Don	' 1
+E, 	i 1
+E. 	a 1
+F. 	B 1
+Fer	m 1
+G =	  1
+G. 	T 1
+Her	e 2
+Hop	e 1
+How	  1	e 1
+I b	e 1
+I c	a 1
+I f	e 1
+I g	o 1
+I h	a 3
+I l	o 1
+I p	a 1
+I t	h 1
+I.E	. 1
+If 	i 1	y 2
+If,	  1
+Imp	e 1
+In 	T 1	o 1
+Int	e 1
+Is 	i 1	t 1
+It 	a 1
+Jay	- 1
+Kan	y 3
+Law	" 1
+Lil	  2	' 1
+Lit	t 1
+Mo'	  4	" 1	, 1
+Mon	e 5
+Mor	e 1
+New	t 1
+No 	b 1
+No.	  1
+Pac	  1
+Pro	b 2
+RE,	  1
+S, 	l 1
+SD 	c 1
+Sin	c 1
+So 	i 1	w 1
+So,	  1
+Tha	i 3	n 2	t 2
+The	  3	n 1	o 2	r 6	y 1
+Thi	s 4
+To 	e 1	f 2	m 1
+Tru	e 1
+US,	  1
+USD	  1
+Unf	o 1
+Way	n 3
+We 	c 1	h 1
+Wee	z 1
+Wel	l 2
+Wes	t 3
+Wit	h 1
+Yea	h 1
+Yes	. 1
+You	' 1
+Z p	u 1
+[(P	r 1
+[(w	o 1
+] +	  1
+]bi	t 1
+a "	T 1	b 1
+a -	0 1
+a T	h 1
+a b	a 2	i 2
+a d	i 1	o 2
+a f	e 1
+a g	o 7
+a l	o 1
+a m	u 1
+a o	n 1
+a p	o 1
+a r	e 1
+a s	i 1	k 1
+a t	h 1
+a u	n 1
+a v	e 2
+a" 	a 1	m 1
+a(.	0 1	1 1
+a..	I 1
+a=1	1 1
+abo	u 3
+aby	. 1
+ac 	M 1	w 1
+acc	o 4
+act	, 1	l 1	o 2	u 4
+ad 	o 2
+ada	. 1
+adi	a 1
+age	  1
+ah.	  1
+aht	  1	, 1	. 1
+ai 	b 1
+aid	  5
+ail	a 2
+ain	' 2	t 1
+ake	  3	r 2	s 1
+al 	U 1	a 1	b 1	f 1	i 1	l 1	o 1
+alc	u 1
+ale	  1	s 1
+all	  1	y 8
+alu	a 1	e 6
+ame	n 1
+amo	u 5
+amp	l 1
+an 	( 1	a 1	b 1	c 1	e 2	i 1	o 1	s 1	w 1
+an'	t 1
+ana	d 2
+and	  17	, 1	y 1
+ang	" 2	e 1
+ank	y 1
+ann	o 1
+ans	  2	i 1
+ant	  2
+any	e 5	t 1
+ape	r 1
+apl	e 1
+apo	l 1
+app	l 3	r 1
+ar 	r 2
+ard	l 1
+are	  4	n 2
+arg	e 1	i 1
+aro	u 1
+art	  1	e 1
+ary	  1
+as 	a 1	m 1	w 2
+as.	  1
+asi	c 1
+ass	u 1
+ast	  2
+at 	1 1	J 1	L 1	a 1	b 1	d 1	f 1	i 2	l 2	m 2	p 1	t 5	w 1
+at'	s 2
+ate	  3	l 2
+ath	  3
+ati	n 3	o 9	s 1	v 2
+aug	h 1
+aus	e 3
+ave	  8	r 1
+aw 	o 2
+aw"	: 1
+aws	  1
+ax+	b 1
+ay 	1 1	h 1
+ay-	Z 1
+ayn	e 3
+b m	u 1
+b" 	v 1
+b, 	w 1
+b. 	T 1
+b=.	0 1
+bak	e 2
+bas	i 1
+be 	$ 1	a 2	p 1
+bec	a 3
+bee	n 1
+bel	i 1
+ber	  3
+bet	  1	w 1
+big	g 1
+bit	c 32
+ble	  1	m 9
+bli	s 2
+bot	h 1
+bou	g 1	t 3
+bro	t 1
+buc	k 1
+but	  5
+buy	  1
+by 	1 1	d 1
+by.	  1
+c I	  1
+c M	o 1
+c r	u 1
+c w	a 1
+c, 	b 1
+c. 	T 1
+cal	c 1
+can	  4	' 1	d 1	n 1
+car	y 1
+cau	s 3
+cco	r 4
+ce 	" 1	b 1	m 1	t 1
+ch 	U 1	a 2	c 1	i 2	s 1
+ch"	  2
+ch,	  1
+cha	n 1
+che	s 29
+cip	a 1
+cir	c 1
+cit	y 1
+cks	  1
+clu	d 3
+com	e 1
+con	c 1	o 1	s 1
+cor	d 4	r 1
+cos	t 1
+cou	n 1
+cs 	d 1
+ct 	p 1	t 1
+ct,	  1
+ctl	y 2
+cto	r 3
+ctu	a 4
+cul	a 2
+cur	r 3
+d "	b 1
+d F	e 1
+d I	  1
+d L	i 1
+d a	  4	t 1
+d b	= 1	i 3	y 1
+d f	o 2
+d g	i 19
+d h	e 1	i 1	o 1
+d i	f 1	n 1
+d k	n 1
+d m	a 1	o 1
+d n	e 1
+d o	f 2	p 1
+d p	r 1
+d s	i 1	o 2
+d t	h 6	o 1	r 1
+d w	e 1	o 1
+d y	  1	o 1
+d, 	$ 1
+d: 	( 1
+da.	. 1
+dam	e 1
+dau	g 1
+ddi	n 1
+de 	i 1	o 1	t 2
+ded	  2
+dep	e 1
+der	  2	i 1
+dia	n 1
+dim	e 1
+din	g 5
+div	i 3
+dly	  1
+doc	t 1
+doe	s 2
+don	' 1	e 1
+doz	e 3
+dre	  1
+ds 	( 1	1 1	o 1	t 1
+dup	e 1
+dy 	y 1
+e "	5 1	M 2	T 1	a 2
+e $	1 1
+e C	a 1
+e I	  1
+e K	a 1
+e L	i 1
+e U	S 1
+e W	e 4
+e a	  2	m 2	n 2	p 1	r 1	s 1	v 1
+e b	a 1	i 5	o 1
+e c	a 3	o 1
+e d	e 1	o 1
+e e	c 1	n 1	q 3	v 1	x 2
+e f	e 1	o 5	u 3
+e g	e 2	o 6
+e h	a 1	i 1
+e i	f 1	m 1	n 2	s 7	t 1
+e k	a 1	n 3
+e l	a 1	i 1
+e m	a 3	o 4	u 2	y 2
+e n	e 1	u 3
+e o	f 7	n 1	t 1	u 1	v 1
+e p	e 1	o 2	r 1
+e s	a 3	e 4	i 2	k 1	y 1
+e t	h 18	o 4	r 1	w 1
+e v	a 4
+e w	e 4	h 1	o 2	r 1
+e x	  1
+e y	o 1
+e".	  1
+e's	  1
+e) 	( 1
+e, 	1 1	b 2
+e-o	v 1
+e. 	A 1	I 2	M 1	N 1
+ead	  2
+eah	. 1
+eal	l 2
+ean	  1	s 2
+ear	  2
+eas	t 2
+eca	u 3
+eco	n 1
+ect	  2
+ed 	F 1	a 1	b 1	h 2	k 1	t 2	w 1
+ed:	  1
+edd	i 1
+ede	d 1
+eds	  1
+ee 	t 4
+eed	e 1	s 1
+eel	  2
+een	  2
+eez	y 1
+efo	r 6
+ega	t 1
+eig	h 1
+eir	  1
+el 	d 1	l 1
+el.	  1
+ela	t 4
+eld	s 1
+elf	. 1
+eli	e 1
+ell	  1	, 2	s 1
+elp	  1	s 1
+ely	  4
+em 	b 1	i 1
+em"	  1
+em)	. 1
+em,	  1
+ema	l 2
+emi	n 1
+ems	  2	" 1	) 1	. 2	1 1	s 1
+en 	( 1	B 1	a 1	b 2	m 1	o 2	w 1	y 1
+en'	t 2
+en,	  1
+en.	  1	. 1
+end	s 1
+eni	u 1
+eno	u 1
+ens	e 3
+ent	  3	. 1	a 1	i 3	l 1
+eor	e 3	i 1	y 1
+epe	n 1
+eps	  1
+equ	a 5
+er 	9 1	I 1	T 1	f 1	i 1	o 4	t 5	v 1
+er,	  3
+era	g 1
+ere	  9	. 1	f 6	l 1	s 2
+eri	a 2	v 1
+erm	a 1	s 1
+erp	a 1
+ers	  2	i 1	o 1
+ert	y 1
+ery	  4	t 1
+es 	= 1	I 1	T 2	a 7	b 1	c 1	e 1	i 3	m 2	o 2	s 1	t 1	w 1	y 2
+es)	= 1
+es,	  4
+es.	  5
+es=	p 1
+es?	  1
+esn	' 1
+esp	e 1
+ess	  1	I 1
+est	  2	, 1	i 1	m 1
+et 	f 1	m 1	t 2	y 2
+et'	s 1
+et:	  1
+ett	i 1
+etw	e 1
+eva	l 1
+eve	d 1	n 1	r 5
+evi	o 1
+ewt	o 1
+exa	c 1
+exp	o 2
+ext	r 1
+ey 	= 1	A 2	a 3	c 1	i 3	m 1	t 3
+ey"	  1
+ey)	  2	] 1
+ey,	  2
+ey-	8 1
+ey=	  2	b 1	p 1
+eys	= 1
+ezy	  1
+f "	b 1
+f 1	  1	2 1
+f 3	0 1
+f B	i 1
+f K	a 1
+f M	o 1
+f a	  2	n 1
+f b	i 5
+f g	o 2
+f i	t 1
+f m	a 1	o 4
+f n	e 1
+f o	n 1
+f p	r 1
+f s	a 1	t 1
+f t	h 5
+f w	e 1	o 1
+f y	= 1	o 2
+f, 	a 2
+f. 	W 1
+fac	t 3
+fe'	s 1
+fe,	  1
+fee	l 2
+fem	a 2	i 1
+ffs	e 1
+fin	d 2
+fir	s 1
+fol	l 1
+for	  7	e 6	g 2	m 5	t 1
+fou	n 1
+fro	m 1
+fse	t 1
+ful	l 1
+fun	d 1
+fur	t 2
+fy 	t 1
+g m	o 2
+g r	i 1
+g s	h 1
+g t	h 5	o 4
+g w	i 1
+g" 	t 1
+g".	. 1
+g, 	I 1	b 1
+g. 	C 1	T 1
+g..	T 1
+gat	i 1
+ge 	p 1
+gen	i 1
+ger	  1
+ges	  1
+get	  4	: 1	t 1
+ggi	e 1
+gh 	b 1
+gh,	  1
+ghe	r 1
+ght	  1	. 2	? 1	e 1
+gie	  1
+gin	s 1
+gir	l 19
+gle	  1
+gly	  1
+goo	d 22
+got	  2
+h $	0 1	6 1	8 1
+h 1	, 1
+h 8	  1
+h U	n 1
+h a	  1	i 1	p 2	s 1
+h b	e 1
+h c	a 1
+h f	o 1
+h h	a 1
+h i	s 2
+h o	f 3	n 2
+h r	e 1
+h s	a 1	h 2
+h t	h 2
+h w	o 1
+h" 	t 1	w 1
+h, 	i 1	t 1
+h. 	N 1
+hai	  1	l 2
+han	g 3
+har	d 1
+has	. 1
+hat	  18	' 1
+hav	e 8
+he 	" 3	C 1	K 1	L 1	U 1	a 3	b 2	c 1	d 1	e 6	f 3	g 1	i 1	l 1	m 4	n 3	o 1	s 3	t 3	v 2	w 1
+hed	  2
+hei	r 1
+hel	. 1	p 2
+hem	  1
+hen	  6
+heo	r 5
+her	  3	, 1	e 13
+hes	  17	) 1	, 4	. 4	= 1	? 1	s 1
+hey	  3
+hic	h 3
+hig	h 1
+him	s 1
+hin	g 2	k 2
+hip	  1
+his	  10	, 1
+hit	  1	" 1	, 1	. 1
+hol	d 1
+hoo	k 1
+hou	g 2	s 2	t 1
+how	  2
+ht 	3 1	w 1
+ht,	  1
+ht.	  3
+ht?	? 1
+hte	r 1
+i b	r 1
+ial	  3	l 1
+ian	  1
+ibl	e 1
+ic 	r 1
+ich	  3
+ici	t 1
+ics	  1
+ict	l 1
+id 	a 2	f 1	m 1	p 1
+ide	  2
+ie 	s 1
+ied	: 1
+iel	d 1
+ies	  2
+iev	e 1
+if 	1 1	b 2	t 1
+if,	  1
+ife	' 1	, 1
+igg	i 1
+igh	e 1	t 2
+ike	  1
+il 	W 2
+il'	W 1
+ila	n 2
+ill	  4	i 1
+ima	t 1
+ime	  1
+imp	e 1	l 4	o 1
+ims	e 1
+in 	C 1	T 1	a 1	c 1	f 1	h 2	o 1	s 1	t 2
+in'	t 3
+inc	e 4	i 1	l 2
+ind	  2
+ine	a 2
+ing	  14	, 1	. 2	l 2
+ini	s 1
+ink	  2
+ins	  1	t 1
+int	  1	u 1
+inv	e 1	o 1
+ion	  5	, 1	. 2	a 1	s 3
+iou	s 1
+ip 	b 1
+ipa	l 1
+ipp	e 1
+ir 	l 1
+irc	u 1
+ire	  1
+irl	  12	. 2	? 2	s 3
+irs	t 1
+is 	$ 1	1 1	a 7	b 1	c 2	f 1	h 1	i 3	j 1	l 1	m 2	o 1	p 3	s 2	w 8	~ 1
+is,	  2
+isf	y 1
+ish	e 2
+isn	' 1
+ist	) 1
+it 	i 2	o 1	p 1	t 1
+it"	  1
+it'	l 1	s 1
+it,	  1
+it.	. 1
+itc	h 35
+ite	  1
+ith	  2	o 1
+iti	v 6
+itt	l 1
+itu	t 1
+ity	, 1
+ius	  1
+iva	t 1
+ive	  5	. 2	l 1
+ivi	d 2	n 1
+ize	  1	d 1
+jus	t 1
+k a	b 1
+k o	u 1
+k t	h 1
+kan	k 1	y 2
+ke 	I 1	m 1	s 2
+ker	, 1	s 2
+kes	  1
+kip	p 1
+kno	w 5
+ks 	i 1
+ks.	  1
+ky 	o 1
+l U	S 1
+l W	a 2
+l a	c 1	n 2	s 1
+l b	i 1
+l c	o 1
+l d	u 1
+l f	a 1	o 1
+l g	e 1
+l h	a 2
+l i	n 1	s 5
+l l	a 1	i 1
+l n	o 1
+l o	n 2
+l s	e 1
+l t	h 1
+l v	e 1
+l w	i 1	o 1
+l'W	a 1
+l, 	$ 1	r 1
+l. 	H 1	I 1
+l..	T 1
+l? 	B 1	T 1
+la 	- 1	m 1	o 1
+lan	d 2
+lar	g 1
+lat	e 1	i 7
+law	  2	s 1
+lcu	l 1
+ld 	I 1	m 1	t 2
+lds	  1
+le 	W 1	f 1	g 1	p 1	s 2	t 1
+lea	s 2
+lem	  1	s 8
+les	  2	s 1
+let	' 1
+lf.	  1
+lic	i 1
+lie	d 1	s 1	v 1
+lik	e 1
+lin	e 2
+lio	n 1
+lis	h 2
+ll 	a 1	c 1	g 1	h 1	n 1	o 1	s 1	v 1
+ll,	  2
+lli	o 1
+llo	w 1
+lls	  1
+lly	  8
+ln[	( 1
+lot	  1
+lov	e 1
+low	  1
+lp 	b 1
+lps	. 1
+ls 	i 1	n 1	u 1	y 1
+lso	  1
+lt 	t 1
+lti	n 1
+lua	t 1
+lud	e 3
+lue	  5	s 1
+lve	d 1
+ly 	- 1	0 1	9 1	[ 1	a 2	b 1	d 2	e 1	g 1	h 1	i 1	l 1	m 1	p 2	s 1	t 3	w 2
+m a	n 1
+m b	u 1
+m i	s 1
+m o	f 1
+m" 	: 1
+m).	. 1
+m, 	i 1
+mak	e 4
+mal	e 2	l 2
+man	  1
+map	l 1
+mar	g 1
+mat	' 1	e 1	h 3
+may	  1
+mbe	r 3
+me 	a 2	t 1	w 1
+mea	n 3
+men	. 1	t 2
+mer	e 1
+mic	s 1
+mil	l 1
+min	g 1	i 1
+mo'	  4
+mon	e 18	i 1
+mor	e 1
+mou	n 5
+mpe	r 2
+mpl	e 2	i 2	y 1
+mpo	r 1
+ms 	a 1	o 1	s 1
+ms"	. 1
+ms)	  1
+ms.	  2
+ms1	0 1
+mse	l 1
+mss	W 1
+muc	h 1
+mul	a 3
+mus	t 8
+my 	$ 1	g 2	w 1
+n (	1 1	n 1
+n 1	= 1
+n B	= 1
+n C	a 1
+n T	h 2
+n a	  2	m 1	s 1
+n b	e 1	i 1	u 1
+n c	i 1	o 1
+n e	q 1	x 1
+n f	a 1	o 1
+n h	i 2
+n i	m 1	s 1
+n m	o 1
+n o	f 1	n 3	r 3
+n r	e 2
+n s	e 1	t 1
+n t	e 1	h 3
+n w	i 1	o 2
+n y	o 1
+n't	  10
+n, 	d 1	w 1
+n. 	I 2
+n..	Y 1
+n[(	P 1
+nad	a 1	i 1
+nat	e 2
+nce	  4
+nci	p 1
+ncl	u 3
+nd 	" 1	L 1	a 2	b 4	f 1	i 1	n 1	o 1	s 3	t 4	y 2
+nd,	  1
+nda	m 1
+nds	  2
+ndy	  1
+ne 	f 2	g 4	i 3	m 3	o 1	t 3
+ne"	. 1
+ne,	  1
+nea	r 2
+nee	d 2
+neg	a 1
+nen	t 2
+nev	e 1
+ney	  11	" 1	) 3	, 2	- 1	= 4	s 1
+nfo	r 1
+ng 	m 2	r 1	s 1	t 9	w 1
+ng"	  1	. 1
+ng,	  2
+ng.	  2	. 1
+nge	s 1
+ngl	e 1	y 1
+nie	s 1
+nis	t 1
+nit	  1
+niu	s 1
+nk 	a 1	t 1
+nky	  1
+nly	  3
+nno	t 1
+nom	i 1
+not	  4
+nou	g 1
+now	  3	i 1	n 1
+ns 	r 1	t 2
+ns.	  2
+nse	  2	. 1
+nsh	i 1
+nsi	t 1
+nst	e 1
+nsu	l 2
+nt 	L 1	a 3	o 5	p 1	s 1
+nt.	  1
+nta	l 1
+nte	r 1
+nti	a 2	n 1	r 1
+ntl	y 1
+ntu	i 1
+num	b 3
+nve	s 1
+nvo	l 1
+nye	  5
+nyt	h 1
+o "	m 1
+o 2	P 1
+o K	a 1
+o L	i 1
+o b	e 1	i 2	u 1
+o e	v 1	x 1
+o f	i 2	o 1	u 1
+o g	e 1
+o i	n 2
+o k	n 1
+o m	e 1	o 1	u 1
+o o	f 1
+o p	r 1
+o s	m 1
+o t	h 4
+o w	h 1
+o' 	B 1	M 2	P 1	b 1	m 2	p 1
+o'"	  1
+o',	  1
+o, 	( 1
+o. 	T 1
+o: 	( 1
+obl	e 9
+oct	o 1
+od 	g 19	h 1	i 1	w 1
+oes	  1	n 1
+of 	" 1	1 1	3 1	B 1	K 1	M 1	a 3	b 3	g 2	m 5	n 1	o 1	p 1	s 2	t 4	w 2	y 1
+off	s 1
+oke	r 1
+ola	t 1
+old	  1
+oll	o 1
+olv	e 1
+om 	a 1
+oma	n 1
+ome	  1	n 1
+omi	c 1
+on 	1 1	f 1	o 2	r 2	t 2	w 1
+on'	t 2
+on,	  1
+on.	  1	  1
+ona	t 1
+onc	l 1
+one	  14	" 1	n 2	y 23
+ong	, 1	. 1
+oni	e 1
+onl	y 3
+ono	m 1
+ons	. 2	h 1	u 2
+oo 	s 1
+ood	  22
+oof	  1
+ook	e 1
+ope	  1	r 1
+opo	r 1
+opp	o 1
+opu	l 1
+or 	$ 2	a 1	d 1	e 2	i 1	k 1	m 2	o 1	s 1	y 1
+ord	e 2	i 4
+ore	  6	, 1	- 1	m 3
+org	e 1	o 1
+ori	z 1
+ork	  1	s 1
+orm	  1	a 1	u 3
+orr	e 1
+ort	a 1	h 15	i 1	u 1
+ory	. 1
+osi	t 5
+oss	i 1
+ost	  1	i 1
+ot 	9 1	b 1	c 1	h 1	o 1	t 1	w 1
+ota	l 1
+oth	  1	e 2
+ou 	a 3	b 1	c 1	d 1	g 1	h 1	m 1	t 2	u 1	w 2
+ou'	r 1
+oug	h 4
+oul	d 3
+oun	d 3	t 6
+ous	  1	a 2
+out	  6
+ove	  1	r 3
+ow 	" 1	i 1	m 2	t 3
+owe	v 1
+owi	n 1
+own	  1
+oxi	m 1
+oze	n 3
+p b	e 1	u 1
+p))	H 1
+pac	  1
+pai	d 2
+pal	  1
+pap	e 1
+par	t 1
+pe 	o 1	t 1
+pec	t 1
+ped	  2
+pen	d 1
+per	  1	i 2	s 1	t 1
+ple	  3
+pli	c 1	e 2
+ply	  3
+pol	a 1
+pon	e 2
+pop	u 1
+por	t 2
+pos	i 5	s 1
+pou	n 1
+ppe	d 1
+ppl	i 1	y 2
+ppo	s 1
+ppr	o 1
+pre	v 1
+pri	n 1
+pro	b 7	o 1	p 2	s 1	x 1
+ps 	i 1
+ps.	. 1
+pub	l 2
+pul	a 1
+qua	l 1	t 4
+r $	7 1	8 1	9 1
+r 9	9 1
+r I	. 1
+r T	h 1
+r a	b 1
+r d	r 1
+r e	v 2
+r f	o 1
+r i	n 1	t 1
+r k	a 1
+r l	a 1
+r m	y 2
+r o	f 3	n 2
+r r	e 2
+r s	i 1
+r t	h 2	o 3
+r v	a 1
+r y	o 1
+r, 	d 1	h 1	i 1
+rag	e 1
+ran	s 1
+rap	o 1
+rcu	l 1
+rde	r 2
+rdi	n 4
+rdl	y 1
+re 	b 3	f 2	h 1	i 4	n 1	o 1	t 3	w 5	x 1	y 1
+re,	  1
+re-	o 1
+re.	  1
+rea	l 2
+rec	t 1
+ref	o 6
+rel	a 4	y 1
+rem	" 1	) 1	, 1
+ren	' 2	t 3
+res	  1	p 1	t 1
+rev	i 1
+rge	r 1	t 1
+rgi	n 1
+rgo	t 1
+ria	l 2
+ric	t 1
+rig	h 1
+rin	c 1	g 1
+riv	a 1
+riz	e 1
+rk 	o 1
+rks	. 1
+rl 	a 2	f 1	h 1	i 5	t 1	w 2
+rl.	  1	. 1
+rl?	  2
+rls	  3
+rm 	o 1
+rma	l 1	t 1
+rms	  1
+rmu	l 3
+rob	l 9
+rom	  1
+ron	g 2
+roo	f 1
+rop	e 1	o 1
+ros	t 1
+rot	h 1
+rou	n 1
+rox	i 1
+rpa	i 1
+rre	c 1	n 3
+rs 	d 2
+rsi	o 1
+rso	n 1
+rst	  1
+rt 	h 1
+rta	n 1
+rte	r 1
+rth	  15	e 2
+rti	o 1
+rtu	n 1
+rty	  1
+rue	  1	. 1
+rul	e 1
+rup	) 1
+ry 	1 1	b 1	g 1	s 1	t 1
+ry.	  1
+ryt	h 1
+s $	0 1
+s (	A 1
+s 1	  2
+s =	  1
+s I	f 1
+s T	h 2
+s a	  5	b 1	c 3	i 2	n 2	r 4
+s b	i 1	y 1
+s c	a 1	h 1	o 1
+s d	a 1	o 2
+s e	q 1	v 1
+s f	o 1
+s h	e 1
+s i	n 5	s 4	t 1
+s j	u 1
+s l	e 1
+s m	a 1	e 3	o 1	u 1
+s n	e 1	o 1
+s o	f 3	n 3
+s p	a 1	r 2
+s r	e 1
+s s	a 1	e 1	i 1	o 1	t 2
+s t	h 5	o 2
+s u	s 1
+s w	e 3	h 1	o 7	r 1
+s y	o 3
+s ~	1 1
+s".	  1
+s) 	* 1
+s)=	1 1
+s, 	a 4	t 1	w 1
+s. 	2 1	C 1	H 1	S 2	T 5	W 1
+s..	Y 1
+s10	0 1
+s= 	o 1
+s=p	r 1
+s? 	I 1
+sI 	t 1
+sWe	l 1
+sai	d 3
+sam	p 1
+san	d 2
+sat	i 1
+say	  1
+sca	r 1
+se 	k 1	m 1	o 1	t 2	w 1
+se.	  1
+see	  4
+sel	f 1
+sen	s 3
+set	  1
+sfy	  1
+she	  1	d 2
+shi	p 1	t 4
+sib	l 1
+sic	  1
+sim	p 3
+sin	c 3	g 1
+sio	n 1
+sit	e 1	i 5
+siz	e 1
+ska	n 1
+ski	p 1
+sma	l 1
+sn'	t 2
+so 	k 1	m 2	t 1
+so:	  1
+son	  1
+spe	c 1
+ss 	s 1
+ssI	  1
+ssW	e 1
+ssi	b 1
+ssu	m 1
+st 	$ 1	1 1	2 1	T 1	a 2	b 2	c 1	f 2	h 2	o 1	y 1
+st)	) 1
+st,	  1
+sta	t 1
+ste	a 2	p 1
+sti	l 1	n 1	t 1
+stm	e 1
+str	i 1
+sul	t 2
+sum	i 1
+syr	u 1
+t $	3 1	6 1
+t 1	  1	2 1
+t 2	0 1	7 1
+t 3	6 1
+t 9	9 1
+t A	  1
+t I	  1
+t J	a 1
+t L	a 1	i 1
+t M	o 1
+t T	h 1
+t a	  3	= 1	c 1	m 2	n 1	p 1
+t b	e 2	i 2	o 1
+t c	o 2
+t d	o 1
+t f	a 1	e 1	i 1	o 1	r 1
+t g	e 1
+t h	a 1	e 2	o 3
+t i	f 1	n 1	s 2
+t l	e 2
+t m	a 2	e 2	o 2
+t o	f 7	n 1	v 1
+t p	a 1	o 2	r 1
+t s	h 2	i 1
+t t	h 10	o 2
+t w	i 2	o 3
+t y	o 3
+t" 	t 1
+t'l	l 1
+t's	  4
+t))	T 1
+t, 	a 2	o 2
+t. 	1 1	2 1	A 1	I 1
+t..	Y 1
+t: 	G 1
+t??	I 1
+tal	  2
+tan	t 1
+tat	i 1
+tch	  3	" 2	, 1	e 29
+te 	f 1	g 1	t 2
+te)	  1
+tea	d 2
+tel	l 1	y 2
+tep	s 1
+ter	  2	e 1	m 1
+th 	$ 3	1 1	8 1	a 3	f 1	h 1	o 5	r 1	s 2	t 2	w 1
+tha	t 17
+the	  38	i 1	l 1	m 1	n 3	o 3	r 7	y 2
+thi	n 4	s 4
+tho	u 5
+tia	l 2
+til	l 1
+tin	g 7
+tio	n 10
+tir	e 1
+tis	f 1
+tit	u 1
+tiv	e 8
+tle	  1
+tly	  3
+tme	n 1
+to 	" 1	2 1	K 1	L 1	b 3	e 1	f 2	g 1	i 1	o 1	t 3
+ton	  1
+too	  1
+tor	  3
+tot	a 1
+tra	n 1	p 1
+tri	c 1
+tru	e 1
+tti	n 1
+ttl	e 1
+tua	l 4
+tui	t 1
+tun	a 1
+tut	e 1
+twe	e 1
+two	  1
+ty 	o 1
+ty,	  1
+typ	e 1
+u a	  1	n 1	t 1
+u b	e 1
+u c	a 1
+u d	i 1
+u g	e 1
+u h	a 1
+u m	u 1
+u t	h 2
+u u	s 1
+u w	a 1	i 1
+u'r	e 1
+ual	  1	l 4
+uat	e 1	i 4
+ubl	i 2
+uch	  1
+uck	s 1
+ude	  2	d 1
+ue 	" 1	a 1	e 1	i 1	o 2
+ue.	  1
+ues	  1
+ugh	  1	, 1	t 3
+uit	i 1
+ula	  3	t 3
+uld	  3
+ule	s 1
+ull	  1
+ult	  1	i 1
+umb	e 3
+umi	n 1
+una	t 1
+und	  2	a 1	s 1
+uni	t 1
+unt	  5	i 1
+up)	) 1
+upe	d 1
+urr	e 3
+urt	h 2
+us 	e 1	o 1	t 1
+usa	n 2
+use	  4
+ust	  9
+ut 	$ 1	2 1	I 1	M 1	a 2	b 1	f 1	h 1	s 1	t 1
+ute	) 1
+uy 	f 1
+val	u 7
+vat	i 1
+ve 	" 1	a 1	b 1	d 1	e 1	l 1	m 1	o 3	p 1	t 1	v 2
+ve.	  2
+ved	  2
+vel	y 1
+ven	  1
+ver	  3	, 1	a 1	p 1	s 1	y 5
+ves	t 1
+vid	e 2
+vin	g 1
+vio	u 1
+vol	v 1
+w "	a 1
+w i	s 1
+w m	a 1	u 1
+w o	f 2
+w t	h 3
+w":	  1
+wan	t 1
+was	  1
+we 	a 1	c 2	g 1	k 3	s 2
+wed	d 1
+wee	n 1
+wei	g 1
+wel	l 1
+wer	e 2
+wev	e 1
+whe	n 2	r 1
+whi	c 3
+wif	e 2
+wil	l 3
+win	g 1
+wit	h 2
+wn 	a 1
+wo 	p 1
+wom	a 1	e 1
+wor	k 2	t 15
+wou	l 2
+wro	n 2
+ws 	t 1
+wto	n 1
+x i	s 1
+x+b	, 1
+x10	0 1
+xac	t 1
+xim	a 1
+xpo	n 2
+xtr	a 1
+y $	8 1
+y -	0 1
+y 0	. 1
+y 1	0 2	5 1
+y 9	9 1
+y =	  1
+y A	R 1	i 1
+y F	. 1
+y [	( 1
+y a	  1	n 4
+y b	e 1	i 1
+y c	a 1
+y d	e 1	i 1	o 1
+y e	n 1
+y f	o 1
+y g	o 4
+y h	a 1	i 1
+y i	n 2	s 3
+y l	a 1
+y m	a 1	o 1
+y o	f 1	n 1
+y p	o 1	u 1
+y s	c 1	t 1
+y t	e 1	h 4	o 2	y 1
+y w	e 1	i 1	o 1
+y y	o 1
+y" 	y 1
+y) 	( 1	+ 1
+y)]	b 1
+y, 	M 1	s 1	w 1
+y-8	. 1
+y-Z	  1
+y. 	D 1	T 1
+y= 	M 1	m 1
+y=a	x 1
+y=b	i 1
+y=p	r 1
+ye 	W 3	i 1	s 1
+yie	l 1
+yne	  2	, 1
+you	  14
+ype	  1
+yru	p 1
+ys=	  1
+yth	i 2
+ze 	i 1
+zed	  1
+zen	  1	, 1	. 1
+zy 	F 1
+~11	1 1

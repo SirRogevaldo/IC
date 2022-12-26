@@ -4,8 +4,9 @@ int main(int argc, char** argv){
 
     map<string, map<char, int>> model;
     
-    if(argc != 3){
-        cout << "Error: Syntax: <Model> <Text> " << endl;
+    // argv[argc-1] is the text, all else are models
+    if(argc < 2){
+        cout << "Error: Syntax: <Model> * numberOfModels <Text> " << endl;
         return 0; 
     }
 
