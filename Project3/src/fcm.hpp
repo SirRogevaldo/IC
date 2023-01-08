@@ -48,6 +48,15 @@ class fcm {
          */
         void loadModel(map<string, map<char, int>> &model, char *filename);
 
+
+        /**
+         * FCM existing model loader
+         * @brief load existing model from a given file name
+         * @param model data structure that will represent the model and will be loaded with information
+         * @param filename source file
+         */
+        void loadAvailableModel(map<string, map<char, int>> &model, char *filename);
+
 };
 
 #endif

@@ -139,3 +139,49 @@ void fcm::loadModel(map<string, map<char, int>> &model, char *filename){
 
     outFile.close();
 }
+
+void fcm::loadAvailableModel(map<string, map<char, int>> &model, char *filename) {
+    ifstream file(filename);
+    string l, str;
+    int i = -2, num;
+    char ch;
+    
+    while (getline(file, l)) {
+        istringstream lin(l);   // istringstream to read line
+        
+        while(i < 0) {
+            getline(lin, l, '\t'); // read line until tab
+            if(i== -2) {
+                k = stoi(l);    // stoi to convert string to int
+            }
+            else {
+                alpha = stod(l); // stod to convert string to double
+            }
+            i++;
+        }
+
+        if(i >= 0) {
+            while(getline(lin, l, '\t')) {
+                if(i == 0) {
+                    str = l;
+                    i++;
+                }
+                else if(i == 1) {
+                    ch = l[0];
+                    i++;
+                }
+                else {
+                    num = stoi(l);
+                    model[str][ch] = num;
+                    if(getline(lin, l, '\t')) {
+                        ch = l[0];
+                        i = 2;
+                    }
+                    else {
+                        i = 0;
+                    }
+                }
+            }
+        }
+    }
+}
