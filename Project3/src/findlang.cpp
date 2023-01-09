@@ -36,4 +36,6 @@ int main(int argc, char** argv){
     cout << "The text is most likely to be written in: " << modelL << endl;
     cout << "The distance between the text and the model is: " << minD << endl;
 
+    model.clear();
+
 }
