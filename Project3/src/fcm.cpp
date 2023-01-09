@@ -6,7 +6,7 @@
 #include <cmath>
 #include <sstream>
 
-#define ALPHABET_SIZE 26
+#define ALPHABET_SIZE 27
 
 using namespace std;
 
@@ -131,7 +131,7 @@ void fcm::loadModel(map<string, map<char, int>> &model, char *filename){
         outFile << m.first;
         map<char,int> &occ = model[m.first];
         for (auto i: occ){
-            outFile << "\t" << i.first << " " << i.second;
+            outFile << "\t" << i.first << '\t' << i.second;
         }
         outFile << "\n";
     }
@@ -185,3 +185,4 @@ void fcm::loadAvailableModel(map<string, map<char, int>> &model, char *filename)
         }
     }
 }
+
