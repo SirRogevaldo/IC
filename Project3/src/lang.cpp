@@ -13,7 +13,5 @@ int main(int argc, char** argv){
 
     f.loadModel(model, argv[1]);
     f.estimate(model,argv[2]);
-    
-    cout << "Estimated number of bits to compress file: " << f.distance<< endl;
 
 }
