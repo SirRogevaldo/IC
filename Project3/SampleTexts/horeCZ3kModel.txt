@@ -1,0 +1,6416 @@
+3	0.1
+	ƒ	1	≈	3	‚	212		517	 	4	1	1	A	37	B	4	C	12	D	5	F	5	H	10	J	12	K	14	L	4	M	4	N	11	O	12	P	29	R	4	S	12	T	22	U	4	V	23	Z	3	[	1
+ 	 	11
+1	9	1
+A	≈	1	 	24	l	18
+B	o	3	y	5
+C	e	2	h	7	i	1	o	1	y	2
+D	√	1	ƒ	1	o	3	u	1	v	1	y	1
+F	a	5
+H	O	1	a	2	e	3	l	1	n	3	o	1	r	1
+J	a	2	e	10	i	2	o	4
+K	 	1	a	5	d	5	l	3	o	5
+L	e	2	o	4
+M	√	1	ƒ	1	a	3	i	1	n	1
+N	√	1	ƒ	3	a	6	e	10	o	2
+O	b	2	d	3	l	1	p	3	s	1	t	2	v	1
+P	≈	7	a	4	e	6	l	1	o	11	r	5
+R	√	1	o	2	u	3	y	2
+S	√	1	T	1	b	1	e	1	l	2	n	1	o	2	t	7
+T	√	1	ƒ	1	a	4	l	1	o	20	u	1
+U	 	3	k	1	t	2
+V	√	2	≈	8	 	3	a	1	e	3	p	1	r	2	t	1	y	3	z	2
+Z	≈	1	a	4	b	1	l	1
+[	*	1
+a	≈	1	 	7	b	5	l	3	s	1
+b	≈	1	e	1	i	1	l	1	o	1	r	1	u	3	y	12
+c	e	2	h	7	i	1	o	3
+d	√	1	ƒ	2	≈	1	a	1	i	1	o	6	r	1	u	1	v	1	y	3
+h	a	3	l	4	n	1	o	6	r	1	u	2
+i	 	1
+j	√	1	a	5	e	11	i	4	s	2
+k	 	3	a	5	d	2	o	10	r	1	t	3	v	1
+l	√	1	e	2	i	1
+m	√	4	a	2	i	1	l	2	n	1	o	2	r	1	u	4	y	3
+n	√	1	ƒ	4	a	13	e	17	i	4	o	3
+o	ƒ	1	≈	1	 	1	b	4	d	5	k	2	l	1	n	1	p	2	s	4	t	1	v	1
+p	√	2	ƒ	1	≈	14	a	2	l	2	o	12	r	6
+r	√	2	a	2	o	4	u	1
+s	√	1	 	2	a	1	e	12	i	5	k	3	l	4	p	3	s	1	t	12	u	1	v	7
+t	√	1	ƒ	2	a	9	e	2	i	1	l	1	o	6	u	4	v	3	y	1
+u	c	1	d	3	h	1	p	3	s	1	t	3	v	5
+v	ƒ	6	≈	4	 	4	e	5	i	3	l	1	y	6	z	4
+z	√	3	≈	1	 	2	a	9	d	1	e	1	l	4	m	1	o	1	p	2	t	1	u	2	v	1
+√	∫	3
+ƒ	å	1	ç	2
+≈	à	1	ô	4	†	2	°	2	Ω	1	æ	6
+‚	Ä	225
+  	 	10	O	1
+19	3	1
+A 	H	1	J	1	L	1	b	1	d	5	j	3	k	1	n	4	o	2	p	1	r	1	s	1	v	2
+Al	c	1	e	17
+A≈	•	1
+Bo	≈	1	h	2
+By	l	5
+Ce	l	2
+Ch	l	4	u	1	v	2
+Ci	k	1
+Co	 	1
+Cy	r	2
+Do	 	1	m	1	p	1
+Du	p	1
+Dv	e	1
+Dy	b	1
+D√	°	1
+Dƒ	õ	1
+Fa	n	5
+HO	R	1
+Ha	d	2
+He	k	3
+Hl	√	1
+Hn	√	1	a	1	e	1
+Ho	p	1
+Hr	√	1
+Ja	k	1	r	1
+Je	≈	1	d	1	h	1	j	1	n	5	z	1
+Ji	≈	1	s	1
+Jo	≈	1	h	2	z	1
+K 	ƒ	1
+Ka	≈	2	r	3
+Kd	o	1	y	4
+Kl	i	1	u	2
+Ko	n	5
+Le	≈	1	h	1
+Lo	j	4
+Ma	≈	1	l	1	m	1
+Mi	n	1
+Mn	ƒ	1
+M√	°	1
+Mƒ	õ	1
+Na	 	4	d	1	p	1
+Ne	≈	1	b	3	c	1	d	2	j	1	p	1	z	1
+No	h	1	v	1
+N√	°	1
+Nƒ	õ	3
+Ob	e	1	r	1
+Od	 	1	b	1	p	1
+Ol	d	1
+Op	a	2	r	1
+Os	t	1
+Ot	e	2
+Ov	≈	1
+Pa	k	1	n	3
+Pe	s	1	t	5
+Pl	√	1
+Po	 	1	d	2	j	4	s	3	t	1
+Pr	√	2	o	2	u	1
+P≈	ô	6	Ø	1
+Ro	z	2
+Ru	d	3
+Ry	c	2
+R√	°	1
+ST	√	1
+Sb	o	1
+Se	v	1
+Sl	a	1	u	1
+Sn	a	1
+So	t	2
+St	a	5	o	1	r	1
+S√	°	1
+Ta	k	2	t	2
+Tl	u	1
+To	≈	1	 	5	h	1	n	13
+Tu	 	1
+T√	©	1
+Tƒ	õ	1
+U 	k	1	s	2
+Uk	a	1
+Ut	√	1	e	1
+V 	P	1	T	1	c	1
+Va	j	1
+Ve	 	2	l	1
+Vp	a	1
+Vr	√	2
+Vt	o	1
+Vy	≈	3
+Vz	a	1	p	1
+V√	≠	2
+V≈	°	6	æ	2
+Za	 	2	h	1	s	1
+Zb	√	1
+Zl	o	1
+Z≈	Ø	1
+[*	 	1
+a 	ƒ	1	P	1	d	1	h	1	n	2	t	1
+ab	y	5
+al	e	3
+as	p	1
+a≈	•	1
+be	z	1
+bi	ƒ	1
+bl	√	1
+bo	u	1
+br	a	1
+bu	d	3
+by	 	6	l	6
+b≈	ô	1
+ce	l	2
+ch	l	1	m	1	o	1	t	2	v	1	y	1
+ci	k	1
+co	 	3
+da	r	1
+di	v	1
+do	 	4	m	1	s	1
+dr	a	1
+du	c	1
+dv	a	1
+dy	b	1	c	1	t	1
+d√	≠	1
+dƒ	õ	2
+d≈	ô	1
+ha	d	1	m	1	r	1
+hl	a	2	e	1	u	1
+hn	e	1
+ho	 	2	d	1	r	3
+hr	u	1
+hu	s	2
+i 	d	1
+ja	k	5
+je	 	2	d	3	j	2	n	4
+ji	≈	2	c	1	s	1
+js	e	1	i	1
+j√	°	1
+k 	n	2	s	1
+ka	≈	1	b	2	l	1	m	1
+kd	o	1	y	1
+ko	ƒ	1	l	2	n	3	t	1	u	3
+kr	√	1
+kt	e	3
+kv	ƒ	1
+le	b	1	d	1
+li	d	1
+l√	°	1
+ma	j	1	l	1
+mi	n	1
+ml	ƒ	2
+mn	ƒ	1
+mo	c	1	d	1
+mr	√	1
+mu	 	3	,	1
+my	≈	1	!	1	d	1
+m√	°	1	≠	3
+na	 	6	b	1	j	1	l	1	p	3	s	1
+ne	≈	1	 	1	b	3	h	1	j	2	m	1	n	1	o	1	p	3	s	1	v	2
+ni	c	2	k	2
+no	c	1	h	2
+n√	≠	1
+nƒ	õ	4
+o 	s	1
+ob	ƒ	1	c	2	r	1
+od	 	1	d	1	p	1	v	2
+ok	a	1	n	1
+ol	o	1
+on	o	1
+op	a	1	r	1
+os	m	1	u	1	v	1	y	1
+ot	e	1
+ov	l	1
+oƒ	ç	1
+o≈	°	1
+pa	s	2
+pl	√	1	a	1
+po	≈	1	d	1	h	2	m	1	n	1	s	3	t	1	v	1	z	1
+pr	√	1	o	5
+p√	°	2
+pƒ	õ	1
+p≈	ô	14
+ra	d	1	n	1
+ro	z	4
+ru	k	1
+r√	°	2
+s 	n	1	v	1
+sa	 	1
+se	 	9	b	1	d	1	m	1
+si	 	3	!	1	l	1
+sk	o	3
+sl	√	2	o	2
+sp	a	2	l	1
+ss	e	1
+st	a	1	o	2	r	9
+su	k	1
+sv	√	2	ƒ	3	o	2
+s√	°	1
+ta	j	1	k	4	m	2	t	2
+te	d	1	n	1
+ti	c	1
+tl	a	1
+to	ƒ	1	≈	1	 	3	l	1
+tu	≈	1	 	3
+tv	√	2	r	1
+ty	 	1
+t√	©	1
+tƒ	õ	2
+uc	h	1
+ud	ƒ	2	i	1
+uh	n	1
+up	√	1	≈	1	l	1
+us	k	1
+ut	√	2	r	1
+uv	√	1	ƒ	4
+v 	ƒ	1	n	1	r	1	s	1
+ve	 	1	d	1	l	2	z	1
+vi	d	3
+vl	e	1
+vy	b	1	k	2	t	2	v	1
+vz	d	1	k	1	p	2
+vƒ	ç	3	õ	3
+v≈	ô	1	°	2	æ	1
+z 	d	1	n	1
+za	≈	1	 	1	b	1	h	1	k	1	s	1	t	2	v	1
+zd	r	1
+ze	m	1
+zl	√	1	o	3
+zm	o	1
+zo	u	1
+zp	√	2
+zt	r	1
+zu	≈	1	b	1
+zv	l	1
+z√	°	2	≠	1
+z≈	Ø	1
+√∫	s	2	t	1
+ƒå	a	1
+ƒç	a	1	l	1
+≈à	a	1
+≈ô	e	4
+≈†	l	1	t	1
+≈°	e	1	l	1
+≈Ω	b	1
+≈æ	√	1	e	4	i	1
+‚Ä	î	2	û	223
+   	≈	1	 	18	H	3	K	1	N	1	O	2	T	1	U	1
+  H	a	1	l	1	o	1
+  K	o	1
+  N	a	1
+  O	L	1	b	2
+  T	o	1
+  U	 	1
+  s	l	1
+  ≈	†	1
+ (d	ƒ	1
+ .		9
+ . 	≈	2	.	41	A	1	K	1	T	1	a	9	c	1	d	1	j	2	n	2	p	2	s	1	t	1	v	2	z	1
+ .‚	Ä	4
+ A 	≈	2	b	2	c	5	d	3	h	1	i	1	j	5	k	5	m	2	n	2	p	8	s	1	t	3	u	1	v	2	z	4
+ Ab	y	2
+ Ac	h	1
+ Aj	 	1
+ Al	e	38
+ An	i	1
+ As	p	1
+ A≈	•	2	æ	4
+ Ba	 	1
+ Be	z	2
+ Bl	e	1
+ Bo	≈	1	h	9
+ Br	a	1	n	1
+ Bu	c	1	r	1
+ By	l	11
+ B√	≠	1
+ Bƒ	õ	2
+ CI	H	1
+ Ce	l	4
+ Ch	l	2	t	1	y	1
+ Co	≈	2	 	4	?	1
+ Cy	r	8
+ Da	l	1
+ Dn	e	5
+ Do	 	1	m	1	t	1
+ Dy	≈	1	b	3
+ D√	≠	2
+ Dƒ	ö	1	õ	4
+ D≈	ô	1
+ Em	i	1
+ Fa	n	20
+ Fe	r	6
+ Gd	e	1
+ Ha	d	2	n	1	t	1
+ He	d	1	k	10
+ Hl	√	1	a	1	u	1
+ Hn	e	2
+ Ho	r	2
+ Hr	√	1	b	2	o	1
+ Hu	s	1
+ H√	°	1
+ Id	e	1
+ Ig	n	9
+ JI	N	1
+ Ja	k	11
+ Je	≈	4	 	5	d	1	h	3	j	2	n	13
+ Ji	n	1	s	3
+ Jo	≈	1	h	1	z	13
+ Js	o	1
+ J√	°	3
+ K 	o	1
+ Ka	≈	1	r	19
+ Kd	o	4	y	16
+ Ke	 	1	r	2
+ Kl	e	5	u	1
+ Ko	≈	1	l	2	n	2
+ Kr	o	1
+ Ku	n	1
+ K≈	ô	1	Ø	1
+ Le	d	4	t	1
+ Li	d	1
+ Lo	j	14
+ Ma	≈	7	l	1	m	3	r	3	s	1	t	1
+ Me	d	1
+ Mi	l	1
+ Ml	ƒ	1	u	1
+ Mo	h	2	z	2
+ Mu	≈	1	s	4
+ My	≈	1
+ M√	°	1	≠	1
+ Mƒ	õ	3
+ NA	K	1
+ Na	≈	1	 	10	d	2	h	1	p	1
+ Ne	≈	2	,	4	b	6	m	4	r	4	v	1	z	1
+ Ni	c	1
+ Nm	u	1
+ No	,	2	v	5
+ Nu	,	2
+ Ny	n	3
+ Nƒ	õ	1
+ O 	n	1	t	1
+ OL	.	1
+ OM	E	1
+ Ob	l	1	r	1	s	1
+ Od	 	2	n	1
+ Oh	!	2	,	4
+ Ok	o	1
+ Ol	d	13
+ Op	a	1	l	1	r	2
+ Os	m	1	t	5
+ Ot	√	1	e	2	v	2
+ Oƒ	ç	2
+ PO	V	1
+ PR	A	1
+ Pa	n	6	v	1
+ Pe	p	1	t	33
+ Pl	o	1
+ Po	ƒ	1	≈	1	b	1	c	1	d	4	h	2	j	2	l	2	m	1	n	1	s	3	t	1
+ Pr	a	2	o	5
+ Ps	a	1
+ Pu	s	1
+ P√	°	1
+ Pƒ	õ	1
+ P≈	ô	10	Ø	1
+ Ra	d	1
+ Ro	z	3
+ Ru	d	13
+ Ry	c	2
+ R√	°	4
+ S 	k	1	t	1
+ Se	≈	1	d	1	k	1
+ Sk	l	1	r	1
+ Sl	√	1	u	1
+ Sm	ƒ	1
+ So	t	2
+ Sr	d	1
+ St	√	2	a	3	r	1
+ Sv	√	1
+ Ta	h	1	k	6	m	1	t	1
+ Te	ƒ	3	n	4	r	2
+ Ti		1	c	1	h	1
+ To	≈	1		2	 	13	m	1	n	38	s	1	t	1
+ Tr	o	1
+ Tu	≈	1	 	1
+ T√	∫	1
+ T≈	ô	1
+ U 	b	1	s	1	t	1	v	1
+ Ul	o	1
+ Up	r	1
+ Us	t	1
+ Ut	e	1
+ V 	ƒ	1	P	1	d	2	h	1	j	1	p	2	r	1	z	1
+ Va	≈	2	l	1	v	1
+ Vc	h	2
+ Ve	 	2	h	1
+ Vi	d	1
+ Vl	a	3
+ Vr	b	2
+ Vt	o	1
+ Vy	≈	2	h	1	k	1	r	1	s	4	t	2
+ V√	≠	3
+ Vƒ	õ	1
+ V≈	°	13	æ	8
+ Za	 	4	k	1	m	1	v	2
+ Zb	i	1
+ Zd	√	2	a	1	e	1
+ Ze	 	1	r	2
+ Zl	o	1
+ Zm	o	1
+ Zn	e	1
+ Zo	u	1
+ Zv	e	1	l	1
+ Z√	°	1	≠	1
+ Z≈	Ø	1
+ a		13
+ a 	ƒ	2	≈	5	‚	2	B	1	C	1	F	1	J	1	K	1	M	2	O	1	R	1	T	1	a	3	b	4	c	6	d	12	h	6	j	9	k	7	l	2	m	8	n	17	o	6	p	25	r	3	s	14	t	8	u	5	v	12	z	11
+ ab	y	26
+ ac	h	1
+ ah	a	1
+ aj	 	1
+ al	e	56
+ an	e	1	i	29	o	2
+ as	i	1	p	6
+ a≈	•	5	æ	17
+ ba	≈	1	 	1	l	1	r	2
+ be	s	1	z	16
+ bi	l	1	t	1
+ bl	√	12	e	6	o	1
+ bo	≈	1	h	3	t	1	u	12
+ br	a	6	e	1	u	6	z	2
+ bu	ƒ	1	c	2	d	30	j	1	r	1
+ bv	c	1
+ by		6	 	56	c	7	l	86	s	9
+ b√	°	2	≠	2	∫	1	Ω	10
+ bƒ	õ	4
+ b≈	ô	7	Ø	2
+ ce	l	19	n	1	s	3
+ ch	≈	1	a	1	c	11	l	33	o	3	r	2	t	21	u	6	v	18	y	10
+ ci	k	14	z	2
+ co		3	 	35	,	8	?	5	p	1	s	2
+ cu	k	1	r	1
+ cv	i	1
+ c√	≠	1
+ da	≈	1	j	1	l	20	t	1
+ de	c	3	n	4	s	3
+ di	v	14
+ dl	a	3	o	12
+ dn	√	1	e	20	y	3
+ do	≈	1		3	 	76	b	24	c	1	d	2	j	4	k	4	l	7	m	22	n	1	p	4	r	3	s	23	t	2	v	5
+ dr	√	1	≈	3	a	1	u	7	z	1
+ du	≈	1	c	2	p	1
+ dv	√	1	ƒ	9	≈	7	a	22	e	11	o	10
+ dy	≈	2	b	5
+ d√	°	21	©	1	≠	13	≥	1	Ω	1
+ dƒ	õ	34
+ d≈	ô	4	Ø	3
+ el	e	2
+ en	o	3
+ e≈	°	7
+ fl	i	1
+ gd	e	7
+ gu	m	1
+ ha	d	4	j	1	l	1	m	2	n	2	r	1
+ he	j	1	n	2	r	1	z	1
+ hl	√	4	a	40	e	2	o	2	u	2
+ hn	√	1	a	2	e	8
+ ho	≈	2		3	 	40	!	3	,	1	.	3	?	1	c	1	d	15	l	1	n	2	r	4	s	3	t	8	u	1
+ hr	√	5	≈	1	a	2	d	3	e	2	k	1	n	5	o	7	u	1	y	1
+ hu	s	9
+ hy	b	1
+ h√	°	1
+ h≈	ô	3	Ø	1
+ i 	ƒ	1	J	1	b	2	c	1	d	2	k	4	l	1	o	2	p	3	s	1
+ id	√	1	e	2	u	1
+ ih	n	2
+ is	t	1
+ ja	b	1	k	60	s	1
+ jd	e	3	i	1
+ je	ƒ	1	≈	20		2	 	50	!	1	,	4	-	2	.	1	?	4	d	26	h	25	j	16	l	1	n	28	t	1	z	2
+ ji	≈	48		1	 	6	c	12	m	21	n	6	s	9	z	7
+ js	e	7	i	3	m	2	o	12
+ j√	°	15	≠	15
+ k		2
+ k 	‚	1	H	1	N	1	P	1	V	1	b	2	d	1	h	1	n	14	o	2	p	1	t	6	v	8	z	3
+ ka	≈	14	b	2	l	1	m	13	p	3
+ kd	e	9	o	6	y	38
+ ke		1	 	17	j	1	r	1
+ kl	√	7	a	2	e	4	i	2	u	5	z	1
+ km	o	1
+ ko	≈	12	h	2	l	7	m	13	n	21	p	4	r	4	s	5	u	3	v	1
+ kr	√	10	a	4	e	1	k	1	m	1	o	7	u	1	v	1
+ kt	e	34
+ ku	 	1	c	4
+ kv	e	1
+ ky	s	1
+ k√	°	8	∫	1	Ω	1
+ k≈	ô	12	Ø	13
+ la	m	1	v	2
+ le	≈	6	b	1	d	12	h	2	k	7	n	1	s	3	t	4	v	2
+ lh	a	1	o	1
+ li	d	11	s	1
+ lo	u	2	z	1
+ lu	p	1
+ l√	°	8	©	2	≠	5
+ l≈	Ø	1
+ ma	j	4	l	12	m	5	r	2	s	1	t	2
+ me	t	3	z	3
+ mi	m	1	s	1
+ ml	√	4	ƒ	1	a	1	u	3
+ mn	√	2	ƒ	5	e	2	o	1
+ mo	≈	13	c	1	d	4	h	13	j	1	s	2	t	1	u	1
+ mr	≈	4	a	2	k	2
+ mu	≈	3		8	 	45	,	3	k	2	s	9
+ my	≈	5		1	 	2	!	1	s	9
+ m√	°	25	≠	14
+ mƒ	õ	22
+ m≈	Ø	4
+ na	≈	6		13	 	144	b	1	c	1	d	10	f	1	h	1	j	2	k	1	l	2	m	1	n	1	p	14	s	6	t	4	v	2	z	1
+ ne	ƒ	1	≈	15		3	 	2	!	1	,	3	.	1	?	4	b	38	c	24	d	21	g	1	h	4	j	23	k	4	m	25	n	11	o	5	p	24	r	3	s	14	t	5	u	8	v	20	z	17
+ ni	ƒ	1	≈	1	c	22	k	10	m	7
+ no	 	1	,	4	c	10	h	8	v	8
+ ny	n	3
+ n√	°	30	©	2	≠	17	Ω	2
+ nƒ	õ	99
+ n≈	Ø	1
+ o		2
+ o 	d	2	h	1	j	2	m	1	n	6	p	4	r	1	s	1	t	7
+ ob	√	2	ƒ	5	a	1	c	2	e	1	h	1	j	5	l	7	o	1	r	3	s	1	y	1
+ od		1	 	15	b	1	c	2	d	2	e	2	h	4	j	1	k	2	m	4	n	1	p	9	s	5	v	4
+ oh	l	2	r	1
+ oj	i	1
+ ok	a	6	e	1	n	4	o	11
+ ol	o	1
+ om	r	2
+ on	 	6	!	1	.	1	e	1	i	1	o	1	y	1
+ op	√	2	ƒ	3	≈	2	a	3	e	1	o	1	r	16
+ os	m	1	t	9
+ ot	√	2	e	5	l	1	o	4	r	1	v	1
+ ov	ƒ	1	≈	2
+ oz	√	1	d	1	n	1	v	4
+ oƒ	ç	27
+ o≈	ô	1	æ	1
+ pa	c	1	d	4	k	3	n	13	s	4	t	3
+ pe	l	2	n	9	s	6	v	1
+ pl	√	4	a	1	n	1	o	7	u	1
+ po	ƒ	10	≈	3		8	 	23	b	8	c	5	d	26	h	12	j	13	k	10	l	14	m	15	n	2	p	1	s	18	t	20	u	2	v	8	z	8
+ pr	√	18	≈	1	a	13	o	43	r	1	s	3	u	12	v	3	y	6
+ ps	a	2	i	2
+ pt	√	2
+ pu	≈	3	j	1	s	6
+ py	≈	1
+ p√	°	5
+ pƒ	õ	18
+ p≈	ô	114	Ø	10
+ ra	c	1	d	10	i	1	n	4
+ re	v	2	z	1
+ ro	h	1	k	3	l	1	u	1	v	4	z	33
+ rt	≈	2
+ ru	c	4	d	1	k	12
+ ry	b	6	c	16
+ r√	°	16	Ω	3
+ s		2
+ s 	ƒ	1	≈	1	‚	1	B	1	F	1	R	2	c	3	d	2	h	3	j	3	k	1	l	1	m	4	n	9	p	2	t	6	v	3
+ sa		1	 	22	!	2	,	2	h	1	m	7	s	2
+ sc	h	2
+ sd	ƒ	1
+ se	≈	1		21	 	293	,	4	.	4	b	18	d	5	j	2	m	17	n	5	s	1	t	2	v	3
+ sh	√	1	o	2	r	3
+ si		6	 	78	!	2	,	1	.	1	c	9	l	5	s	2
+ sk	√	3	≈	2	a	1	l	5	o	4	r	2	u	1
+ sl	√	4	a	6	e	2	o	6	u	4	y	5	z	3
+ sm	√	8	ƒ	8	e	4	r	2	u	3
+ sn	√	6	a	4	e	1
+ so	b	4	t	4	u	11
+ sp	√	9	ƒ	3	a	8	l	2	o	3	r	3	u	2
+ sr	d	1
+ st	√	11	ƒ	1	≈	4	a	36	e	7	i	2	m	1	o	21	r	42	u	1	y	1
+ su	 	2	k	2	r	1
+ sv	√	20	ƒ	14	e	2	o	3	r	1
+ sy	ƒ	1	n	3
+ s√	°	14	≠	8	∫	9
+ ta	≈	1	 	2	h	3	j	2	k	94	m	37	t	12
+ te	ƒ	8	b	2	d	4	h	3	m	3	n	25	p	6	t	1
+ ti	≈	2		1	 	16	,	2	c	9	h	1	s	8
+ tl	o	2	u	3
+ tm	a	1
+ to	≈	9		4	 	108	,	5	.	1	?	3	b	3	h	15	l	2	m	24	n	1	t	3
+ tr	√	1	ƒ	1	a	1	e	2	h	5	o	9	u	2
+ tu	≈	1	 	23	!	2	,	1	l	2	p	1
+ tv	√	6	o	1	r	3
+ ty		1	 	11	,	2
+ t√	°	1	©	10	≠	4	Ω	2
+ tƒ	õ	17
+ t≈	ô	19
+ u		1
+ u 	H	1	K	1	b	3	d	2	k	2	n	10	p	2	s	3	v	2
+ ub	o	1
+ uc	√	4	h	6	p	1	t	1
+ ud	√	1	ƒ	8	r	1
+ uj	√	3
+ uk	√	4	a	4	l	2	r	4
+ ul	i	1	o	2
+ um	√	2	y	2
+ up	≈	3	r	1
+ ur	ƒ	1
+ us	c	1	k	2	m	6	n	3	p	1	t	3
+ ut	√	5	a	1	e	3	v	1
+ uv	√	1	a	1	i	5
+ uz	a	1	e	1
+ uƒ	ç	2
+ u≈	°	5	æ	27
+ v		3
+ v 	√	1	≈	1	P	2	b	2	c	2	d	3	j	2	k	3	l	1	m	2	n	7	o	3	p	7	r	1	s	2	t	11	z	3
+ va	≈	3	h	1	j	3	l	1
+ ve	ƒ	8	≈	1	 	16	d	3	j	1	l	15	m	1	n	4	s	5	v	1	z	2
+ vi	d	5	s	1
+ vj	e	2
+ vl	√	1	ƒ	1	a	4	e	1	k	2
+ vn	i	1
+ vo	d	6	j	1	l	3	s	1	u	1
+ vp	a	2
+ vr	√	4	≈	1	a	6	b	1	h	1	o	1
+ vs	t	3	u	1
+ vt	o	1
+ vy	ƒ	1	≈	15	 	4	b	1	c	1	d	5	h	10	j	3	k	10	l	3	m	1	n	1	p	8	r	6	s	13	t	11
+ vz	a	4	b	1	d	3	e	1	h	1	k	1	l	1	n	1	p	7	r	1	t	3
+ v√	°	19	≠	21	Ω	17
+ vƒ	ç	9	õ	12
+ v≈	°	33	Ø	3	æ	8
+ z 	ƒ	1	B	1	b	1	c	1	d	2	h	1	j	1	k	2	m	1	n	3	o	2	p	1	t	4	v	3
+ za	√	1	ƒ	11	≈	8		2	 	33	b	13	c	7	d	6	h	20	j	9	k	7	m	5	n	2	p	10	r	8	s	35	t	11	v	14	z	4
+ zb	a	2	i	1	l	1	u	1	y	1
+ zd	√	2	ƒ	4	a	2	e	1	i	1	r	1
+ ze	 	9	m	7	p	1	s	3	v	1
+ zi	m	1
+ zk	≈	1	a	2	l	3	r	1	u	2
+ zl	√	3	e	2	o	14
+ zm	√	1	ƒ	1	i	2	o	2	u	1
+ zn	√	2	ƒ	1	a	6
+ zo	u	1
+ zp	√	1	ƒ	2	≈	1
+ zr	√	2	o	1
+ zt	l	1	r	2
+ zu	≈	2	b	2
+ zv	ƒ	4	e	4	l	1	o	3	u	1
+ z√	°	25	≠	2
+ z≈	ô	1	Ø	6
+ √ì	,	1
+ √∫	≈	1	d	1	k	1	l	3	n	2	p	1	r	2	s	4	t	2	z	4
+ ƒå	√	1	e	2	i	2	l	1	t	1
+ ƒç	√	5	a	6	e	20	i	3	l	8	o	5	t	4
+ ≈à	a	1	u	1
+ ≈ò	e	3
+ ≈ô	√	7	a	3	e	19	v	1
+ ≈†	a	6	k	1	l	1	n	2	p	1	r	1	t	2
+ ≈°	√	2	≈	1	a	3	e	6	i	3	k	9	l	9	o	1	p	9	r	1	t	10	v	4
+ ≈•	a	2
+ ≈Ω	a	3	e	6	i	1	r	1
+ ≈æ	√	8	a	1	e	85	i	13	r	1
+ ‚Ä	î	136	ö	1	û	68
+!	‚	1		16	A	3	C	1	N	1	O	1	R	1	S	1	Z	1
+! A	≈	2	 	14	l	7
+! B	y	1
+! C	e	1
+! D	≈	1	n	1	o	1	y	2
+! H	√	1	a	1	l	1	n	1	r	1
+! I	d	1
+! J	√	1	a	3	i	1
+! K	 	1	a	1	d	4	o	1
+! L	e	1
+! M	a	1	e	1	o	1	u	1
+! N	ƒ	1	a	2	e	2	o	1	y	1
+! O	 	1	h	2	l	1	s	2
+! P	≈	2	a	1	o	1	r	2
+! R	y	1
+! S	 	1	t	1
+! T	a	3	e	2	i	1	o	5
+! U	 	1
+! V	√	1	≈	6	i	1	y	1
+! Z	√	1	a	2
+! a	 	1
+! r	√	1
+! ‚	Ä	3
+!!!	‚	1
+!!‚	Ä	1
+!‚Ä	ú	84
+(dƒ	õ	1
+) ‚	Ä	1
+* S	t	1
+*]!	‚	1
+,	≈	5	‚	1	T	1	a	7	b	2	c	1	d	2	h	2	j	6	k	7	l	1	n	2	o	6	p	6	s	3	t	3	u	1	v	2	z	4
+, B	o	1
+, F	e	2
+, H	r	2
+, I	g	1
+, J	e	1
+, K	a	1
+, L	o	1
+, M	a	4
+, P	e	2
+, T	o	3
+, a	≈	8		1	 	10	b	23	h	1	l	48	n	5	s	1
+, b	√	3	a	1	e	1	r	1	u	1	y	4
+, c	e	1	h	17	i	1	o	21	u	1
+, d	√	2	ƒ	3	≈	1	a	1	i	1	l	1	n	1	o	7	v	8	y	3
+, e	≈	1	l	1
+, g	d	4
+, h	a	4	e	1	l	2	o	2	r	1	y	1
+, i	 	2
+, j	√	4	a	23	e	12	i	2	s	1
+, k	 	3	a	7	d	32	e	2	l	2	o	3	t	33
+, l	√	1	e	5	i	1	o	2
+, m	√	4	ƒ	1	a	2	o	3	u	3
+, n	√	3	a	12	e	38	i	4	o	5
+, o	ƒ	2	 	3	b	1	d	4	l	1	m	1	n	1	p	1	s	1
+, p	ƒ	2	≈	7	a	2	o	19	r	14	u	1
+, r	√	1	a	1	e	1	u	2	y	1
+, s	 	1	a	1	e	5	k	2	l	5	m	1	n	1	o	2	p	3	t	11	v	1	y	2
+, t	≈	3	a	21	e	7	i	3	l	1	o	22	r	3	u	3	v	1	y	3
+, u	≈	5	 	1	d	1	k	1	s	1	t	1	v	2
+, v	√	3	≈	6	 	3	e	2	i	1	j	1	l	1	p	1	r	1	y	10	z	1
+, z	√	1	≈	1	a	12	d	1	e	1	k	2	l	3	p	1	r	1
+, ƒ	ç	5
+, ≈	ô	2	°	5	Ω	1	æ	74
+, ‚	Ä	11
+,‚Ä	ú	29
+-li		3	 	13
+.	‚	1		230	A	3	B	3	D	3	H	1	J	4	K	3	N	9	P	3	R	1	S	3	T	2	U	2	V	2	Z	3	a	1	c	1	d	1	n	2
+. .	‚	4		9	 	67
+. A	≈	4	 	27	b	1	c	1	l	25	s	1
+. B	ƒ	2	a	1	e	2	o	3	r	1	y	10
+. C	I	1	e	3	h	4	o	5	y	2
+. D	√	2	ƒ	4	n	4	o	2	y	1
+. F	a	2
+. G	d	1
+. H	a	1	e	2	l	1	n	1	r	1	u	1
+. I	g	1
+. J	a	4	e	16	i	2	o	3	s	1
+. K	≈	1	a	6	d	12	e	2	l	2	o	2	r	1
+. L	e	4	o	3
+. M	√	2	ƒ	3	a	4	l	2	o	1	u	4	y	1
+. N	a	10	e	12	i	1	m	1	u	2	y	1
+. O	ƒ	2	 	1	M	1	b	1	d	3	h	3	l	5	p	3	s	4	t	3
+. P	ƒ	1	≈	8	a	5	e	2	l	1	o	12	r	5	s	1	u	1
+. R	√	3	a	1	o	2	u	1	y	1
+. S	 	1	e	3	k	1	l	2	m	1	o	1	r	1	t	4	v	1
+. T	a	4	e	5	i	2	o	18	r	1	u	1
+. U	 	2	l	1	p	1	t	1
+. V	√	1	≈	13	 	8	a	1	c	2	e	3	y	7
+. Z	√	1	≈	1	a	5	d	3	e	1	l	1	m	1	n	1	o	1	v	2
+. a	 	7	l	2
+. c	h	1
+. d	o	1
+. j	e	2
+. n	ƒ	1	a	1
+. p	√	1	o	1
+. s	y	1
+. t	o	1
+. v	≈	1	y	1
+. z	a	1
+. ƒ	å	2
+. ≈	ò	3	†	8	°	2	Ω	6
+. ‚	Ä	14
+.]		1
+.‚Ä	ú	32
+193	5	1
+35		1
+5		1
+935		1
+:	‚	2		4
+: K	d	1
+: R	√	1
+: b	u	1
+: j	e	1
+: k	o	1
+: r	√	2
+: s	√	1
+: ‚	Ä	9
+?		8	M	1	P	1	V	1
+? A	 	6	b	1	j	1	l	4
+? C	o	2
+? D	a	1	y	1
+? F	e	1
+? J	√	2	a	4	e	1	i	1
+? K	≈	1	d	3	e	1	o	1
+? M	o	1
+? N	a	2	e	4	o	2
+? O	k	1
+? P	o	2
+? R	o	1
+? S	o	1
+? T	√	1	a	2	o	2
+? V	√	1	≈	1	 	1	r	1	y	1
+? Z	a	1	b	1	d	1
+? √	ì	1
+? ƒ	å	4
+? ≈	†	1	Ω	2
+? ‚	Ä	1
+?! 	N	1	V	1
+?‚Ä	ú	69
+A		2
+A H	e	1
+A J	I	1
+A L	o	1
+A b	a	1	e	1	y	1
+A c	i	1	o	7
+A d	ƒ	1	a	2	n	2	o	3
+A g	d	1
+A h	e	1	n	1
+A i	 	1
+A j	√	3	a	3	e	2	i	4
+A k	a	1	d	6	e	1	o	1
+A m	√	1	n	1	o	2
+A n	e	5	i	1	y	2
+A o	 	1	d	1	n	1
+A p	√	1	≈	2	a	2	e	1	o	4	r	1
+A r	y	1
+A s	√	1	t	2
+A t	a	2	e	2	o	1	y	1
+A u	≈	1
+A v	√	1	ƒ	1	e	1	t	1	y	1
+A z	a	2	e	1	v	1
+A ƒ	ç	1
+A ≈	ô	3
+ADA	T	1
+AKL	A	1
+ATE	L	1
+AZE		1
+Aby	s	2
+Ach	,	1
+Aj 	b	1
+Alc	 	1
+Ale		1	 	63
+Ani	 	1
+Ano	!	2
+Asp	o	1
+A√°	√	1
+A≈•	 	2	!	1
+A≈æ	 	4
+Ba 	a	1
+Bez	 	2
+Ble	c	1
+Boh	u	11
+Bo≈	æ	2
+Bra	n	1
+Brn	a	1
+Buc	h	1
+Bud	e	3
+Bur	d	1
+Buƒ	è	1
+Byl	 	7	a	2	o	5	y	2
+B√≠	l	1
+Bƒõ	h	2
+CIH	E	1
+Cel	√	5	o	1
+Chl	a	8
+Cht	ƒ	1
+Chu	d	1
+Chv	√	1	i	2
+Chy	≈	1	t	1
+Cik	√	1
+Co 	b	2	c	1	j	5	m	1	s	2	t	1	v	1
+Co?	‚	1	 	2
+Co≈	æ	2
+Cyr	i	10	o	2
+DAT	E	1
+DIN	√	1
+DKY		1
+Dal	 	1
+Dne	s	5
+Do 	o	1	t	1
+Dob	r	4
+Dom	a	2
+Dop	a	1
+Dos	t	1
+Dot	k	1
+Dup	o	1
+Dve	≈	1
+Dyb	y	4
+Dy≈	æ	3
+D√°	v	1
+D√≠	v	2
+Dƒö	D	1
+Dƒõ	t	2	v	3
+D≈ô	√	1
+E		1
+E D	ƒ	1
+ELK	A	2
+ELS	T	1
+Emi	l	1
+Eno	m	1
+F. 	O	1
+Fan	e	15	k	12
+Fer	d	6
+Gde	 	2
+HEL	K	1
+HOR	E	1
+Had		2	 	2
+Ham	,	1
+Han	ƒ	1
+Hat	a	1
+Hed	v	1
+Hek	t	16
+Her	≈	1
+Hla	s	1
+Hlu	b	1
+Hl√	≠	2
+Hm 	‚	1
+Hm,	 	1
+Hna	l	1
+Hne	d	3
+Hn√	≠	1
+Hop	!	1
+Hor	√	1	≈	1	e	2
+Hrb	√	2
+Hre	j	1
+Hro	m	2
+Hr√	°	2
+Hur	√	1
+Hus	y	1
+H√°	t	1
+IHE	L	1
+IN√	â	1	ö	1
+Ide	≈	1	m	1
+Ign	√	9
+JIN	√	1
+Ja 	t	1
+Ja,	 	1
+Ja.	 	1
+Jak		1	 	10	?	2	o	2
+Jar	n	1
+Je 	p	1	s	1	t	3
+Jed	e	1	i	1
+Jeh	o	4
+Jej	i	3
+Jen	 	2	d	16	o	2
+Jez	d	1
+Je≈	°	2	æ	3
+Jin	√	1
+Jis	t	4
+Ji≈	æ	1
+Joh	a	3
+Joz	a	13	o	2
+Jo≈	æ	2
+Jso	u	1
+Jst	e	1
+J√°	 	11	!	1	,	1	?	1
+J√©	j	1
+K o	b	1
+K ƒ	ç	1
+KA		2
+KLA	D	1
+KY		1
+Kar	e	18	l	5	p	1
+Ka≈	æ	3
+Kdo	 	4	s	1	v	1
+Kdy	≈	11	b	9
+Ke 	k	1
+Ker	√	2
+Ke≈	ô	1
+Kle	ƒ	4	k	1
+Kli	m	1
+Klu	c	5
+Kol	i	2
+Kon	√	2	ƒ	1	e	4
+Ko≈	æ	1
+Kro	m	1
+Kun	d	1
+K≈ô	e	1
+K≈Ø	≈	1
+L. 	C	1
+LAD	A	1
+LKA		2
+LST	V	1
+Led	 	4
+Leh	l	1
+Let	o	1
+Le≈	æ	1
+Lid	a	1
+Loj	z	18
+Ly≈	æ	1
+MEL	K	1
+Mal	√	2
+Mam	i	5	k	1
+Mar	i	1	n	1	t	1
+Mas	a	1
+Mat	o	1
+Ma≈	ô	9
+Med	o	1
+Mil	o	1
+Min	u	1
+Mlu	v	1
+Mlƒ	ç	1
+Mnƒ	õ	1
+Moh	l	2
+Moz	o	2
+Mo≈	æ	1
+Mus	√	4	i	1
+Mu≈	æ	1
+My 	d	1
+Mys	l	1
+My≈	°	1
+M√°	≈	2	v	1
+M√≠	s	1
+Mƒõ	l	4
+NAK	L	1
+Na 	ƒ	1	≈	2	c	2	j	1	k	2	l	2	p	2	r	1	s	1	t	2
+Nad	ƒ	1	a	2
+Nah	√	1
+Nap	≈	1	j	1
+Nat	e	1
+Na≈	°	1
+Ne!	‚	1
+Ne,	 	4
+Ne?	‚	1
+Neb	o	5	y	6
+Nec	√	1
+Ned	a	2
+Neh	r	1
+Nej	r	1
+Nem	ƒ	2	≈	1	o	1
+Nep	o	1
+Ner	o	5
+Nev	ƒ	1
+Nez	b	1	o	1
+Ne≈	°	1	æ	2
+Nic	 	1	!	1
+Nmu	s	1
+No 	h	1	m	1	t	1
+No,	 	12
+Noh	y	1
+Nov	√	1	o	5
+Nu,	 	2
+Nyn	√	3
+N√â	 	1
+N√ç	 	1
+N√ö		1
+N√°	 	1	v	1
+Nƒõ	j	2	k	2
+O n	ƒ	1
+O t	o	1
+OL.	 	1
+OME	L	1
+ORE	 	1
+OV√	ç	1
+Obe	≈	1	j	1
+Obl	√	1
+Obr	√	2
+Obs	a	1
+Od 	b	1	r	1	t	1
+Odb	ƒ	1
+Odn	√	1
+Odp	o	1
+Oh!		1	 	1
+Oh,		1	 	3
+Oko	l	1
+Old	≈	14
+Ond	r	1
+Opa	t	3
+Opl	u	1
+Opo	v	1
+Opr	a	5
+Osm	d	1
+Ost	a	6
+Ote	c	2	v	2
+Otv	√	1	o	1
+Ot√	©	1
+Ov≈	°	1
+Oƒç	i	2
+POV	√	1
+PRA	Z	1
+Pak	 	1
+Pan	√	3		1	 	1	e	5	t	7
+Pav	l	1
+Pep	√	1
+Pes	t	1
+Pet	≈	1	r	37
+Plo	t	1
+Pl√	≠	1
+Po 	c	1
+Pob	u	1
+Poc	h	1
+Pod	√	4		1	 	2
+Poh	l	1	n	1
+Poj	ƒ	1	e	6
+Pol	e	2
+Pom	a	1
+Pon	o	1
+Pos	k	1	l	3	t	2	v	1
+Pot	o	2
+Pov	√	1
+Poƒ	ç	1	è	2
+Po≈	°	1
+Pra	v	2
+Pro	b	1	h	1	j	1	s	3	t	3
+Pru	d	1
+Pr√	°	2
+Psa	 	1
+Pus	t	1
+P√°	n	3
+Pƒõ	t	1
+P≈ô	√	1	e	2	i	14
+P≈Ø	j	2
+RAZ	E	1
+RE 	D	1
+Rad	ƒ	1
+Roz	b	2	e	1	h	1	u	1
+Rud	a	9	o	4	u	3
+Ryc	h	4
+R√°	d	3	z	2
+S L	o	1
+S k	a	1
+S t	a	1
+STV	√	1
+ST√	Å	1
+Sbo	h	1
+Sed	ƒ	1
+Sek	e	1
+Sev	≈	1
+Se≈	°	1
+Skl	o	1
+Skr	ƒ	1
+Sla	d	1
+Sle	z	1
+Slu	n	2
+Sl√	°	2
+Smƒ	õ	1
+Sna	d	1
+Sn√	≠	1
+Sot	v	4
+Sp√	°	1
+Srd	c	1
+Sta	≈	3	r	7
+Sto	u	1
+Str	√	3
+St√	°	4
+Sv√	≠	1
+S√°	m	1
+S√∫	-	1
+TEL	S	1
+TN√	ç	1
+TV√	ç	1
+Tad	y	1
+Tah	n	1
+Tak		1	 	13	,	2	?	1	o	3
+Tam	 	2
+Tat	√	2	i	4	o	1
+Ten	 	5
+Ter	k	2
+Teƒ	è	3
+Ti		1
+Tic	h	1
+Tih	√	1
+Tlu	m	1
+To		2
+To 	T	1	a	1	b	7	j	5	k	1	n	1	p	2	s	2	t	2	u	1	v	1	z	1
+Toh	o	1
+Tom	u	1
+Ton	d	3	e	44	k	3	y	1
+Tos	 	1
+Tot	o	1
+To≈	æ	11
+Tro	c	1
+Tu 	≈	1	s	1
+Tu≈	°	1
+Ty 	b	1	t	1
+T√Å	T	1
+T√©	m	1
+T√∫	 	1
+Tƒõ	≈	1
+T≈ô	e	2
+U b	≈	1
+U k	o	1
+U s	i	1	t	2
+U t	a	1
+U v	√	1
+Uka	z	1
+Ulo	m	1
+Upl	√	1
+Upr	o	1
+Ust	l	1
+Ute	ƒ	1	k	1
+Ut√	≠	1
+U≈æ	 	3
+V P	R	1	e	1
+V T	o	1
+V c	e	1
+V d	ƒ	1	u	1
+V h	o	1
+V j	i	1
+V p	o	1	r	1
+V r	u	1
+V z	a	1
+V ƒ	ç	1
+Vaj	√	1
+Val	e	1
+Vav	r	1
+Va≈	°	2
+Vch	√	1	o	1
+Ve 	s	4
+Veh	n	1
+Vel	i	1
+Vid	√	2	ƒ	1
+Vij	√	2
+Vla	ƒ	3
+Vpa	d	1
+Vrb	a	1	u	1
+Vr√	°	2
+Vto	m	2
+Vy 	s	1
+Vyh	r	1
+Vyk	≈	1
+Vyr	a	1
+Vys	k	4
+Vyt	√	1	r	1
+Vy≈	ô	1	°	4
+Vza	l	1
+Vzp	o	1
+V√ç	 	1	D	1
+V√≠	≈	4	c	1	m	1
+Vƒç	e	1
+Vƒõ	l	1
+V≈°	a	12	e	5	i	3	u	1
+V≈æ	d	10
+Y		1
+ZE		1
+Za 	c	3	d	1	m	1	n	1
+Zah	n	1
+Zak	l	1
+Zam	√	1
+Zas	l	1
+Zav	e	1	r	1
+Zbi	l	1
+Zb√	Ω	1
+Zda	l	1
+Zde	 	1
+Zd√	°	2
+Ze 	≈	1
+Zer	z	2
+Zlo	b	1	d	1
+Zmo	c	1
+Zne	n	1
+Zou	f	1
+Zve	d	1
+Zvl	√	1
+Z√°	v	1
+Z√≠	t	1
+Z≈Ø	s	2
+[* 	S	1
+[*]	!	1
+]		1
+]!‚	Ä	1
+a	√	2	≈	4	‚	1		1	 	1	B	1	J	1	T	2	b	2	c	2	d	2	j	1	m	3	n	5	o	1	p	3	s	6	t	3	v	4	z	3
+a  	s	1
+a B	l	1	o	2
+a C	y	1
+a F	a	1
+a I	g	1
+a J	e	1	o	1
+a K	a	2
+a L	o	1
+a M	a	2
+a N	o	1
+a O	l	1	p	1
+a P	a	1	e	4	o	1
+a R	u	2
+a T	e	1	o	5
+a V	a	1
+a Z	e	1
+a a	≈	1		1	 	12	b	1	n	5
+a b	≈	1	a	1	e	4	l	2	o	2	r	2	u	5	y	10
+a c	e	4	h	15	o	4
+a d	√	4	ƒ	1	≈	2	a	4	l	1	n	3	o	9	r	4	v	15	y	1
+a e	≈	1	n	1
+a h	≈	1	a	1	l	3	n	1	o	10	r	2	u	1
+a i	 	1
+a j	√	1	a	2	d	1	e	22	i	7
+a k	≈	2	 	3	a	3	d	5	l	2	o	11	r	2	t	1
+a l	√	3	a	1	e	5	i	1
+a m	√	6	ƒ	3	≈	1	a	2	e	2	l	1	o	1	r	3	u	4	y	1
+a n	√	8	ƒ	23	a	24	e	18	i	2	o	7
+a o	ƒ	3	 	3	b	2	d	6	j	1	k	5	p	1	s	2	t	3	z	1
+a p	≈	15	a	4	e	1	l	4	o	20	r	14	u	3
+a r	√	1	a	1	o	4	u	2	y	4
+a s	√	4		1	 	8	a	2	e	36	h	2	i	7	k	1	l	5	m	3	n	1	o	1	p	4	t	14	u	1	v	5
+a t	√	1	ƒ	1	≈	2	a	10	e	5	i	4	l	1	o	13	u	2	v	1	y	1
+a u	≈	3	 	2	d	1	j	1	l	1	t	1	v	2
+a v	√	2	ƒ	3	≈	4	 	3	e	4	l	2	o	1	r	1	y	9	z	3
+a z	√	2	≈	1	 	1	a	19	e	3	i	1	l	2	m	1	n	3	p	1
+a √	∫	2
+a ƒ	ç	10
+a ≈	à	2	ô	2	°	9	æ	2
+a ‚	Ä	7
+a!		3
+a! 	A	2	H	2	L	1	N	2	V	1	Z	1	r	1
+a!‚	Ä	8
+a,		2
+a, 	≈	4	F	1	L	1	M	1	a	2	c	1	d	1	i	1	j	2	k	5	l	2	m	2	n	10	p	1	r	1	s	1	t	2	u	1	v	4	z	3
+a,‚	Ä	1
+a.		33
+a. 	≈	3	‚	5	.	7	A	9	C	1	D	1	J	2	K	2	L	1	M	4	N	2	O	1	P	3	R	3	S	1	T	1	V	5	Z	1
+a.‚	Ä	2
+a:		1
+a: 	k	1
+a? 	ƒ	1	≈	1	A	1	J	1	K	2	N	1	P	1	V	1
+a?‚	Ä	3
+ab.	 	1
+aba	l	1	n	1
+abc	≈	1
+abe	 	1	l	1
+abi	j	1	l	1	t	1
+abl	e	3	o	1
+abo	d	1	n	1	u	1
+abr	√	3	a	1
+abu	≈	1
+aby		1	 	28	c	1	s	1
+ab√	°	3	≠	2	Ω	1
+abƒ	õ	1
+ace	t	2
+ach	√	1	 	2	,	2	.	1	:	1	e	2	o	3	r	5	u	1	y	2
+aco	v	1
+acu	j	1
+ad		2
+ad 	‚	1	B	1	V	1	h	1	n	1	r	1	s	1	t	1	z	2
+ad,	 	1
+ad.	 	2
+ad?	‚	1	 	1
+ada	.	3	j	1	l	1	r	5
+adc	e	2
+ade	 	1	m	1	n	1
+adi	.	1	l	7	v	1
+adk	√	6
+adl	 	7	?	1	a	1	i	2	o	4	y	1
+adn	√	6	ƒ	2	e	4	i	1	o	1	u	2
+ado	b	1	s	7	v	1
+adr	≈	1	a	2	o	1
+adu	 	2	,	2	.	1	l	1
+ady	 	3
+ad√	°	3	≠	7
+adƒ	õ	7
+ad≈	°	1
+afn	i	1
+afo	u	1
+ag√	°	2
+ah.		2
+aha	ƒ	5	?	1	l	1	n	2	t	3
+ahe	j	1
+ahl	√	2	a	2	e	1
+ahn	ƒ	1	a	2	e	1
+aho	!	1	c	1	l	2	r	1	u	3	v	1
+ahr	√	3	a	3	o	2
+ahu	ƒ	2	 	1	j	2
+ahy	 	1	?	1
+ah√	°	5
+ah≈	ô	2
+aif	a	1
+ais	e	1
+aj 	f	1	n	1	r	2	s	2
+aj,	 	1
+aj.	 	1
+aja	l	2	t	1
+ajd	e	1	r	2	y	1
+aje	 	4	.	2	d	2	m	3	t	1
+aji	,	1	l	2	s	1
+ajm	o	1
+ajo	v	1
+ajt	e	2
+aju	 	1
+aj√	°	5	≠	24
+ajƒ	ç	5
+ak		9
+ak 	ƒ	1	≈	3	‚	3	P	1	a	1	b	11	c	3	d	14	h	4	j	14	k	3	l	2	m	4	n	10	o	3	p	12	r	3	s	20	t	14	u	2	v	5	z	8
+ak!		2
+ak,	‚	1	 	8
+ak?	‚	2		1	 	1
+aka	≈	2	b	1	l	2	t	1
+akl	e	1	o	1
+ako		2	 	27	u	4	v	23
+akr	√	1	o	2
+aku	j	1
+akv	√	1
+ak√	°	3	©	17	∫	1	Ω	7
+ak≈	æ	8
+al		4
+al 	ƒ	2	≈	3	‚	3	B	1	C	1	F	1	H	1	J	3	K	1	M	1	P	3	V	1	a	3	b	3	c	1	d	8	h	6	j	11	k	4	l	1	m	1	n	15	o	6	p	14	r	2	s	31	t	3	u	1	v	9	z	8
+al!		1	 	3
+al,		2	 	12
+al-	l	2
+al.	‚	1		12	 	22
+al:	 	2
+al?	‚	1	 	2
+ala		1	 	18	,	2	.	6
+ale		1	 	62	j	1	k	9	n	3	v	1
+alh	o	1
+ali	ƒ	2		1	 	39	!	1	,	4	.	7	l	4	n	1
+alk	a	1	y	2
+alo		1	 	5	,	4	.	4	?	1	u	5
+alu	 	4	,	2	.	1	j	4
+alv	 	1	a	1
+aly	 	8	,	1	.	1
+al√	©	5	Ω	7
+al≈	°	2
+al‚	Ä	2
+am		3
+am 	√	1	‚	2	H	1	b	8	c	2	d	1	h	2	j	2	k	3	m	2	n	1	o	1	p	3	t	3	u	3	v	3	z	1
+am,		4	 	4
+am.	 	1
+am?	‚	1
+ama	‚	1	 	3	.	1	r	6	t	4
+amb	o	1
+ame	n	6
+ami	ƒ	1	‚	1	 	8	,	3	.	3	l	1	n	7
+amk	n	1	o	2
+aml	k	1
+amn	√	1
+amo	m	1	t	1
+amp	√	1
+amu	.	1	j	1
+amy	k	1
+am√	°	3	©	3	≠	3
+amƒ	õ	1
+am≈	æ	7
+an		1
+an 	N	2	s	1	u	1
+an.		1	 	3
+ana	 	2	m	1
+anb	a	1	i	1	u	1
+anc	e	3
+and	a	1	o	2	r	1
+ane	ƒ	3	≈	2	 	8	,	5	?	1	b	1	c	2	k	15	s	1
+ani		1	 	27	,	1	k	1	m	1	t	1
+ank	a	7	e	1	o	3	u	4	y	1
+ann	√	3
+ano	!	1	,	1	m	1	s	1	u	1
+ant	√	7	≈	1	k	1
+anu	.	1
+any	 	2	,	1	.	1
+an√	°	4	©	7	≠	13	Ω	4
+anƒ	ç	1	õ	5
+apa	d	6	m	1
+apc	≈	4	e	3	i	20
+ape	ƒ	1	c	6	n	2	s	1
+api	≈	1
+apj	a	5
+apl	a	1	i	1	n	1
+apn	√	1
+apo	ƒ	1	m	7	v	1
+apr	√	2	a	2	o	1
+aps	y	2
+ap√	°	1	≠	1
+apƒ	ç	3	õ	1
+ap≈	ô	4
+ara	≈	2	c	1	n	1	z	1
+arc	i	1	o	1
+are	≈	1	b	1	l	18	v	2
+ari	a	1	j	1
+arl	√	1	a	1	e	2	o	1
+arm	o	5
+arn	√	1	ƒ	4
+aro	s	24
+arp	a	1
+art	i	1	o	1
+aru	ƒ	1
+arv	i	1
+ary	l	1
+ar√	°	8	©	4	Ω	3
+ar≈	°	3
+as		1
+as 	b	3	h	1	j	5	k	2	l	1	m	1	s	2	u	1	v	1	z	2
+as,	 	1
+as.		1	 	2
+asa	≈	1	d	1	z	1
+ase	 	11	j	1	k	1	m	2
+asi	 	1	l	3	t	2
+ask	≈	1	a	1	l	1	n	2	o	1	y	1
+asl	a	1	e	10	i	1	o	2
+asm	a	1
+asn	ƒ	4
+aso	!	1
+asp	o	7
+ast	a	5	i	3	n	5	o	2	r	1	v	3	y	1
+asu	.	1
+asy	ƒ	1	 	1	,	1
+as≈	Ø	2
+at 	‚	3	a	1	d	1	k	1	n	1	s	1	t	1	u	1	z	1
+at!	 	1
+at,	‚	1	 	7
+at.	‚	1		1	 	8
+at?	‚	3	 	2
+ata	 	5	!	1	.	1	j	2
+ate	ƒ	1	,	1	c	1	l	1
+ati		1	 	6	!	1	,	7	.	5	l	2
+atk	a	2
+atl	o	2
+atn	√	12	ƒ	5
+ato	ƒ	1		1	 	1	u	3	v	3
+atr	h	3	n	7	o	2	p	1	s	1
+atu	j	1
+aty	‚	1	 	2
+at√	°	2	©	6	≠	22	Ω	1
+atƒ	õ	10
+at≈	ô	3	Ø	1
+at‚	Ä	1
+av		1
+av 	s	2
+av,	 	1
+ava	≈	1	 	2	,	3	d	2
+avd	a	6	o	6	u	9
+ave	c	1	d	3	n	2
+avi	ƒ	1	c	1	l	7	t	3
+avk	a	1
+avl	i	1
+avn	√	1
+avo	,	1	l	2	u	6	v	2
+avr	ƒ	1	h	1	t	3	u	1
+avt	e	1
+avu	 	5	,	3	.	4
+avy		1	 	2
+av√	°	1	©	4	≠	4	Ω	6
+avƒ	õ	6
+av≈	ô	3
+az 	d	1
+azd	√	1
+aze	 	1	m	1	n	1
+azi	l	9	v	1
+azn	ƒ	2	a	1
+azo	v	9
+azu	,	1	j	2
+azy	.	1
+az√	°	1	≠	1
+a√∫	t	1
+aƒç	√	2		2	a	8	e	1	i	4	k	5	n	4	u	1
+aƒè	a	3
+a≈à	 	1	.	1
+a≈ô	√	5	 	2	,	1	e	12	i	5	k	8	o	1	u	1
+a≈°	√	1	e	6	i	7	k	1	l	4	n	3	t	1	u	1
+a≈•	 	5	!	2	.	1
+a≈æ	 	18	d	18	e	6	i	1
+a‚Ä	ú	2
+b, 	c	1
+b. 	V	1
+ba 	a	2	b	1	d	1	j	2	l	1	o	1	p	1	r	1	s	2	u	1
+ba,	 	1
+ba.	 	1
+ba?	 	2
+baj	 	1	e	1
+bal	 	2	v	1
+bam	i	1
+ban	o	1
+bar	e	2	v	1
+bat	i	1
+bav	√	1	i	2
+ba≈	•	1
+bch	o	3
+bci	 	1
+bc≈	Ø	1
+be		3
+be 	‚	1	a	1	d	2	e	1	s	1	v	1
+be,	 	1
+be.	‚	1	 	2
+bec	 	1
+bej	‚	1	d	1
+bel	y	1
+ben	√	1	o	1
+bes	e	1
+bet	 	1	u	1
+bez	 	7	c	1	d	1	e	1	m	4	n	1	p	6	s	1
+be≈	°	2
+bhl	√	1
+bij	t	2
+bil	 	2	,	2	.	2	i	7	y	1
+bit	√	2	 	1	.	1	i	2
+biƒ	ç	1
+bje	v	5
+bky	 	1	,	1
+bl,	 	1
+bla	,	1	f	1	z	1
+ble	ƒ	1	c	1	d	3	s	7
+bli	≈	1
+blo	h	1	n	1	u	1	z	2
+blu	≈	1
+bl√	°	1	©	2	≠	13	Ω	2
+bnu	t	1
+bn√	©	2	≠	5	Ω	1
+bnƒ	õ	2
+bo 	M	1	b	1	k	1	n	1	r	2	s	1	z	1
+bod	ƒ	1	i	1	l	1
+boh	√	1	a	3	e	3
+boj	e	1	n	1	t	2
+bok	√	2	o	1
+bol	√	1
+bon	i	1
+bor	u	1	y	1
+bot	o	1	u	1	y	1
+bou	≈	4	 	8	,	1	?	1	c	1	d	9
+bov	√	1	a	3
+bo≈	ô	1	•	7	æ	1
+bra	 	3	d	1	l	1	m	1	n	2	t	4
+bre	c	1	p	1
+bro	 	1	d	2	t	1	v	2
+bru	s	7
+bry	s	1
+brz	y	2
+br√	°	9	©	1	Ω	2
+br≈	æ	2
+bsa	h	2
+bu 	n	1	z	1
+bu,		1	 	3
+buc	h	2
+bud	√	4	a	2	e	31	i	6	o	5	u	4	y	1
+buj	√	1	n	1
+bur	√	1
+bus	e	1
+buv	√	1
+buz	n	1
+buƒ	è	1
+bu≈	°	1
+bvc	h	1
+by		9
+by 	ƒ	1	≈	1	a	4	b	7	d	4	h	7	i	1	j	10	k	2	l	1	m	4	n	14	o	2	p	2	s	33	t	25	u	3	v	3	z	2
+by,	 	2
+by.	 	1
+byc	h	10
+byl		2	 	36	a	13	i	11	o	41	y	11
+bys	 	5	m	4	t	5
+byt	k	1
+byƒ	ç	2
+b√°	ƒ	2	≈	1	k	1	l	3	t	3	v	2
+b√≠	ƒ	1	 	2	d	1	h	1	j	1	l	1	r	1	t	1	z	5
+b√∫	 	1	d	1
+b√Ω	,	1	m	1	t	4	v	10
+bƒõ	≈	2	 	7	?	1	d	6	h	14	m	1
+b≈ô	√	1	e	18	i	2
+b≈Ø	 	1	h	2
+c		1	c	1	p	1	t	1
+c K	a	1
+c a	 	3
+c b	y	1
+c d	o	1
+c j	i	2	s	1
+c k	o	2
+c m	l	1
+c n	√	3	a	1	e	9
+c p	a	1
+c s	e	2	p	1
+c t	o	1
+c u	 	1	c	1	k	1
+c v	 	1
+c!		2
+c! 	H	1	K	1
+c!‚	Ä	2
+c,		2
+c, 	‚	2	b	1	n	1	u	1
+c.		5
+c. 	D	1	T	1	V	1
+c?		1
+c?‚	Ä	1
+ca 	n	1	r	1
+ce		2
+ce 	ƒ	1	≈	1	‚	1	P	1	R	1	a	4	b	3	d	2	j	3	k	6	m	2	n	7	o	1	p	1	r	1	s	5	t	2	u	2	v	3	z	3
+ce,		5	 	15
+ce-	l	1
+ce.		3	 	6	]	1
+cel	√	18	a	1	o	5
+cem	 	4	e	1
+cen	√	2	 	1	a	1	i	1	n	1
+ces	t	3
+cet	 	2	e	2	k	1
+ce≈	°	5
+ce‚	Ä	3
+ch		8
+ch 	ƒ	2	≈	4	‚	4	L	1	a	3	b	2	c	3	d	5	h	2	j	2	k	3	l	2	m	2	n	9	o	8	p	9	s	18	t	10	u	1	v	4	z	5
+ch!	 	1
+ch,		2	 	8
+ch.	‚	1		4	 	7
+ch:	 	1
+cha	 	1	.	1	:	1	j	2	l	15	n	1	p	1	t	4
+chc	e	14	i	1	u	1
+che	j	1	m	4
+chl	√	3		1	 	3	,	3	.	1	a	30	e	23	i	1	o	3	u	2
+chm	u	1
+chn	a	4	e	1	i	9	o	10	u	1	y	5
+cho	ƒ	1	 	1	!	1	.	4	d	10	l	2	m	2	p	9	t	2	v	9
+chr	√	4	ƒ	1	a	1	t	1
+cht	√	1	ƒ	28	i	1	y	2
+chu	≈	1		1	 	11	!	3	,	3	.	3	d	2	t	3
+chv	√	9	ƒ	1	i	10
+chy	≈	3	 	1	b	1	c	1	n	4	s	1	t	8
+ch√	°	17	©	1	Ω	2
+ch≈	Ø	1	æ	1
+ch‚	Ä	1
+ci		4
+ci 	√	1	‚	1	b	1	d	1	j	1	m	2	n	2	o	1	p	2	s	6	t	2	v	5	z	5
+ci!	 	1
+ci,	‚	4	 	12
+ci.	‚	1		4	 	7
+ci?	 	2
+cik	√	15
+cit	l	1	n	2
+ciz	√	1	i	1
+ci‚	Ä	2
+cko	.	1	u	2
+cky	 	6	?	1
+ck√	©	1	Ω	2
+cni	l	3	t	1
+cnu	,	1
+cn√	°	1	≠	2	Ω	4
+co		3
+co 	‚	2	b	6	c	3	d	4	h	1	j	5	l	1	m	2	n	7	o	1	p	1	s	7	t	6	z	3
+co!	 	1
+co,		1	 	8
+co?	‚	3	 	2
+cop	a	1
+cos	 	2
+cov	a	1	i	2	y	1
+cpa	l	1
+ct 	d	1	z	1
+ct,	 	1
+ct.	‚	1		1
+cti	l	1	v	1
+ct√	©	1
+cu 	‚	1	n	1
+cuj	e	1
+cuk	r	3
+cum	l	1
+cur	y	2
+cvi	ƒ	1
+c√°	m	1
+c√≠		2	 	7	c	5	h	5	m	1	t	6
+c≈Ø	 	1	,	1	.	1	m	2
+c‚Ä	ú	1
+d		1	 	1	b	1	n	1	o	1	p	1	s	1
+d B	u	1
+d P	e	2
+d T	o	1
+d V	a	1	y	1
+d a	b	1
+d b	o	1	y	6
+d c	h	2
+d d	ƒ	1	o	2	v	1
+d h	l	3	o	1
+d j	e	1
+d k	≈	1	l	1	o	3	r	1
+d l	≈	1	a	1	i	1
+d n	√	6	ƒ	1	a	1	e	3
+d o	ƒ	2	 	1	k	2	s	1
+d p	≈	2	a	1	o	2
+d r	o	1	y	1
+d s	e	9	i	1	k	1	l	1	o	2	p	1
+d t	√	2	ƒ	1	a	1	o	1	v	1
+d u	≈	1	s	1
+d v	√	1
+d z	a	4
+d ‚	Ä	1
+d, 	≈	2	a	1	k	1	n	1	s	1
+d. 	J	1	O	1	V	1
+d? 	T	1
+d?‚	Ä	2
+da 	‚	1	P	1	V	1	Z	1	a	2	b	2	c	1	j	1	m	1	n	1	p	2	s	11	v	1
+da,		1	 	4
+da.	‚	1		6	 	8
+da?	 	1
+daj	√	4
+dal	≈	2		1	 	20	,	1	a	4	e	5	i	3	o	1	u	3
+dan	√	1	e	1
+dar	e	1	m	5
+dat	,	1	.	2	i	1
+dav	√	1	ƒ	2
+daƒ	ç	2
+da≈	ô	2
+dba	j	1	v	1
+dbƒ	õ	1
+dce	 	5	,	2	.	3	m	2
+dch	√	1	o	1
+dde	c	1
+ddy	c	2
+de		6
+de 	≈	1	‚	1	a	1	b	4	c	1	d	6	h	1	i	1	j	2	k	1	l	1	m	4	n	5	o	1	p	2	r	2	s	6	t	3	v	5
+de!	‚	2		1	 	1
+de,	 	3
+de.		1	 	5
+dec	h	5
+dej	d	1
+dek	 	1
+del	n	1
+dem	 	4	!	1	,	1	.	1	?	1	e	10
+den	√	2	 	4	,	1	.	1	a	1	n	1
+der	o	1	y	1
+des	√	4	e	3
+det	e	2
+deƒ	ç	2
+de≈	°	11	æ	1
+dhe	r	3
+dho	d	3
+dhr	n	1
+di 	b	1	s	1
+di,	 	1
+di.		1
+dil		2	 	5	!	1	,	1	.	4	?	1	a	2	i	7	o	1	y	1
+din	√	9	ƒ	3	a	6	k	2	o	2	u	2	y	12
+dit	 	1	!	2	,	1	.	2	?	1	i	2
+div	√	1	 	1	,	1	a	1	e	1	i	2	n	8	o	5	u	1
+dja	k	1
+dku	‚	1	 	2	,	2	d	2
+dk√	°	2	©	2	Ω	3
+dl		2
+dl 	J	1	L	1	a	1	d	2	k	1	m	3	n	4	p	3	s	3
+dl,	 	2
+dl.	 	2
+dl?	 	1
+dla	≈	1	 	1	l	1	n	3
+dle	 	2	h	2
+dli	 	2	,	1	v	2
+dln	√	1	ƒ	1
+dlo		1	 	1	!	1	,	1	.	3	u	12
+dly	 	1
+dl√	©	1
+dmi	 	1
+dmƒ	õ	5
+dna		1	 	1	,	1	l	1
+dne		1	 	6	,	1	.	1	?	1	m	1	s	17
+dni	 	1	k	1	l	1
+dno	 	1	.	2	h	1	m	5	t	2	u	15
+dnu	t	4
+dny	 	2	.	1
+dn√	°	4	©	6	≠	14	Ω	6
+dnƒ	õ	7
+do		5
+do 	≈	7	‚	1	E	1	M	1	N	1	T	1	V	1	b	7	c	1	d	7	h	3	j	5	k	9	l	1	m	1	n	6	o	1	p	7	r	3	s	19	t	5	u	1	v	5	z	6
+do,	 	1
+do.		1
+do?	‚	1
+dob	√	2	ƒ	1	≈	13	a	1	n	1	r	6	u	1	y	2
+doc	e	1	h	1
+dod	√	1	a	1
+doj	d	3	e	1
+dok	√	2	a	1	o	1
+dol	√	2	≈	5	e	1	i	1
+dom	√	2	≈	8	 	1	a	7	i	2	l	3	o	1	u	3
+don	u	1
+dop	a	3	r	1
+dor	√	2	a	1	o	1
+dos	i	3	t	35
+dot	√	1	k	1	l	1
+dou		1	 	8	,	4	c	2
+dov	√	13	ƒ	3	≈	1	a	4	e	2	i	7	n	1
+doƒ	ç	1
+do≈	°	1
+dpo	ƒ	1	l	3	r	1	v	4
+dpu	≈	1
+dp√	≠	1
+dra	 	1	h	2	m	1	v	1
+dro	!	1	b	2	m	1	u	1	v	1
+dru	≈	2	h	7
+dry	‚	1
+drz	√	1
+dr√	°	3	©	2	Ω	2
+dr≈	Ø	1	æ	9
+dsk	√	1	o	4
+dst	a	3	o	1
+du		2
+du 	≈	1	‚	1	F	1	Z	1	a	1	b	1	d	1	h	1	i	1	j	1	k	1	m	1	n	2	o	2	p	2	s	2	t	3	v	1	z	1
+du!	‚	1	 	2
+du,		1	 	11
+du.		2	 	5
+du?	 	1
+duc	h	3
+dul	 	1
+dup	l	1
+dut	a	1	k	1
+du≈	°	1
+dva	 	10	!	5	,	1	?	2	c	2	h	1	k	1	l	2	n	2
+dve	≈	11	d	1
+dvi	k	1
+dvo	≈	2	j	1	r	4	u	3
+dvr	√	1
+dv√	°	3	≠	1
+dvƒ	õ	9
+dv≈	Ø	7
+dy		2
+dy 	≈	1	N	1	a	3	b	2	c	1	d	2	j	1	k	1	m	2	n	4	p	3	s	2	t	1	z	2
+dy!	‚	2	 	2
+dy,	 	4
+dy.		1	 	3
+dy?	 	1
+dyb	y	32
+dyc	h	3	k	4
+dyf	 	1
+dyt	 	1
+dy≈	•	13	æ	30
+d√°	≈	1	 	8	c	2	l	16	m	7	n	1	t	2	v	11
+d√©		1	 	7	,	1	.	2	?	1	h	2	l	1	m	1
+d√≠	≈	8		1	 	10	!	1	,	1	.	1	?	1	l	1	m	3	r	4	t	2	v	23
+d√≥	m	1
+d√∫	 	5	!	1	,	1	.	1
+d√Ω		1	 	9	:	1	c	4	m	3
+dƒç	√	1	e	1	o	1
+dƒõ	≈	4		2	 	3	!	2	,	2	.	4	c	1	d	16	j	16	k	2	l	55	n	3	t	12	v	8
+d≈ô	√	4	e	1	i	15
+d≈°	e	1
+d≈Ø	 	1	!	1	l	1	r	1	s	1	v	2
+e	L	1	M	1	d	4	h	3	j	3	k	3	l	1	m	4	n	5	o	2	p	5	r	3	s	5	t	6	u	1	v	8	z	3
+e C	y	2
+e F	a	2	e	1
+e H	e	3
+e I	g	1
+e J	o	4
+e K	a	2	l	1
+e P	e	7
+e R	u	1
+e T	e	1	o	7
+e V	l	1
+e a	≈	3		1	 	12	l	1	n	4
+e b	√	3	≈	1	e	1	l	6	u	4	y	12
+e c	h	10	i	1	o	8	u	1	v	1
+e d	√	12	ƒ	5	≈	2	a	9	i	1	l	2	n	7	o	32	r	1	u	1	v	7	y	1
+e e	n	1
+e h	l	1	n	2	o	11	r	1	u	1
+e i	 	2	d	1	h	1
+e j	√	4	a	9	d	1	e	20	i	16	s	4
+e k	√	2	≈	6	 	10	a	2	d	3	e	4	l	2	o	11	r	2	u	1
+e l	√	1	e	4
+e m	√	8	ƒ	1	≈	1	a	6	i	1	l	1	n	6	o	3	u	22	y	1
+e n	√	4	ƒ	12	a	40	e	36	i	7
+e o	≈	1		1	 	6	b	4	d	4	k	1	n	2	p	8	t	3	v	1	z	4
+e p	ƒ	2	≈	13	a	2	e	1	l	1	o	22	r	14	u	1
+e r	√	3	a	3	o	10	y	6
+e s	√	5	 	8	a	7	c	1	e	38	h	3	i	12	k	3	l	1	m	4	n	2	o	3	p	5	r	1	t	26	v	9
+e t	√	2	ƒ	2	≈	2	a	15	e	5	i	6	o	33	r	3	u	4	v	1	y	5
+e u	ƒ	1	≈	6	 	2	c	1	d	2	j	1	m	1	s	2	t	2
+e v	√	6	≈	8	 	5	a	2	e	5	l	2	o	3	r	3	s	1	y	17	z	6
+e z	√	3	≈	1	 	2	a	37	b	1	d	4	e	1	k	1	l	3	m	2	n	1	p	1	t	1	u	1	v	3
+e √	∫	1
+e ƒ	ç	5
+e ≈	ô	2	†	2	°	8	•	1	æ	4
+e ‚	Ä	17
+e!		1
+e! 	A	3	D	2	M	1	O	2	S	1
+e!!	!	1
+e!‚	Ä	15
+e,		9
+e, 	ƒ	1	≈	8	‚	1	H	1	T	2	a	9	b	2	c	7	d	2	h	1	j	2	k	5	l	2	n	6	o	4	p	4	r	1	s	3	t	11	u	2	v	1	z	1
+e,‚	Ä	2
+e-l	i	7
+e.		22
+e. 	≈	1	.	5	A	3	B	1	C	3	J	4	K	5	M	2	N	3	O	2	P	4	R	2	S	1	T	1	U	2	V	2	Z	1
+e.]		1
+e.‚	Ä	5
+e: 	‚	1
+e?		1
+e? 	ƒ	1	A	1	C	1	J	1	K	1	S	1	Z	1
+e?‚	Ä	17
+eba	 	8	.	1
+ebe		3	 	6	,	1	.	3	z	5
+ebi	l	1
+ebl	a	1
+ebn	√	2
+ebo	≈	7	 	8	j	2	l	1	u	8
+ebr	a	3	e	1
+ebu	d	7
+eby	l	21
+eb√	°	2	∫	1	Ω	1
+ec		1
+ec 	a	1	b	1	j	1	m	1	n	1	s	2	u	3
+ec!	‚	1	 	1
+ec,	 	2
+ec.		1
+ec?	‚	1
+eca	 	2
+ece	 	6	,	2	l	2
+ech	√	4	 	10	.	4	a	7	c	5	l	9	n	20	o	2	t	6	u	2	v	1	y	1
+eck	y	3
+eco	 	2
+ec√	≠	1
+ec‚	Ä	1
+ed		1
+ed 	P	1	a	1	b	4	c	1	d	2	h	1	j	1	k	1	n	4	o	5	p	2	s	10	t	1	u	2	z	2
+ed,	 	2
+ed.	 	1
+ed?	‚	1
+eda	j	2	l	5
+edb	a	1
+ede	≈	2		1	m	3	n	4	s	1
+edi	n	5	t	1	v	1
+edl	√	1		1	 	8	.	1	e	2	i	2
+edm	ƒ	1
+edn	√	7	a	4	e	4	i	1	o	24
+edo	ƒ	1	s	3	t	1	u	2	v	3
+eds	t	3
+edu		1	 	2	!	1	,	5	.	2	t	1
+edv	i	1
+edy	 	4
+ed√	°	5	©	2	≠	3	∫	1	Ω	2
+edƒ	õ	13
+ed≈	Ø	2
+eeh	l	1
+efi	l	1	t	1
+egd	e	1
+eh 	a	1	b	1
+ehd	y	2
+ehk	a	1
+ehl	 	2	.	3
+ehn	a	2	e	1	u	1
+eho	≈	2		2	 	28	d	2	t	1	u	1
+ehr	√	1	a	1	e	1
+eht	y	1
+ehu	 	1	,	3
+eh≈	à	2
+ej 	I	1	d	1	m	1	n	2	s	1	t	1	v	1	z	1
+ej!	‚	1
+ej,	 	2
+eja	k	1
+ejc	e	1
+ejd	e	3	i	1	o	2
+eje	 	1	d	1	l	1
+ejh	a	1	o	1
+eji	.	1	c	11
+ejk	r	1
+ejl	√	2
+ejm	e	5	o	1
+ejn	ƒ	4	o	1	u	1
+ejp	≈	1
+ejr	o	1	y	1
+ejs	√	2	i	2	m	1	t	2	u	1
+ejt	e	3
+ejv	√	2	ƒ	3
+ej√	≠	7
+ej≈	°	3
+ej‚	Ä	1
+ek		7
+ek 	ƒ	1	≈	1	‚	5	H	1	a	5	b	5	d	1	h	1	j	3	k	2	l	1	m	1	n	12	o	1	p	4	s	17	t	1	u	4	v	1	z	5
+ek,		3	 	10
+ek.		5	 	9
+ek[	*	1
+eka		1	 	1	l	5	t	3
+eke	m	1	r	2
+ekl		1	 	3	!	1	,	4	.	1	:	1	a	1	i	3	y	2
+ekn	ƒ	1	e	4	i	1	u	10
+eko	 	2	n	1	t	1
+ekt	o	16	r	2
+ekv	a	3
+eky	!	1
+ek√	°	8	Ω	1
+ek≈	ô	1
+ek‚	Ä	1
+el		4
+el 	ƒ	1	F	1	I	1	R	1	T	1	d	2	h	1	i	1	j	8	k	4	m	1	n	3	o	3	r	1	s	10	t	3	u	2	v	2	z	2
+el,		1	 	7
+el.		4	 	7
+ela	 	7	!	1	.	4
+elb	u	1
+ele	 	4	.	3	b	1	c	1	k	2	z	1
+eli	 	9	,	1	.	2	k	6	t	1
+elk	√	2
+elm	i	8
+eln	√	8
+elo	 	1	,	1	u	6
+els	k	1
+ely	 	3	,	1	:	1
+el√	°	5	©	9	≠	1	Ω	11
+em		4
+em 	≈	1	‚	2	J	1	a	9	b	2	c	2	d	3	e	1	h	1	j	3	k	3	m	3	n	5	o	3	p	2	r	1	s	7	t	4	u	3	v	4	z	2
+em!	‚	4		2	 	1
+em,	 	13
+em.	‚	1		6	 	4
+em?	 	2
+emb	o	2
+eme		1	 	11	.	1	?	1
+emi	!	1	,	1	.	3
+emn	√	6	ƒ	3
+emo	h	8
+ems	t	1
+emu	 	2	s	1
+emy	s	1
+em√	°	9	©	1	≠	1	Ω	1
+emƒ	õ	10
+em≈	ô	2	Ø	2
+em‚	Ä	1
+en		1
+en 	ƒ	1	≈	3	‚	1	C	1	I	1	L	1	a	3	b	3	c	4	h	3	j	3	k	4	m	3	n	2	o	3	p	4	r	1	s	5	t	1	u	2	v	3	z	2
+en,	‚	2	 	5
+en.	‚	1		1	 	5
+ena	≈	1	 	3	!	1	,	1	.	3	d	1	p	3	t	1
+enc	e	1
+end	√	1	a	9	o	5	u	2
+ene	 	3	.	1	c	2	m	2
+eni	 	1	.	1	c	2	l	1	t	1	v	1
+enk	√	3	a	4	u	1	y	5
+enn	√	2	ƒ	1
+eno	 	2	,	2	m	25	u	4
+ens	i	1
+ent	l	1	o	2
+enu	 	1	t	1
+eny		1
+en√	°	6	©	18	≠	26	Ω	11
+enƒ	õ	11
+en≈	°	1
+eob	√	1	ƒ	1	y	1
+eod	o	1
+eop	a	1
+eoƒ	ç	1
+epa	d	5	l	1	t	1
+epe	 	1
+epl	√	2	a	1	o	2
+epo	≈	1	b	2	c	1	d	1	h	2	j	1	s	2	t	3	u	1	v	1	z	1
+epr	o	2	v	2
+ept	√	1	a	1
+epu	.	1	j	1	s	1
+ep√	≠	1
+ep≈	ô	5	Ø	3
+er 	a	1
+er!	‚	1	 	1
+era	 	3	.	1	d	1
+erd	a	4	o	1	u	1
+ere	 	1	:	1	j	2
+erk	a	2	u	1
+erm	o	1
+ern	√	5	ƒ	1	o	1
+ero	 	3	!	1	n	1	u	3	v	1	z	2
+ert	≈	1
+eru	.	1	?	1
+erv	e	3	n	1
+ery		1
+erz	a	2
+er√	°	7	©	12	Ω	20
+er≈	°	1
+es		1
+es 	≈	2	‚	1	L	2	N	1	c	3	d	2	h	1	j	4	k	3	n	2	p	1	r	1	s	3	u	1	v	2	z	3
+es,	 	2
+ese	d	1	l	3	m	1	t	3
+esi	t	2
+esk	 	1	l	5	o	1	u	2
+esl	√	2	 	3	a	1	e	1	i	1	y	2
+esm	√	2	ƒ	2
+esn	√	1	e	2	i	2
+eso	u	2
+esp	√	2	a	2
+est	√	1	a	6	i	1	o	1	r	6	u	3	y	1
+esv	ƒ	1
+es√	°	4
+et		1
+et 	a	1	k	3	n	1	t	1
+et,	 	1
+et.		1	 	1
+et:		1
+eta	h	1
+ete	 	4	.	1	?	3	k	1	l	1
+eti	ƒ	1	 	4
+etk	a	1	r	1
+etl	a	1	o	1
+etn	√	6
+eto	s	1	v	1
+etr	≈	4	 	16	,	1	.	1	a	6	e	2	o	9	p	1	u	1	v	2
+etu	.	1
+ety	 	1
+et√	©	1	≠	5
+etƒ	õ	3
+et≈	ô	2
+eub	u	1
+eud	ƒ	2
+euk	√	1	l	1
+eut	√	1	e	2
+eva	.	1	d	1	l	2
+eve	r	1
+evi	d	4	l	5
+evl	e	2
+evn	√	2	ƒ	2
+evo	,	1	l	2	u	1	v	1
+evr	√	1
+evy	b	1	d	1	m	1
+evz	b	1
+ev√	≠	1
+evƒ	õ	6
+ev≈	ô	9	°	5
+ez 	j	2	n	3	p	2	s	1	t	1
+ez,	 	2
+eza	j	1	l	2	n	1	p	2	s	3	v	1
+ezb	u	1
+ezc	i	1
+ezd	√	2	ƒ	1	i	2	r	1
+eze		1	!	1	m	1	t	1
+ezi		1	 	1
+ezk	y	1
+ezl	 	2	a	1
+ezm	ƒ	1	e	1	o	5
+ezn	√	1	a	3
+ezo	s	1
+ezp	√	1	≈	1	e	6
+ezs	t	1
+ezt	e	3	r	1
+ez√	°	2	∫	1
+ez≈	ô	1	Ø	2
+eƒç	√	6	!	1	c	1	e	44	i	5	k	36	m	1	n	18	o	1
+eƒè	 	5	!	1	,	3	.	1	?	1
+e≈à	,	2
+e≈ô	√	12	e	7	i	5	m	1	n	1
+e≈°	ƒ	7	≈	1	 	17	!	1	,	2	.	3	?	4	e	5	k	1	l	5	n	6	t	23
+e≈æ	√	4	 	15	a	1	e	7	i	5	t	1
+e‚Ä	ú	4
+f t	o	1
+fai	s	1
+fal	√	1	e	2
+fil	.	1
+fit	!	1
+fl 	I	1
+fli	n	1
+fni	!	1
+fou	k	1
+ft,	 	1
+gde		1	 	7
+gn√	°	9
+gum	o	1
+g√°	t	2
+h	ƒ	1	K	1	h	1	j	1	k	1	s	3
+h L	i	1
+h a	 	3	s	1
+h b	y	4
+h c	√	1	e	1	h	1
+h d	ƒ	2	o	2	v	1
+h h	o	1	u	1
+h j	e	1	i	1
+h k	l	1	o	1	r	1
+h l	e	1	i	1
+h m	√	1	o	1
+h n	ƒ	1	a	1	e	7
+h o	ƒ	6	 	1	k	1
+h p	≈	3	e	1	o	4	r	1
+h s	 	2	a	2	e	8	i	1	l	1	t	5
+h t	≈	2	a	4	i	1	o	2	u	1
+h u	s	1
+h v	√	2	≈	1	a	1
+h z	√	1	a	2	d	1	n	1
+h ƒ	ç	2
+h ≈	ô	1	°	1	æ	2
+h ‚	Ä	4
+h!		1
+h! 	O	1	V	1
+h,		3
+h, 	‚	1	a	1	k	3	n	2	s	1	t	3	z	1
+h.		6
+h. 	D	1	J	1	S	1	T	2	V	1	Z	1
+h.‚	Ä	1
+h: 	K	1
+ha 	k	1	n	1	s	1
+ha.	 	2
+ha:	 	1
+ha?	‚	1
+had	 	1	.	1	a	3
+haj	√	1	 	1	d	1	t	1
+hal	√	1		1	 	11	!	1	,	1	-	1	.	5	a	1	e	1	i	5	o	2	y	1
+ham	 	1	,	2	a	1
+han	√	3	b	3	c	1	k	2
+hap	≈	1
+har	a	1	e	1
+has	l	1
+hat	√	2	ƒ	1	 	4	!	1	,	2	.	1	?	2	i	1
+hav	i	1
+haƒ	ç	5
+hce	≈	5	 	3	,	1	-	1	.	1	m	1	t	2
+hci	,	1
+hcu	 	1
+hdy	 	2
+hej	 	1	,	1	n	1
+hem		1	 	3	!	1	,	3
+hen	,	2
+her	!	1	n	3
+hez	k	1
+hka	 	1
+hl		3
+hl 	≈	1	‚	1	F	1	V	1	b	2	d	3	h	1	j	2	m	1	n	2	o	1	p	2	s	6	t	1	v	3	z	1
+hl!	 	1
+hl,	 	3
+hl.		2	 	4
+hla	 	3	.	1	d	13	h	2	p	37	s	17	v	15
+hle		1	 	25	!	1	b	3	d	11	j	1
+hli		1	 	5	,	1
+hlo	 	1	s	2	u	2	v	1
+hlu	b	4	k	1
+hly	,	1	.	1
+hl√	°	3	©	4	≠	11	∫	1	Ω	1
+hmu	r	1
+hna	 	4	l	7	t	1
+hne	≈	4	,	1	-	2	d	11
+hni	 	9	.	1
+hno	 	8	,	1	u	7
+hnu	 	1	l	2	t	1
+hny	 	5
+hn√	≠	1	∫	1
+hnƒ	õ	1
+ho		15
+ho 	√	2	ƒ	2	≈	5	‚	2	F	3	K	3	P	2	T	1	a	1	b	7	c	4	d	10	h	6	i	1	j	3	k	5	m	3	n	13	o	3	p	15	r	6	s	13	t	12	u	2	v	7	z	9
+ho!	‚	4	 	2
+ho,	‚	1		1	 	13
+ho.		4	 	10
+ho:	 	1
+ho?	‚	1	 	1
+hoc	e	1	h	1
+hod	√	1	ƒ	2	≈	1	 	1	i	19	l	7	n	9	o	2	u	3	y	1
+hol	√	1	e	1	i	3	k	1
+hom		1	 	1
+hon	√	1	i	1
+hop	i	9
+hor	≈	4	e	3	n	2	u	1
+hos	p	1	t	3
+hot	√	1	 	1	a	5	i	1	o	4	y	1
+hou	≈	1	 	6	,	1	.	1	k	1	p	2
+hov	√	5	a	4	i	1	o	1
+hoz	e	1
+hoƒ	è	1
+ho≈	ô	1	°	1	æ	2
+hra	b	3	d	5	j	3	s	1
+hrb	e	1
+hrd	i	2	l	1
+hre	j	4
+hrk	l	1
+hrn	√	1	c	1	e	2	u	3
+hro	≈	1	b	1	m	5	z	6
+hrt	i	1
+hru	ƒ	1	b	2
+hry	 	1
+hr√	°	16
+hrƒ	ç	1
+hr≈	Ø	1
+hti	v	1
+hty	 	2	!	1
+ht√	≠	1
+htƒ	õ	29
+hu		2
+hu 	b	1	h	1	k	1	l	1	o	1	r	1	s	4	t	1	u	1	v	2	z	2
+hu!		1	 	2
+hu,		1	 	5
+hu.		4	 	7
+hub	a	1
+hud	√	1	i	2
+huj	e	2
+hus	a	1	t	1	y	9
+hut	√	1	n	3
+huƒ	ç	2
+hu≈	°	11	•	1
+hvi	l	12
+hv√	≠	12
+hvƒ	õ	1
+hy 	a	3	m	1	n	1
+hy,	 	2
+hy.		1	 	1
+hy?	!	2
+hyb	,	1	a	2	o	1	u	1
+hyc	e	1
+hyn	ƒ	2	i	2
+hys	t	1
+hyt	a	2	i	3	l	2	r	2
+hy≈	•	4
+h√°		1	 	5	.	1	d	2	m	4	n	3	p	2	z	13
+h√©	 	4	,	3	h	1	j	1
+h√Ω	√	1	 	2	,	3	b	2	c	1
+h≈à	√	1	≈	1
+h≈ô	√	4	b	2
+h≈Ø	l	1	r	2	z	1
+h≈æ	 	1
+h‚Ä	ú	1
+i	‚	2	c	2	d	1	h	2	j	2	k	2	m	1	n	3	o	2	p	3	s	5	t	6	u	4	v	4	z	2
+i B	o	1	u	1
+i J	e	1	o	1
+i K	a	1
+i T	o	4
+i a	≈	2	 	15
+i b	a	1	e	2	o	2	r	3	u	1	y	7
+i c	e	3	h	9	i	1
+i d	√	1	≈	1	a	2	e	1	i	3	o	14	v	3
+i e	≈	1	l	1
+i g	u	1
+i h	l	1	o	10	r	7	u	1
+i i	 	1	s	1
+i j	a	1	d	1	e	12	i	14	s	2
+i k	≈	3		1	 	6	a	1	d	2	e	1	l	1	r	1
+i l	√	2	e	4	i	1
+i m	√	1	ƒ	2	a	1	n	1	o	4	r	1	u	5	y	2
+i n	ƒ	7	a	19	e	22	i	1	o	2
+i o	ƒ	2	 	4	b	1	d	5	h	1	k	2	n	1	p	3	s	1
+i p	ƒ	1	≈	8	a	4	e	1	l	1	o	24	r	6	s	2	t	1
+i r	√	1	a	2	e	1	o	2
+i s	√	1	 	5	a	2	d	1	e	43	i	13	l	1	o	1	p	4	t	7	u	1	v	1
+i t	ƒ	3	a	13	i	1	m	1	o	13	r	2	u	1	v	1	y	1
+i u	 	3	d	1	l	1	m	1	p	1	s	1	z	1
+i v	√	3	ƒ	1	≈	8		1	 	9	a	1	e	7	r	1	y	6	z	2
+i z	√	4	 	1	a	8	b	1	d	1	e	2	k	2	l	1	u	1
+i √	∫	2
+i ƒ	ç	4
+i ≈	ô	2	°	1	•	1	æ	4
+i ‚	Ä	16
+i!		2
+i! 	A	6	J	3	K	3	O	1	P	1	T	1	U	1	V	1
+i!‚	Ä	3
+i,		6
+i, 	ƒ	2	≈	9	M	1	P	1	a	10	c	6	d	4	i	1	j	8	k	9	l	1	m	1	n	1	o	1	p	4	s	3	t	7	u	3	v	3	z	3
+i,‚	Ä	6
+i-l	i	1
+i.		33
+i. 	≈	1	‚	2	.	4	A	7	B	3	C	3	F	1	H	2	I	1	J	1	K	4	M	1	N	3	O	2	P	5	S	2	T	1	V	1	Z	1
+i.‚	Ä	3
+i: 	‚	1
+i?		1
+i? 	ƒ	1	‚	1	A	3	F	1	J	1	N	1	T	1	V	1
+i?‚	Ä	3
+ia,	 	1
+ibl	√	1	i	1
+ibn	ƒ	1
+ibo	v	1
+ib√	Ω	1
+ibƒ	õ	5
+ic 	j	1	n	9	t	1	v	1
+ic!		1	 	1
+ic,		1	 	2
+ic.		1	 	1
+ice	‚	1		2	 	8	,	5	.	2	t	1
+ich	√	11	≈	1		1	 	40	.	2	a	2	e	1	n	9	o	9	u	4
+ici	 	2	.	3
+ick	√	1	o	2
+icu	 	1
+ic√	°	1	≠	1
+ida	 	1	l	2
+ide	≈	1	l	1	m	1
+idi	n	1
+idm	i	1
+idn	√	3	ƒ	1
+ids	k	1
+idu	 	1
+id√	©	7	≠	14	∫	1
+idƒ	õ	11
+ifa	i	1
+iha	l	1
+ihl	 	3	!	1
+ihn	a	2	e	2	o	1
+iho	d	1
+ihy	,	1
+ih√	Ω	1
+ija	l	1
+ijd	√	3	ƒ	1	e	7
+ije	d	1
+iji	 	1
+ijt	e	2
+ij√	°	1	≠	1	≥	2
+ik 	≈	1	b	2	d	1	h	1	k	1	n	1	p	2
+ik,	 	2
+ik.	 	1
+ika		1	 	2	z	1
+ikd	e	2	o	3	y	6
+ike	m	3
+ikl	 	1	.	3	i	1
+ikn	e	1	o	4
+iko	h	1	r	2	u	1
+ikr	√	5
+iku	,	2	.	1	j	1
+iky		1	 	1
+ik√	°	20	©	1	Ω	2
+ik≈	Ø	1
+il		5
+il 	≈	2	J	1	L	1	O	1	R	1	a	6	b	3	c	1	d	7	h	8	i	1	j	5	k	7	m	1	n	8	o	3	p	9	s	19	t	2	v	3	z	6
+il!	 	1
+il,		2	 	14
+il.	‚	2		14	 	8
+il?	‚	1		1	 	4
+ila		1	 	10	!	1	,	1	.	2	m	1
+ilc	e	1
+ile	 	2	n	2	t	1
+ili		4	 	24	!	2	,	7	.	5	:	1	?	1
+ilk	a	1	u	10
+iln	√	1	ƒ	1	i	5	o	1	u	1
+ilo	≈	1	 	7	,	2	.	3	m	1	v	5
+ily	 	6	,	1	?	1
+il√	°	1	≠	2
+il≈	Ø	2
+im		1
+im 	≈	1	c	1	d	3	j	1	k	1	n	2	p	3	s	1	t	2	u	3	v	4	z	1
+im,	 	1
+im.	 	1
+ima		1	 	3
+imh	o	1
+imi	≈	1	 	1
+iml	.	1	a	2	i	1
+imo	 	1	u	1
+im√	°	1
+in 	a	1	n	1
+ina	 	3	,	3	.	1	k	1	v	1
+ind	y	1
+ine	c	1	s	1
+ink	√	1	a	7	o	2
+inn	ƒ	1
+ino	u	3
+int	u	1
+inu	 	1	.	1	t	2
+iny	 	5	!	2	,	3	.	3
+in√	°	5	©	3	≠	1	∫	2	Ω	4
+inƒ	ç	1	õ	3
+ipa	d	1
+ipr	a	1
+iro	k	1
+is		1
+is 	t	1
+ise	n	1	t	1
+isk	≈	1	a	2	l	1	n	1	o	2	u	2
+isl	√	1
+ist	√	6	ƒ	9	,	1	.	1	a	1	i	2	n	1	o	3	r	1
+isv	ƒ	1
+is√	≠	8
+it 	P	1	n	1	t	1	v	1
+it!	‚	1		1	 	1
+it,	 	4
+it.		1	 	5
+it?	 	1
+ita	 	1
+ite	l	7
+iti		2	 	12	,	7	.	6	?	2
+itl	.	1
+itn	√	1	ƒ	1
+ito	ƒ	1	 	1	u	1
+itv	u	1
+it√	°	1	©	3	≠	1	Ω	2
+itƒ	õ	8
+it≈	ô	1
+iv 	k	1
+iv,	 	1
+iva	 	2
+ive	d	1	n	1
+ivi	l	2	t	1
+ivl	 	1	a	1
+ivn	√	6	ƒ	2
+ivo	ƒ	1	.	1	c	2	k	2	s	1	t	7
+ivu	.	1
+iv√	°	1	©	4	≠	3	Ω	6
+ivƒ	õ	13
+iv≈	ô	1
+izb	ƒ	3	o	1	y	3
+ize	l	1
+izi	n	1
+izo	v	1
+iz√	≠	1
+iƒç	√	4	,	2	c	1	e	4	i	2	k	7
+iƒè	 	1	,	1
+i≈°	≈	1	 	2	e	3	k	1	l	5	r	2	t	1
+i≈æ	 	55	o	1
+i‚Ä	ú	3
+j I	g	1
+j a	 	1
+j b	y	1
+j c	e	1
+j d	o	1
+j f	l	1
+j k	o	2
+j m	e	1
+j n	ƒ	2	a	1	e	1
+j r	√	2	a	1	o	1
+j s	 	1	a	1	c	1	t	1
+j t	o	1
+j v	y	1
+j z	a	1	v	1
+j!‚	Ä	1
+j,		1
+j, 	a	1	b	1	n	1	t	1
+j. 	J	1	N	1
+jab	l	1
+jak	√	15	≈	1		1	 	37	?	1	o	30
+jal	 	2	,	1	-	1	i	1
+jas	n	1
+jat	√	1	ƒ	3
+jce	.	1
+jda	n	1
+jde	≈	2		1	 	7	!	2	.	4	m	6	t	2
+jdi	 	1	,	1
+jdo	u	4
+jdr	≈	1	o	1
+jdu	 	2	,	1
+jdy	 	1
+jd√	∫	3
+jdƒ	õ	3
+je		4
+je 	ƒ	1	≈	1	‚	1	J	2	a	1	b	1	d	11	j	4	k	3	l	1	n	6	o	1	p	7	s	8	t	17	v	4	z	2
+je!	‚	1	 	1
+je,	 	5
+je-	l	2
+je.	‚	1		1	 	2
+je?	‚	2		1	 	1
+jed	√	1	e	8	i	4	l	1	n	30	o	2	u	1
+jeh	o	25
+jej	√	3	 	7	i	8
+jek	 	1
+jel	 	4	i	2
+jem	n	6	s	1
+jen	ƒ	2		1	 	14	o	19
+jet		1	e	1
+jev	i	5	o	1
+jez	d	2
+jeƒ	ç	2
+je≈	°	20	æ	1
+jha	j	1
+jho	r	1
+ji		4
+ji 	a	2	c	2	h	1	j	2	l	1	m	1	s	1	t	3	v	1
+ji,	‚	1	 	3
+ji.		3	 	1
+jic	h	24
+jil	 	1	.	1
+jim		1	 	18	,	1	i	1
+jin	√	4	a	1	d	1
+jis	k	1	t	10
+jiz	b	7
+ji≈	æ	50
+jkr	√	1
+jl√	©	2
+jme	 	2	!	1	,	1	n	1
+jmo	h	1	u	1
+jno	u	1
+jnu	 	1
+jn√	°	1	©	2	Ω	1
+jnƒ	õ	5
+jov	a	1
+jp≈	ô	1
+jro	z	1
+jry	c	1
+jse	m	8
+jsi	 	3	-	1	?	1	l	1
+jsm	e	3
+jso	u	12
+jst	a	2
+jsu	.	1
+js√	∫	2
+jte	 	4	!	3	,	3
+jto	 	1
+ju 	j	1
+jv√	≠	2
+jvƒ	õ	3
+jza		1	 	4	.	1	?	1
+jze	,	1
+jzk	y	1
+jzo	v	3
+jzu	 	3	.	2
+jz√	∫	1
+j√°	 	12	!	2	,	1	?	1	k	1	n	1	s	5
+j√≠	ƒ	5	≈	3		1	 	20	,	1	.	3	c	14	h	1	m	3	t	9	z	2
+j√≥	√	2
+j√∫	.	1
+jƒç	i	1	u	5
+jƒè	 	3	!	2	t	3
+j≈°	√	11	e	1
+j≈Ø	m	1
+j‚Ä	ú	1
+k		1	 	1	T	1	k	1	m	2	n	2	o	2	p	1	s	2	t	1	u	1	v	2	z	1
+k H	e	1	o	1
+k N	o	1
+k P	√	1	o	1
+k V	y	1
+k a	≈	1		1	 	5	n	1
+k b	e	1	l	2	o	1	r	2	u	1	y	15
+k c	o	3
+k d	√	1	ƒ	3	i	2	l	4	n	1	o	3	r	1	v	1	y	1
+k h	≈	1	e	2	l	1	o	2	r	1
+k j	√	2	a	1	e	5	i	9	s	1
+k k	 	3	l	1	r	3
+k l	e	3
+k m	√	1	l	1	o	2	y	1
+k n	√	3	ƒ	13	a	7	e	10	i	5	o	2
+k o	b	4	d	1	n	1
+k p	≈	3	a	1	e	1	l	1	o	7	r	5	y	1
+k r	o	1	y	2
+k s	√	1	a	3	e	20	i	10	k	1	n	3	p	1	t	1
+k t	√	1	≈	1	e	1	i	2	o	15	u	1
+k u	≈	2	d	1	k	1	s	1	t	1
+k v	√	3	 	1	e	6	i	1	r	1	y	2
+k z	√	2	≈	1	 	3	a	8	e	2	l	1
+k ƒ	ç	2
+k ≈	ô	2	°	3
+k ‚	Ä	10
+k!		2
+k! 	‚	2	P	1	T	1
+k!‚	Ä	1
+k,		3
+k, 	≈	2	‚	4	J	1	a	2	c	1	d	1	j	1	k	5	n	1	p	1	s	3	t	2	v	2
+k,‚	Ä	1
+k.		7
+k. 	≈	1	‚	1	.	1	J	1	M	1	N	1	O	1	P	1	T	3
+k.‚	Ä	2
+k?		2
+k? 	A	1
+k?‚	Ä	2
+k[*	]	1
+ka		7
+ka 	ƒ	1	≈	1	‚	1	B	1	O	1	R	1	a	4	d	1	h	1	j	2	m	2	n	7	o	1	p	3	s	11	t	1	v	3	z	6
+ka!	‚	2
+ka,	‚	1	 	9
+ka.		7	 	11
+ka?	‚	1	 	1
+kab	√	3	e	1	o	1
+kaj	,	1
+kak	u	1
+kal	 	12	,	2	.	5	a	2	e	1	h	1	i	5	k	1	o	1	y	2
+kam	≈	7		1	 	5	,	1	a	8	e	2	i	6
+kan	ƒ	1	d	1
+kap	e	1	s	2
+kar	n	1
+kat	 	1	.	1	i	3
+kav	√	2	ƒ	1
+kaz	 	1	i	1	o	7	u	2	y	1
+ka≈	°	2	æ	16
+ka‚	Ä	1
+kde	≈	1		1	 	9	,	1
+kdo		2	 	14	s	2
+kdy	≈	17	 	11	!	1	?	1	b	17
+ke		1
+ke 	≈	2	K	1	k	5	m	1	s	7	z	1
+kej	,	1	h	1	t	1
+kem	‚	1	 	9	!	3	,	3	.	4
+ker	√	3	o	1
+ke≈	ô	1
+kk√	©	2	Ω	1
+kl		1
+kl 	√	1	O	1	a	1	d	2	j	1	k	2	n	2	s	2
+kl!	 	1
+kl,	 	5
+kl.	 	7
+kl:	 	1
+kla		1	 	2	:	1	d	6	m	3
+kle	k	1	l	1	n	1	p	2	s	1
+kli	 	2	.	2	d	4
+klo	 	2	,	1	.	1	:	1	n	5	u	1
+klu	c	4	k	1	s	1
+kly	 	4	.	1
+klz	a	1
+kl√	°	3	≠	8	∫	1	Ω	1
+kmo	t	1
+kna		1	.	1
+kne	≈	1	 	4	-	2
+kni	 	1	,	1
+kno	 	2	.	1	u	8
+knu	 	2	:	2	t	9
+kn√	©	1	≠	1	Ω	1
+knƒ	õ	8
+ko		2
+ko 	O	1	b	15	d	2	l	3	m	1	n	1	o	2	p	3	s	7	t	1	v	1	z	1
+ko!	 	1
+ko,	‚	1	 	4
+ko.		1	 	2
+kod	a	2	o	1
+koh	o	5
+koj	e	2
+kol	√	8	≈	1	e	5	i	10	n	1	o	8	u	1	y	1
+kom	 	1	!	1	?	1	o	9	u	3
+kon	√	11	ƒ	8	!	1	c	3	e	5
+kop	a	4
+kor	o	4	u	6
+kos	t	10
+kot	 	2	e	1	l	1
+kou		2	 	12	s	7	t	1	z	1
+kov	√	24	ƒ	1	a	6	i	9	o	5	y	4
+koƒ	ç	20
+ko≈	ô	5	°	1	æ	8
+kra	d	1	j	4
+kre	s	1
+krk	u	1
+krl	a	1
+krm	i	1
+kro	ƒ	4	k	7	u	1	v	1
+kru	‚	1	t	1
+krv	e	1
+kry	l	2	t	3
+kr√	°	21	Ω	1
+krƒ	ç	2
+kte	≈	6	r	36
+kto	r	16
+ktr	i	2
+ku		5
+ku 	‚	2	a	4	b	2	d	1	k	1	n	1	o	2	p	7	s	6	t	2	v	1	z	3
+ku!	‚	2		1
+ku)	 	1
+ku,		3	 	24
+ku.	‚	1		4	 	6
+ku?	‚	3	 	1
+kuc	h	4
+kud	 	4
+kuj	√	1	e	1
+kul	√	1
+kur	y	2
+kus	,	1	i	2
+kut	e	2
+ku≈	°	2
+ku‚	Ä	3
+kva	p	3
+kve	ƒ	1
+kv√	≠	1
+kvƒ	õ	1
+ky		2
+ky 	≈	1	‚	3	B	1	a	1	b	1	d	1	j	2	k	2	n	2	o	1	p	1	s	4	t	2	v	2	z	2
+ky!	 	5
+ky,	‚	1		2	 	9
+ky.	‚	1		2	 	3
+ky?	‚	1
+kys	e	1
+kyt	l	1
+ky‚	Ä	1
+k√°	ƒ	1	≈	5	 	8	,	2	.	1	c	1	l	3	m	10	n	17	r	1	s	1	t	1	v	3	z	7
+k√©		1	 	20	!	1	,	3	h	3	m	4
+k√∫	 	1	s	1
+k√Ω		3	 	15	!	1	,	4	c	1	m	5	s	1	v	1
+k≈ô	√	2	e	1	i	25	o	4
+k≈Ø	≈	10	 	6	,	3	.	3	j	1	l	2	r	1
+k≈æ	e	7	i	1
+k‚Ä	ú	3
+l		1	H	1	R	1	a	2	b	1	c	1	d	2	j	3	m	1	n	1	o	3	p	2	s	2	u	2	z	1
+l B	o	1
+l C	y	1
+l F	a	5
+l H	e	1
+l I	g	2
+l J	e	2	o	3
+l K	a	1
+l L	o	3
+l M	i	1
+l O	l	2
+l P	e	4
+l R	u	2
+l T	o	1
+l V	l	2
+l a	≈	2	 	9	n	1	s	1
+l b	l	1	r	1	u	1	v	1	y	10
+l c	h	2
+l d	√	1	ƒ	2	e	3	l	2	o	20	r	1	v	2
+l h	a	2	l	9	n	1	o	9
+l i	 	1	d	1
+l j	√	2	a	4	e	11	i	10	s	4
+l k	√	3	 	6	a	3	d	1	e	2	l	3	o	4
+l l	e	1
+l m	√	1	ƒ	1	a	1	e	1	u	6	y	1
+l n	√	2	ƒ	3	a	38	e	4	i	1	o	1
+l o		1	 	1	b	2	d	5	k	2	n	2	p	2	t	1
+l p	√	2	ƒ	2	≈	5	a	1	e	1	l	1	o	15	r	7	u	2
+l r	√	1	a	2	u	1	y	1
+l s	√	2	 	8	e	46	i	16	k	1	l	2	m	2	o	1	p	2	t	7	v	1
+l t	√	1	ƒ	1	≈	1	a	6	e	3	i	1	o	3	r	2	u	3
+l u	 	2	c	1	d	1	p	1	s	2	z	1
+l v	√	4	ƒ	1	≈	1	 	6	e	8	i	1	o	1	y	4	z	2
+l z	√	1	 	7	a	7	d	1	e	3	m	1
+l √	∫	1
+l ƒ	ç	5
+l ≈	ô	3	°	2	æ	3
+l ‚	Ä	5
+l!		1
+l! 	A	3	N	1	T	1	V	1
+l,		6
+l, 	≈	13	M	1	a	7	b	1	c	2	d	2	h	1	j	5	k	6	l	2	m	2	n	6	o	1	p	1	s	1	t	3	u	1	v	1
+l-l	i	3
+l.		36
+l. 	≈	1	‚	3	.	4	A	8	B	2	C	2	J	2	K	3	M	2	N	9	P	7	R	1	S	4	T	3	V	9	Z	2
+l.‚	Ä	3
+l:		1
+l: 	‚	1	j	1	r	1
+l?		1
+l? 	≈	1	D	1	J	1	K	1	T	1	V	2
+l?‚	Ä	3
+la		3
+la 	√	1	‚	1	P	1	T	2	b	2	d	2	h	1	i	1	j	4	k	1	m	2	n	8	o	7	p	9	s	16	t	4	u	2	v	6	z	1
+la!	‚	1	 	2
+la,	 	8
+la.		7	 	10
+la:		1
+la?	 	1
+lab	√	1
+lad	√	1	 	1	,	1	.	1	?	2	c	2	e	2	i	3	k	6	n	3	o	1	u	1
+laf	n	1
+lah	a	8	o	2
+laj	√	1	ƒ	5
+lak	a	3
+lal		1	 	7	,	1	.	1	?	1	a	2	i	6	y	1
+lam	√	3	ƒ	1	i	1	p	1
+lan	√	1	ƒ	2
+lap	ƒ	3	c	27	e	7	o	1
+las	≈	1		1	 	8	,	1	.	1	e	1	i	4	t	3	y	2
+lat	√	1	‚	1	 	2	,	1	?	1	y	1
+lav	i	1	k	1	n	1	o	4	u	10	y	1
+laz	e	1
+laƒ	ç	4	è	3
+la≈	à	1	•	1
+lbu	,	1
+lc 	K	1
+lce	‚	2	 	2
+ld≈	ô	14
+le		5
+le 	≈	1	‚	2	C	1	F	1	J	1	K	2	P	2	T	4	V	1	a	3	b	5	c	13	d	8	h	3	j	12	k	12	l	1	m	3	n	21	o	4	p	14	r	6	s	17	t	16	u	2	v	7	z	7
+le!	‚	1	 	1
+le,		1	 	6
+le.		3	 	5
+le?	 	1
+leb	a	3	n	1	o	2
+lec	h	12
+led	√	1	ƒ	8	 	6	,	1	.	1	a	1	e	1	l	2	n	7	u	6
+lee	h	1
+leh	≈	2	k	1	l	3	n	1
+lej	≈	1	e	1
+lek	√	3	‚	1		1	 	1	.	1	a	4	l	3	n	7	o	2	t	2
+lel		1	 	1	,	2	.	1
+lem	 	3	,	1	.	1
+len	√	3	 	1	d	1	i	4	k	7	o	2	t	1
+lep	a	1	e	1
+les	e	1	k	8	l	1	t	1
+let	√	4	ƒ	3	n	1	y	1
+lev	a	1	o	2
+lez	,	1	e	3	l	1	t	3
+leƒ	ç	7
+le≈	°	1	æ	11
+lha	l	3
+lho	s	1	t	1
+li		9
+li 	ƒ	2	≈	2	‚	4	K	1	a	5	b	2	c	3	d	7	h	3	j	5	k	7	l	1	m	1	n	10	o	6	p	18	r	2	s	34	t	8	u	2	v	14	z	6
+li!	‚	1		1	 	4
+li,	‚	1		2	 	17
+li.	‚	1		8	 	10
+li:	 	1
+li?	 	2
+lib	√	1	n	1	o	1
+lic	,	1	i	1
+lid	√	10	m	1	n	4	s	1
+lik	√	6	 	7	,	1	a	2	o	1	r	4
+lil		1	 	3	,	3	.	1	?	1	a	2	i	1
+lim	a	1
+lin	k	1	t	1
+lis	t	1
+lit	,	1	e	1	i	1
+liv	√	1	ƒ	7	l	1
+liƒ	ç	4
+li≈	°	3	æ	1
+lk 	a	1
+lka	m	1	n	1
+lke	m	1
+lkl	√	1
+lku		1	 	9
+lky	 	1	,	1	.	1
+lk√	©	1	Ω	1
+lk≈	Ø	1
+lmi		1	 	7
+lni	c	5	l	1
+lno	s	1	u	2
+lnu	,	1
+ln√	©	7	≠	1	Ω	3
+lnƒ	õ	5
+lo		7
+lo 	≈	1	O	1	a	9	b	7	c	1	d	4	h	3	i	1	j	5	k	3	l	1	m	3	n	6	o	5	p	1	r	3	s	7	t	6	u	1	v	5	z	7
+lo!	 	2
+lo,		1	 	13
+lo.		6	 	9
+lo:	 	1
+lo?	‚	1
+lob	a	1	i	3
+lod	ƒ	8	y	1
+loh	o	1	y	3
+lom	√	1	 	1	b	1	i	4
+lon	ƒ	2	i	4
+los	t	6
+lot	 	3	,	2	u	2
+lou	ƒ	2	‚	1		3	 	6	c	9	h	12	k	5	p	6	v	3	z	2
+lov	√	3	ƒ	11	≈	1	 	1	a	6	e	1	i	3	o	1	s	1	u	1
+loz	e	3	i	1
+lo≈	°	1	æ	4
+lsk	√	1
+lte	.	1
+lu 	a	1	j	1	n	1	p	1	s	2	v	1	z	1
+lu,	 	6
+lu.		1	 	2
+lub	i	2	o	3
+luc	h	1	i	9
+luj	√	3	e	1
+luk	≈	1	.	1
+lul	y	1
+lum	e	3	i	1
+lun	√	2	c	3
+lup	i	1
+lus	o	1	t	1
+luv	i	5	y	1
+lu≈	à	1	°	1
+lv 	v	1
+lva	n	1
+lve	r	2
+ly		1
+ly 	‚	1	a	4	d	5	h	2	m	3	n	6	o	2	p	4	s	4	t	2	v	5	z	3
+ly,	 	6
+ly.		4	 	6
+ly:	 	1
+ly?	‚	1		1
+lyn	u	2
+ly≈	°	7
+lz.	 	1
+lza	l	1
+lzy	 	1	.	1
+l√°	ƒ	4	≈	4		1	 	5	,	1	:	1	b	2	c	2	d	9	k	6	m	15	n	1	s	2	t	1	v	5
+l√©	≈	1	 	9	,	2	d	4	h	6	k	7	m	5	n	1	p	4	t	3	v	1
+l√≠	ƒ	5	≈	16	 	7	,	2	.	1	?	2	b	2	c	1	d	6	k	2	m	5	n	1	t	6	v	1	z	9
+l√∫	ƒ	1	 	1	b	1	c	1	p	1
+l√Ω		2	 	16	,	2	c	4	m	4	s	1
+lƒç	√	3	k	2
+l≈à	√	1
+l≈°	√	2
+l≈Ø	≈	1	 	2	!	2	,	3	m	1
+l‚Ä	ú	3
+m	√	1	b	1	d	1	j	1	k	1	m	1	n	1	p	3	s	2	t	2	u	3	z	2
+m H	e	1
+m J	e	1
+m a	≈	2	 	14	n	4
+m b	ƒ	2	i	1	u	3	y	6
+m c	e	2	h	4	o	3
+m d	√	4	ƒ	1	n	1	o	13	v	2
+m e	≈	1	n	1
+m h	√	1	l	2	n	1	o	3	r	1
+m j	√	1	a	3	e	5	i	1
+m k		1	 	2	a	2	d	1	e	3	l	4	o	2
+m l	e	3
+m m	√	1	ƒ	1	l	1	o	2	r	2	u	2	y	2
+m n	ƒ	1	a	6	e	10	y	1
+m o	ƒ	1	 	1	b	3	k	4	p	1
+m p	√	1	ƒ	1	≈	8	e	1	o	12	r	6	u	1
+m r	a	2	o	2	y	1
+m s		1	 	3	a	5	e	9	h	1	i	3	l	2	m	2	t	2	u	1	v	2
+m t	ƒ	3	≈	1	a	10	e	2	i	5	o	6	r	1	y	1
+m u	≈	3	 	4	c	1	d	1	k	3	s	1	t	1
+m v	√	6	ƒ	1	≈	1	 	2	a	1	e	3	l	1	n	1	o	1	r	2	y	8	z	1
+m z	√	2	 	1	a	9	b	1	d	1	e	1	v	1
+m √	∫	3
+m ≈	ô	1	°	2	æ	3
+m ‚	Ä	16
+m!		2
+m! 	A	1	M	1	T	1
+m!‚	Ä	7
+m,		5
+m, 	ƒ	1	≈	4	a	7	b	1	c	2	h	3	j	3	k	2	m	2	o	2	p	4	s	3	t	2	z	1
+m,‚	Ä	4
+m.		11
+m. 	≈	1	‚	1	.	2	A	4	B	1	J	1	O	1	T	1	V	1	Z	1
+m.‚	Ä	1
+m: 	‚	1
+m? 	A	1	O	1	Z	1
+m?‚	Ä	3
+ma		1
+ma 	ƒ	1	B	1	a	1	d	2	j	1	n	1	o	1	r	1	s	3	t	1	z	1
+ma!		1
+ma.	‚	1		1	 	4
+ma?	‚	1	 	1
+mah	o	1
+maj	√	4	e	2
+mal	√	8	‚	2	 	3	.	3	i	3	o	3	u	7	y	1
+mam	i	4	k	1
+man	√	2	i	1
+mar	√	6	i	1	n	2
+mas	o	1
+mat	k	2	o	3	u	1
+mav	√	1
+ma≈	æ	1
+ma‚	Ä	1
+mbo	h	2	r	1
+mbu	 	1	s	1	v	1
+mde	s	3
+me		3
+me 	ƒ	2	≈	1	H	1	d	5	h	1	j	2	m	1	n	1	p	4	s	6	t	5	u	1	v	2	z	2
+me!	‚	2	 	2	!	1
+me,	‚	1	 	2
+me.	‚	1		1	 	3
+me?	‚	3
+mec	h	1
+men	√	6	≈	1	 	3	,	2	.	3	e	3	i	1	n	1	u	1
+met	l	1	o	1	r	2
+mez	,	1	i	2
+meƒ	ç	6
+mfl	 	1
+mho	u	1
+mi		3
+mi 	√	1	‚	3	a	1	b	4	c	1	d	2	g	1	h	2	l	1	m	1	n	1	o	2	p	3	r	2	s	3	t	2	u	1	v	1	z	2
+mi!	 	2
+mi,		1	 	6
+mi.		3	 	4
+mij	i	1
+mil	 	4	,	1	i	1	o	1	y	1
+mim	o	1
+min	k	7	u	1
+mis	t	1
+mit	i	2	o	1
+miz	e	1
+miƒ	ç	1
+mi≈	æ	1
+mi‚	Ä	1
+mkn	ƒ	1
+mko	,	2
+mku	 	3
+ml.	 	1
+mla	!	1	,	1	d	1	t	1
+mli	.	1
+mlk	l	1
+mlo	u	3
+mlu	v	5
+ml√	°	1	©	4
+mlƒ	ç	3
+mne	 	2
+mno	s	2	u	1
+mn√	©	5	∫	2	Ω	3
+mnƒ	õ	17
+mo 	k	1	m	1	n	2	t	1	v	1
+mo,	 	1
+mo.	 	3
+moc	 	2	!	1	i	4	n	9
+mod	≈	1	r	4
+moh	l	21	o	1	u	1
+moj	i	1
+mom	l	1
+mor	o	1	y	6
+mos	√	2
+mot	≈	1	o	1	u	1
+mou	 	1	,	3	d	1	t	1
+mov	√	1	a	4
+mo≈	ô	2	æ	14
+mp√	∫	1
+mra	ƒ	1	v	1	z	1
+mrk	l	1	n	1
+mrt	.	1	i	1
+mrz	e	1
+mr√	°	1
+mr≈	°	4
+msi	 	1
+msk	√	1
+mst	v	1
+mto	 	1
+mu		9
+mu 	√	1	F	2	J	2	O	1	P	1	R	1	a	1	b	4	c	1	d	8	h	2	j	1	k	6	l	1	m	2	n	9	o	2	p	4	r	1	s	5	t	4	u	5	v	9	z	3
+mu,		1	 	6
+mu.		2	 	3
+muj	e	3
+muk	!	2
+mur	n	1
+mus	√	5	e	5	i	1
+mut	n	3
+muƒ	ç	1
+mu≈	æ	4
+my		1
+my 	s	1	v	1
+my!	‚	1	 	1
+my.	 	1
+myd	l	1
+myk	a	1
+myl	,	1
+mys	l	10
+myt	√	1
+my≈	°	7
+m√°	≈	3		1	 	10	-	2	.	1	c	1	l	3	m	15	n	3	s	1	t	6	v	1
+m√©	 	1	n	3
+m√≠	ƒ	1	≈	4		1	 	2	,	1	c	4	n	5	s	12	t	6	v	8
+m√Ω	≈	1	,	1	c	1	k	2
+mƒõ	≈	4	 	5	.	1	c	1	j	1	k	3	l	26	n	8	r	6	s	4	t	3	v	3
+m≈ô	√	2
+m≈Ø	≈	6	 	4	,	3	.	2
+m≈æ	 	3	i	7
+m‚Ä	ú	3
+n	N	1	n	1	p	1
+n C	y	1
+n I	g	1
+n L	o	1
+n N	o	2
+n a	 	4	b	1
+n b	l	1	o	1	u	1	y	2
+n c	e	1	i	3	o	1
+n d	n	1	r	1
+n h	l	1	n	1	r	1
+n j	e	5
+n k	√	1	≈	2	o	1
+n m	ƒ	1	a	1	u	1
+n n	a	4
+n o	 	1	d	1	s	1
+n p	e	1	o	3	r	1
+n r	o	1
+n s	e	4	i	2	n	1	t	2
+n t	a	1	o	1
+n u	ƒ	1	s	2
+n v	√	1	y	2
+n z	a	1	u	1
+n ƒ	ç	1
+n ≈	°	2	Ω	1
+n ‚	Ä	2
+n! 	‚	1	K	1	M	1	S	1
+n!‚	Ä	2
+n, 	c	1	h	1	j	2	n	1	p	1
+n,‚	Ä	2
+n.		6
+n. 	≈	1	.	1	J	1	N	2	P	1	V	1	Z	1
+n.‚	Ä	1
+na		15
+na 	ƒ	1	≈	5	‚	1	I	1	J	1	K	1	L	1	N	1	P	2	T	2	a	1	b	14	c	7	d	16	h	6	j	7	k	9	l	5	m	4	n	30	o	6	p	10	r	4	s	14	t	11	u	1	v	3	z	8
+na!		1	 	1
+na,	 	6
+na.		3	 	4
+nab	√	1	r	1
+nac	h	1
+nad	√	3	ƒ	1	≈	1	 	5	a	2	n	2	o	1	r	1	u	1
+naf	o	1
+nah	o	1
+naj	d	3	e	2
+nak		1	l	1
+nal	 	10	,	1	a	1	e	2	i	5	o	1
+nam	√	1	e	4	i	1	n	1	u	2
+nan	o	1
+nap	√	1	ƒ	1	≈	2	a	5	j	4	l	2	o	3	r	2
+nas	a	1	k	1	l	3	t	2
+nat	√	2	 	1	e	1	r	3
+nav	a	3	e	1	r	1
+naz	n	1
+naƒ	ç	2
+na≈	à	1	ô	1	°	5	æ	1
+nba	,	1
+nbi	t	1
+nbu	,	1
+nb√	≠	1
+nce	 	3	,	6	m	1
+nci	‚	1		1	.	1
+nda	 	9	,	1	.	3
+nde	r	1
+ndo	,	1	u	2	v	4
+ndr	o	1	y	1
+ndu	 	1	.	1
+ndy	!	1
+nd√	°	1
+ne		4
+ne 	‚	3	a	2	b	1	c	2	d	2	h	2	j	3	k	1	m	1	n	2	p	2	r	1	s	2	u	1	z	2
+ne!	‚	2
+ne,	 	10
+ne-	l	4
+ne.	 	3
+ne?	‚	3	 	3
+neb	√	2	e	5	i	1	l	1	o	11	u	7	y	15
+nec	‚	1		1	 	1	!	1	.	1	e	2	h	23	o	2
+ned	√	7	ƒ	2	≈	1	 	13	,	1	a	3	b	1	i	1	o	5	u	1
+neg	d	1
+neh	d	1	n	1	o	1	r	2	t	1
+nej	a	1	d	1	e	2	h	1	k	1	l	2	m	2	p	1	r	1	s	8	v	5
+nek	≈	1		2	 	21	,	2	.	6	e	1	l	1	o	1
+nem	√	10	ƒ	7	 	3	,	1	?	1	b	2	e	1	o	7	u	1	y	1
+nen	√	5	a	6	e	2
+neo	ƒ	1	b	3	d	1	p	1
+nep	≈	8	a	1	l	1	o	13	r	2	u	2
+ner	a	1	o	2
+nes	 	20	,	2	i	2	l	6	m	3	n	2	o	1	p	3	t	2
+net	a	1	l	1	r	3
+neu	b	1	d	2	k	2	t	3
+nev	√	1	ƒ	4	≈	5	a	1	i	4	l	2	r	1	y	3	z	1
+nez	√	1	≈	2	a	8	d	2	n	2	p	1	t	1
+neƒ	ç	53
+ne≈	°	10	æ	14
+ni		2
+ni 	ƒ	1	B	1	a	1	b	2	c	1	d	1	j	1	k	1	m	3	n	13	o	1	p	5	r	1	s	8	u	1	v	2
+ni!	 	1
+ni,	 	6
+ni.		2	 	4
+ni?	‚	1
+nic	 	11	!	1	,	2	.	2	e	7	h	9	i	4	k	1
+nik	d	11	l	1	n	2	o	1
+nil		1	 	11	,	1	.	1	?	1	a	3	i	2
+nim	√	1	 	5	.	1	i	1
+nit	ƒ	2	≈	1	e	1	i	3
+niv	ƒ	1
+niƒ	ç	1
+ni≈	æ	1
+nka	 	16	!	1	,	3	.	5	m	2
+nke	m	2
+nko	,	1	u	1	v	6
+nku	 	3	!	2	,	7	.	3	?	1
+nky	 	3	!	1	,	2	.	2
+nk√	°	1	Ω	3
+nn√	©	1	≠	3	Ω	1
+nnƒ	õ	2
+no		1
+no 	≈	1	‚	3	a	1	m	1	n	1	o	1	p	4	r	1	s	4	t	2	v	2	z	5
+no!	‚	2	 	1
+no,	‚	1	 	11
+no.	‚	1		1	 	1
+noc	 	1		1	 	2	!	1	?	1	i	5	n	2
+noh	√	1	a	4	o	2	u	1	y	3
+nom	‚	2		1	 	28	a	1
+nos	i	1	t	9
+not	l	1	v	1
+nou		1	 	23	,	2	.	4	c	2	t	14
+nov	√	9	i	2
+noz	√	1
+noƒ	ç	1
+no≈	ô	1	°	1
+nsi	s	1
+ntk	y	1
+ntl	i	1
+nto	 	1	v	1
+ntu	!	1
+nt√	°	7
+nt≈	Ø	1
+nu 	‚	2	b	1	m	1	t	1	v	1	z	1
+nu,	 	3
+nu.		2	 	1
+nu:	 	2
+nul	 	3	.	2	i	1	o	2	y	1
+nut	√	15	ƒ	1	 	1	i	1	y	1
+ny		2
+ny 	‚	1	K	1	a	1	b	1	j	1	k	1	m	1	n	1	o	4	p	1	s	2	t	2	v	1
+ny!		2
+ny,	 	5
+ny.		2	 	5
+nyn	√	3	k	1
+n√°	ƒ	2	≈	4		1	 	13	,	2	.	3	?	1	c	16	d	3	h	7	k	1	l	2	m	6	p	3	s	9	t	1	v	3
+n√©	‚	1		4	 	31	!	2	,	6	.	3	h	21	m	5	n	2	s	1
+n√≠	ƒ	8	≈	2		4	 	55	,	11	-	1	.	17	?	2	c	6	d	2	h	5	k	19	m	28	v	1	z	6
+n√∫		1	 	3	t	1
+n√Ω		2	 	27	!	2	,	2	.	5	?	1	b	2	c	13	m	19
+nƒç	√	1	e	1	i	1
+nƒõ	ƒ	1	‚	1		9	 	96	!	1	,	11	.	14	?	2	c	11	h	11	j	30	k	26	l	13	m	20	n	3	t	5	z	3
+n≈°	√	1
+n≈Ø	≈	1	 	1
+n‚Ä	ú	1
+o	≈	1	L	1	a	2	b	6	c	1	d	2	h	2	j	3	k	3	l	1	m	4	n	3	o	1	p	3	r	1	s	6	t	3	u	2	v	3	z	5
+o C	y	1
+o E	m	1
+o F	a	4	e	1
+o K	a	4
+o M	a	3	o	1
+o N	e	1
+o O	l	2
+o P	e	3
+o R	u	1
+o T	≈	1	o	2
+o V	ƒ	1	a	1	r	1
+o a	 	9	n	3	s	1
+o b	√	3	ƒ	2	≈	3	i	1	l	1	o	3	r	3	u	7	y	40
+o c	e	2	h	9	i	2	o	1
+o d	√	3	ƒ	5	a	2	i	4	l	3	n	4	o	10	r	1	v	7
+o e	≈	1
+o h	≈	1	a	2	e	1	l	7	n	1	o	3	r	3
+o i	 	2
+o j	√	2	a	2	e	34	i	16	s	4
+o k	≈	2	 	2	a	4	d	1	o	7	r	5	u	2	v	1
+o l	√	2	e	3	h	1	i	3	o	1
+o m	√	5	ƒ	2	a	3	e	1	l	1	o	6	u	5	y	2
+o n	√	5	ƒ	15	a	11	e	27	i	8	o	1
+o o	ƒ	2	 	1	b	1	d	5	k	1	m	1	n	1	p	2	s	2	t	2	z	1
+o p	ƒ	2	≈	12	a	1	l	1	o	16	r	7	s	1
+o r	√	2	a	3	e	1	o	4	t	2	u	5	y	2
+o s	√	2	 	5	a	3	e	28	i	3	k	2	l	2	m	6	n	1	o	4	p	2	t	11	u	1	v	8	y	1
+o t	√	2	ƒ	1	≈	2	a	14	e	9	i	4	o	17	r	1	u	1	v	2	y	1
+o u	≈	4	b	1	c	2	d	1	m	1	v	1
+o v	√	9	≈	3	 	4	e	8	l	1	y	5	z	1
+o z	√	5	≈	2	 	3	a	24	b	2	d	1	e	1	k	1	l	2	m	1	n	2	t	1	v	2
+o √	∫	2
+o ƒ	ç	3
+o ≈	ô	6	°	7	æ	5
+o ‚	Ä	11
+o! 	A	1	I	1	M	1	P	2	T	1	V	2	Z	1
+o!‚	Ä	7
+o,		3
+o, 	≈	10	H	1	M	1	a	11	b	1	c	6	d	4	g	1	h	2	j	5	k	7	m	1	n	10	o	1	p	9	s	2	t	6	v	2	z	1
+o,‚	Ä	3
+o.		13
+o. 	‚	1	.	2	A	2	B	3	D	2	G	1	H	1	K	3	O	2	P	3	R	1	T	3	V	3	Z	1
+o.‚	Ä	1
+o: 	‚	2
+o? 	≈	1	A	1	C	1	N	1	T	1	V	1
+o?‚	Ä	9
+oba	 	2	m	1	r	1
+obc	h	3	i	1
+obe	≈	1
+obh	l	1
+obi	j	1	l	3	t	1
+obj	e	5
+obl	√	2	a	1	e	2	o	3
+obn	√	1	ƒ	1
+obo	≈	1	d	2	j	1	t	2	v	1
+obr	√	7	o	6	y	1
+obs	a	1
+obu	 	1	d	8
+oby	ƒ	2	 	1	,	1
+ob√	°	2	≠	8	Ω	2
+obƒ	õ	13
+ob≈	ô	13
+oc		1
+oc 	a	1	j	1	n	2
+oc!	‚	1		1
+oc?		1
+oce	 	2	l	1	n	1
+och	√	1	 	1	.	1	l	1	o	6	u	8	y	1
+oci		1	 	5	.	2	?	1	t	1
+ocn	√	7	i	4
+od		4
+od 	P	1	T	1	V	1	d	2	h	2	k	4	l	3	n	5	o	1	p	2	s	4	t	2	v	1
+od,	 	1
+oda	,	1	.	1	l	1
+odb	a	1
+odc	h	2
+odd	e	1	y	2
+ode	≈	1	 	1	j	1
+odh	o	3	r	1
+odi	l	9	n	10	t	4	v	2
+odj	a	1
+odk	u	2
+odl		1	 	1	,	1	a	2	e	2	n	2	o	1
+odm	ƒ	4
+odn	√	7	ƒ	3	i	1	u	2
+odo	b	1	l	2	v	2
+odp	√	1	o	8	u	1
+odr	√	3	a	1	u	2
+ods	k	4	t	1
+odu	 	3	.	2
+odv	√	3	a	1	e	1	r	1
+ody		1	 	2	,	1	.	2
+od√	°	3	≠	13
+odƒ	õ	14
+od≈	ô	1	Ø	1
+oft	,	1
+oh 	s	1
+oh,	 	1
+oha	 	1	.	1	m	1	n	3	s	1	t	3	v	1
+ohe	m	3
+ohl	√	6		2	 	12	.	2	a	3	e	7	i	4	o	1
+ohn	e	1	u	1
+oho		1	 	16	,	2	.	1	d	2	t	1	u	3	z	1
+ohr	√	1	o	2
+ohu	≈	11		1	 	3	.	6	t	1
+ohy	 	3	,	1	.	2	?	1	b	3
+oh√	°	3	Ω	3
+oj,		1
+ojd	ƒ	2	e	1
+oje		1	 	1	d	14	k	1	l	1	n	2	v	1
+oji	,	1	.	1
+ojn	√	2	ƒ	1
+ojt	e	2
+ojz	√	1	a	7	e	1	k	1	o	3	u	5
+oj√	°	1	≠	2
+ojƒ	è	8
+ok 	b	1
+ok!	 	1
+ok.		1
+oka	 	1	m	7	z	1
+oke	m	1
+okl	a	2	u	1
+okn	a	2	o	3
+oko	 	2	,	1	.	1	j	2	l	12	n	1	u	1
+okr	y	1
+oku	≈	2	s	1
+oky	 	1	,	1	.	2
+ok√	°	3	©	3	Ω	5
+ok≈	ô	2	Ø	4
+ola	?	1	l	2
+ole	≈	1		1	 	4	,	1	d	4	h	2	k	3	m	3	n	1	t	1	z	1
+oli	ƒ	1	b	1	k	15	l	3	t	1
+olk	e	1
+oln	ƒ	1	o	1
+olo	 	7	m	2	u	2	z	1
+olu	 	3	,	2	.	1
+olv	e	2
+oly	 	1
+ol√	°	13	©	3	≠	5
+ol≈	à	1	Ø	5
+om		6
+om 	‚	6	a	3	b	1	c	1	d	3	h	1	j	3	k	2	l	1	m	4	n	4	o	1	p	5	r	2	s	6	t	6	u	2	v	2	z	5
+om!	‚	1
+om,	‚	1	 	1
+om.	 	1
+om:	 	1
+om?	 	1
+oma	 	3	!	1	.	4	?	1	l	8	r	1
+omb	u	1
+ome	ƒ	5	,	1	c	1	n	2	t	1
+omi	l	4	t	2
+omk	u	2
+oml	o	2	u	2
+omn	√	1	ƒ	8	o	1
+omo	≈	3	c	6	h	1	r	7	v	3
+omr	a	1	z	1
+oms	k	1
+omt	o	1
+omu	 	12	,	1	.	3
+omy	≈	1	.	1
+om√	°	2	≠	6
+omƒ	õ	1
+om≈	Ø	9
+om‚	Ä	2
+on 	‚	1	c	1	d	1	j	1	p	1	t	1
+on!	 	2
+on.		1
+ona	.	1
+onc	e	1	i	2
+ond	a	3
+one	ƒ	47	c	2	h	1	k	4
+oni	 	1	l	6
+onk	a	1	o	2	u	2
+ono	≈	1	 	2	c	2	u	1
+onu	.	1	t	1
+ony	 	1	n	1
+on√	°	1	≠	14
+onƒ	ç	1	õ	12
+op!	 	1
+opa	ƒ	1	!	1	d	4	k	2	n	2	t	4
+ope	r	1
+opi	l	7	t	2
+opo	≈	1	u	1
+opr	a	18
+op√	°	2	≠	2
+opƒ	õ	3
+op≈	ô	2
+or		1
+or 	j	1	k	1	n	1	s	1	u	1	z	1
+or!		1
+or,	 	1
+ora	 	4	,	3	.	2	z	1
+ore	ƒ	3	 	2	,	4	m	1
+orn	√	2	ƒ	1
+oro	ƒ	1	 	4	u	1	v	4
+oru	 	2	n	6
+ory	 	5	.	2
+or√	°	3
+or≈	à	1	°	4
+os 	d	1	m	1	t	2
+osa	d	1
+ose	b	1	d	1
+osi	 	2	.	1	l	2	t	1
+osk	a	1	o	2
+osl	√	1	a	1	e	3	o	5
+osm	d	2
+osp	o	1
+ost	√	9	≈	2	 	7	!	1	,	5	.	5	?	1	a	50	e	8	i	13	l	4	n	2	o	10	r	2	y	1
+osu	d	1
+osv	√	1	o	1
+osy	p	1
+os√	≠	9
+ot 	b	1	i	1	p	2	r	1	t	1	u	1	v	1
+ot,	 	3
+ot.	 	3
+ot:		1
+ota	≈	5	 	1	.	2
+ote	c	3	m	1	v	3
+oti	≈	2	 	4	c	3	l	1	v	1
+otk	a	1	l	1	n	1
+otl	√	1	a	2	i	1	o	1
+otm	ƒ	1
+otn	√	5	ƒ	1
+oto	ƒ	4	≈	3	 	6	k	2	m	15	r	1	u	2	v	3
+otr	h	1
+otu	 	1	,	3	.	1
+otv	√	1	a	7	o	1
+oty	 	2	,	2
+ot√	°	3	≠	2	Ω	1
+otƒ	õ	1
+ot≈	ô	1
+ou		11
+ou 	≈	3	‚	2	F	1	J	1	T	1	a	2	b	2	c	2	d	2	h	6	i	2	j	5	k	2	l	2	m	6	n	6	o	3	p	6	r	4	s	10	t	8	u	7	v	5	z	6
+ou,	 	11
+ou-	l	1
+ou.		3	 	7
+ou?	 	1
+oub	e	1	i	1	k	1	u	1
+ouc	√	5	e	1	h	9	i	2
+oud	ƒ	1	a	2	r	1	u	2	y	6
+ouf	a	3
+ouh	√	6	l	2	o	6
+ouk	a	3	l	5	y	1
+oul	a	2
+oun		1	 	1	a	1	e	1	o	1
+oup	√	1	ƒ	1	a	1	c	1	e	2	i	6	l	2	n	1
+our	a	1
+ous	√	1	e	8	k	1	l	1	t	1
+out	 	2	,	1	.	1	?	1	i	10	k	1	y	1
+ouv	√	1	a	2	i	1
+ouz	 	1	e	1	l	2	n	1
+ouƒ	ç	3
+ou≈	ô	5	°	5
+ou‚	Ä	2
+ov 	t	1
+ov.	 	1
+ova	≈	1		1	 	6	!	1	,	3	j	1	l	42	n	4	t	5
+ove	ƒ	1	c	1	d	2	l	1	z	1
+ovi		3	 	24	!	1	,	7	.	4	?	2	n	1	s	1	t	3
+ovl	√	1
+ovn	√	1	a	1	i	2	o	2
+ovo		1	 	1	.	1	l	1	s	1	t	5	u	4	v	1
+ovs	k	2
+ovu	 	1
+ovy	 	6	k	3
+ov√	°	13	©	20	≠	14	Ω	30
+ovƒ	õ	18
+ov≈	ô	1	°	2	Ø	1
+oza	 	7	.	6
+ozb	√	1	ƒ	1	a	1	i	3	y	1
+ozd	ƒ	7	o	1
+oze	 	2	.	1	c	1	d	1	h	1	n	1	s	1	z	2
+ozh	l	3	o	7
+ozi	l	1	t	1	v	1
+ozk	a	4	o	1
+ozl	√	1	e	1
+ozm	a	1	l	2
+ozn	√	1	a	3
+ozo	l	2	r	4	u	1	v	1
+ozr	a	2
+ozt	r	2
+ozu	m	6
+ozv	ƒ	1	a	3
+oz√	≠	3	Ω	1
+ozƒ	ç	1
+oz≈	°	1
+oƒç	√	18	 	4	,	1	e	6	i	44	k	5	n	2
+oƒè	 	2	m	1	t	4
+o≈à	 	8
+o≈ô	√	5	e	6	i	7
+o≈°	ƒ	1	 	1	.	1	e	1	i	2	k	1	l	2	t	1	u	1
+o≈•	 	8
+o≈æ	√	10	 	22	,	2	e	13	i	1	k	2	n	10	o	1	u	1
+p! 	a	1
+p.		1
+pa!	‚	1
+pac	h	2
+pad	a	2	l	16	n	9
+pag	√	2
+pak	 	4	o	1
+pal	 	5	,	1	.	1	?	1	a	1	e	3	i	3	k	2	o	1
+pam	a	4
+pan	√	7	 	3	a	2	c	1	e	2	i	1	o	1
+par	t	1
+pas	e	2	t	4
+pat	≈	1	 	1	.	2	i	1	n	3	r	10
+pav	√	1	ƒ	1
+paƒ	ç	1
+pce	 	3	m	1
+pci		1	 	11	,	7	.	1
+pc≈	Ø	4
+pe 	‚	1	n	2	t	1
+pe,	 	1
+pec	 	5	?	1
+pek	,	1
+pel	√	1	e	1
+pen	√	6	ƒ	3	,	1	a	1	s	1	t	1
+per	e	1
+pes	 	2	n	1	t	4
+pev	n	1
+peƒ	ç	7
+pil		1	 	8	i	3
+pin	a	1
+pit	e	1	i	2
+piƒ	ç	2
+pi≈	°	1
+pja	l	2	t	3
+pk≈	Ø	1
+pl 	n	1	s	1
+pla	≈	1	k	3	t	1
+plh	a	2
+pli	 	1	v	1
+pln	√	1	ƒ	2	i	1
+plo	 	1	d	1	t	6	u	1
+plu	≈	1	l	1
+ply	n	2
+pl√	°	4	©	4	≠	1
+pne	≈	1	 	1
+pn√	©	1
+po		8
+po 	≈	1	‚	1	P	1	c	2	d	2	j	1	k	1	l	2	n	3	r	2	s	3	t	1	v	2	z	1
+pob	√	5	i	1	l	1	u	3
+poc	h	7
+pod	√	10	ƒ	1		1	 	10	e	1	i	2	l	2	n	1	o	1	u	1
+poh	√	1	a	1	l	6	n	1	o	3	r	1	y	3
+poj	ƒ	7	e	7
+pok	√	1	≈	2	l	3	o	2	r	1	u	3
+pol	√	7	e	9	o	1	u	1
+pom	√	4	≈	1	a	7	e	2	n	8	o	8	y	1
+pon	ƒ	2	o	1
+pop	o	1
+por	o	1
+pos	a	1	k	2	l	7	t	13
+pot	 	2	.	1	:	1	i	3	k	1	l	1	m	1	o	15	y	1
+pou	≈	3	z	1
+pov	√	6	ƒ	2	a	3	e	1	o	1	y	3
+poz	b	1	d	3	n	2	o	4
+poƒ	ç	8	è	4
+po≈	à	8	ô	4	°	2
+pra	c	2	l	1	m	2	s	4	t	6	v	28
+prc	h	1
+pro	ƒ	3		1	 	12	b	4	c	2	h	6	j	1	l	1	n	1	s	8	t	10	u	1	v	1	z	2
+prr	r	1
+prs	a	1	o	2
+prt	e	1
+pru	d	7	t	5
+prv	e	2	n	3
+pry	ƒ	5	 	1
+pr√	°	21	Ω	2
+pr≈	Ø	1
+psa	,	1	.	1	n	1
+psi	 	1	.	1
+psy	 	1	,	1
+pta	l	1	t	1
+pt√	°	3
+pu.	 	1
+puj	√	1	d	2
+pus	t	10
+pu≈	°	4
+pyt	i	1
+py≈	°	1
+p√°	l	4	m	2	n	5	s	1	t	5	v	1
+p√©	,	1
+p√≠	≈	3	 	1	,	1	?	1	k	1	m	1	n	1	r	3	s	1	v	3
+p√∫	,	1
+pƒç	e	3
+pƒõ	 	2	c	3	j	1	k	9	l	2	s	6	t	10
+p≈ô	√	22	a	1	e	68	i	54
+p≈Ø	j	10	l	3	s	1
+r	v	1
+r P	e	1
+r a	 	2	s	1
+r b	e	1
+r j	√	1	a	1
+r k	√	1
+r n	a	1	e	2
+r o	d	2
+r p	o	1
+r r	√	1
+r s	e	4	i	1	n	1
+r u	 	1	c	1
+r v	y	1
+r z	√	1	a	1	v	1
+r ≈	†	1
+r ‚	Ä	1
+r!		1
+r! 	A	1
+r!‚	Ä	2
+r, 	K	1	t	1	v	1	z	1
+r.		1
+r. 	B	1
+ra 	‚	1	a	3	b	2	d	1	j	1	k	1	o	1	p	3	s	1	t	1	v	1	z	1
+ra,	 	5
+ra.		1	 	2
+rab	a	2	c	1	e	1
+rac	h	9	o	1	u	1
+rad	√	1	ƒ	4	 	1	e	1	i	2	o	7	u	3
+rah	o	2	u	1	y	1
+rai	f	1
+raj	√	2	.	1	e	2	i	1	u	1
+ral	 	8	.	1	a	3	i	2	y	1
+ram	√	2	a	1	b	1	o	1
+ran	ƒ	2	.	3	a	1	c	1	k	2	n	3	t	1	y	4
+rap	n	1
+ras	k	4	t	1
+rat	√	1	ƒ	6	≈	3	 	1	.	2	a	1	i	3	n	1	r	1
+rav	√	1	 	1	,	1	a	2	d	21	e	3	i	1	o	2
+raz	√	1	e	1	i	9	o	2	u	1
+raƒ	ç	1
+ra≈	°	6	æ	3
+rba	?	1
+rbe	n	1
+rbu	,	1
+rby	 	1
+rb√	°	2
+rb≈	Ø	1
+rch	n	1
+rci		1
+rco	v	1
+rda	 	3	.	1
+rdc	e	1
+rde	ƒ	1
+rdi	l	1	n	2
+rdl	o	1
+rdo	?	1	v	1
+rdu	 	1
+rd√	©	2	Ω	1
+re 	d	2	s	1
+re,	 	4
+re:	 	1
+reb	√	1
+rec	h	1
+ref	i	2
+rej	≈	2	!	1	m	4
+rel		1	 	11	,	2	.	4
+rem	 	4	,	2
+rep	t	1
+res	l	1	t	2
+rev	n	2	o	2
+rez	a	1
+reƒ	ç	3
+re≈	°	1
+rh 	b	1
+rha	l	3	n	1	t	3
+rhl	 	1	y	1
+rhn	√	1	e	1	o	1
+rho	v	1
+rh√	°	3
+ria	,	1
+ric	k	2
+rij	√	1
+ril	 	6	.	2	o	2
+rje	ƒ	1
+rka	 	3
+rkl	 	1	o	1
+rkn	u	1
+rku	,	1	?	1
+rla	.	1	t	1
+rle	,	2
+rlo	v	1
+rl√	≠	1
+rmi	l	1
+rmo	 	2	.	3	v	1
+rna	 	1
+rnc	e	1
+rne	ƒ	1	c	1
+rno	u	1
+rnu	l	3
+rn√	°	3	©	3	≠	5	Ω	4
+rnƒ	õ	14
+ro		1
+ro 	ƒ	1	‚	1	M	2	V	1	j	3	k	1	n	4	p	1	s	2	t	1	z	3
+ro!	‚	1	 	1
+ro,	 	2
+rob	√	2	a	1	o	2	u	4
+roc	h	9	i	1
+rod	n	1	r	2
+roh	√	3	l	3	r	1	u	1
+roj	,	1	e	2
+rok	√	1	≈	4	!	1	.	1	y	4
+rol	e	1	o	1
+rom	√	1	ƒ	1	,	1	e	7	k	2	n	1	o	2	s	1	u	1	y	1
+ron	√	1	a	1
+ros	√	6	e	2	i	2	t	26
+rot	√	2	i	5	o	6	y	1
+rou	≈	1	 	5	.	1	b	4	c	1	t	1
+rov	√	4	a	4	e	2	i	11	n	5	s	1
+roz	√	2	ƒ	1	≈	1	b	4	d	4	e	5	h	9	i	2	k	5	l	2	m	3	n	1	r	2	t	2	u	5
+roƒ	ç	8
+ro≈	°	2	æ	1
+rpa	t	1
+rpƒ	õ	3
+rr!	‚	1
+rrr	!	1	r	4
+rsa	 	1
+rso	u	2
+rst	v	1
+rt 	h	1
+rt.		1
+rte	k	2
+rti	 	1	,	1	n	1
+rto	u	1
+rt√	°	1
+rtƒ	õ	2
+rt≈	Ø	3
+ru 	s	2	v	1	z	1
+ru!	 	1
+ru.	 	3
+ru?	‚	1
+rub	e	1	k	1	o	2
+ruc	e	4
+rud	√	1	ƒ	1	c	6	k	1
+ruh	√	5	l	1	o	2
+ruk	a	5	o	5	u	2	y	1
+rum	f	1
+run	!	2	,	1	a	1	e	1	y	1
+rus	c	1	l	6
+rut	√	1	 	3	e	1	u	1
+ruƒ	ç	1	è	1
+ru≈	°	3	æ	2
+ru‚	Ä	1
+rva	ƒ	1	l	1
+rve	 	2	.	1	n	3
+rvi	l	1
+rvn	√	3	o	1
+rv√	°	1
+ry		1
+ry 	a	3	m	1	n	1	s	2	v	1	z	1
+ry.	 	2
+ryb	√	1	n	5
+ryc	h	19
+ryk	‚	1	 	1
+ryl	 	1	.	1	y	1
+rys	k	3	y	1
+ryt	√	1	 	1	u	1
+ryv	k	1
+ryƒ	ç	5
+ry‚	Ä	1
+rza	v	2
+rze	l	1
+rzy	 	1	.	1
+rz√	Ω	1
+r√°	ƒ	1	≈	4		1	 	8	,	1	.	3	b	1	c	9	d	11	h	2	k	1	l	9	m	1	n	16	p	1	s	12	t	21	v	16	z	12
+r√©		1	 	14	,	3	?	1	m	1
+r√∫	h	1
+r√Ω	ƒ	23		2	 	24	,	1	m	4	s	3	v	1
+rƒç	e	4	i	1	o	1
+r≈à	√	1
+r≈°	√	7	e	1	o	1	t	4
+r≈Ø	 	1	m	1	v	4	z	1
+r≈æ	√	4	 	2	e	3	o	2
+s	J	1	b	1	l	1	o	1	t	1
+s B	o	1
+s F	a	1
+s L	o	2
+s N	e	1
+s R	u	2
+s a	 	2
+s b	u	1	y	3
+s c	e	2	h	3	i	1
+s d	ƒ	1	o	3	r	2
+s h	o	2	r	2	u	1
+s j	√	3	a	2	e	6	i	1
+s k	a	2	e	1	o	3
+s l	a	1	e	1
+s m	√	1	ƒ	1	a	1	e	1	n	1	o	2
+s n	√	6	ƒ	2	a	2	e	5	o	1
+s p	≈	1	e	1	l	1
+s r	y	1
+s s	e	4	u	1
+s t	√	3	a	2	e	2	o	1	u	3	y	1
+s u	≈	1	m	1
+s v	√	3	ƒ	1	 	2	e	1	y	2
+s z	a	2	u	1	v	2
+s ƒ	ç	2
+s ≈	°	2	Ω	1
+s ‚	Ä	3
+s, 	‚	1	a	1	k	1	n	2	s	1
+s.		1
+s. 	.	1	A	1	R	1
+s? 	A	1
+sa		1
+sa 	ƒ	1	d	2	e	1	h	1	j	2	k	2	n	4	p	1	s	4	t	5	u	1	v	1
+sa!	‚	1	 	1
+sa,	 	3
+sa.	 	1
+sad	√	1	i	2
+sah	√	1	.	2	a	1
+sal	 	3	.	1	i	1
+sam	√	1	a	1	i	5	o	1
+san	√	1
+sas	 	2
+saz	e	1
+sa≈	ô	1
+sce	,	1
+sch	o	3
+scu	k	1
+sdƒ	õ	1
+se		21
+se 	√	1	ƒ	1	≈	3	‚	2	C	1	F	1	I	1	J	1	P	3	T	2	a	4	b	2	c	5	d	27	h	8	j	13	k	11	m	26	n	33	o	24	p	18	r	10	s	28	t	20	u	4	v	26	z	38
+se,	 	4
+se.		2	 	2
+seb	√	1	e	13	n	1	o	6
+sed	√	4	ƒ	2	≈	1	l	1	n	2	u	1
+sej	 	1	d	2
+sek	√	1	 	4	.	1
+sel	√	1	 	2	e	3	i	3
+sem		1	 	24	!	2	,	1	.	2
+sen	.	1	a	3	k	1	o	1
+ses	k	1
+set	 	2	.	1	i	1	k	1	r	1
+sev	≈	3
+se≈	°	1
+se‚	Ä	1
+sho	d	2
+shr	√	1	b	1	o	1
+sh√	°	1
+si		6
+si 	≈	2	c	1	d	4	e	1	h	9	j	13	k	4	l	2	m	4	n	10	o	4	p	6	r	1	s	6	t	8	u	4	v	10	z	3
+si!	‚	2	 	1
+si,	 	1
+si-	l	1
+si.	 	3
+si?	‚	1
+sic	√	1	e	10
+sil	√	2	 	5	,	1	.	1	i	1	n	7
+sis		1	 	1	t	1
+sit	ƒ	2	 	1	,	1	e	2	i	1
+sk 	k	1
+ska	 	1	!	1	k	1	l	4
+skl	 	3	,	1	.	1	a	2	e	1	o	6	y	3
+skn	e	1	o	1	u	2
+sko	ƒ	19	≈	1	n	1	r	4	u	1	v	1
+skr	√	1	ƒ	1
+sku	 	1	,	1	r	2	t	2
+sky		1	t	1
+sk√	°	4	©	2	Ω	2
+sk≈	ô	4
+sl 	F	1	o	1	p	1	s	1
+sla	,	1	.	1	b	1	d	3	l	1	m	1	v	1
+sle	 	1	,	2	.	1	c	9	d	3	e	1	l	2	m	1	z	3
+sli	 	1	b	1	l	3
+slo	u	7	v	8
+slu	c	1	n	3
+sly	≈	7
+slz	.	1	y	2
+sl√	°	7	©	1	≠	9	∫	2
+sma	≈	1
+smd	e	3
+sme	ƒ	1		1	 	9
+smr	t	2
+smu	t	3
+sm√	°	2	≠	13	Ω	2
+smƒ	õ	15
+sna	≈	1	d	4
+sne	m	1	s	2
+sni	c	2
+snu	l	2
+sn√	©	3	≠	7	Ω	7
+snƒ	õ	9
+so!	 	1
+sob	ƒ	2	i	1	n	1	o	2
+sok	√	3
+som	e	1
+sot	o	1	v	3
+sou	ƒ	1		2	 	12	-	1	c	2	d	2	h	2	k	2	s	4	v	1
+sov	a	4
+spa	d	1	l	8	n	1	t	3
+spl	n	1	y	2
+spo	≈	8	d	1	k	2	l	1
+spr	a	3
+spu	s	2
+sp√	°	6	≠	6
+spƒ	õ	3
+srd	e	1
+sse	b	1
+st 	‚	2	d	1	n	1	s	3	v	1
+st!	‚	1
+st,		1	 	5
+st.		5	 	3
+st?	 	1
+sta	≈	7		2	 	7	!	2	,	1	.	1	l	27	n	13	r	29	t	18	v	20
+ste	ƒ	2	 	10	c	2	j	3	l	7
+sti	 	8	!	4	,	2	.	4	h	1	l	9	s	2	t	1	v	1
+stl	√	2	a	1	i	2
+stm	√	1
+stn	√	5	ƒ	5
+sto	ƒ	3	 	7	,	3	h	10	j	3	l	7	n	1	t	2	u	10	v	9
+str	√	25	a	24	h	1	j	1	n	1	o	13
+stu	,	2	.	3	d	1	p	2
+stv	√	4	i	1	u	2
+sty	!	1	.	1	d	2
+st√	°	15	©	3	≠	19	Ω	3
+stƒ	õ	13
+st≈	ô	6	Ø	3
+su 	r	1	t	1
+su.	 	2
+sud	n	1
+suk	n	3
+sur	o	1
+su‚	Ä	1
+sve	z	2
+svl	√	1
+svo	b	2	j	1	u	3
+svr	h	1
+sv√	°	1	©	13	≠	5	Ω	4
+svƒ	õ	19
+sy 	d	2	j	2	s	3	z	1
+sy,	 	4
+sy.	 	4
+syn	e	1	k	2
+syp	a	1
+syƒ	ç	2
+s√°	 	1	m	14	n	1	t	4
+s√≠	≈	1		1	 	7	c	8	l	4	m	8	n	4	t	1
+s√∫	 	11
+s≈Ø	,	1	.	1
+t	p	1
+t P	e	1
+t a	≈	1	 	5	n	1
+t b	y	2
+t d	n	2	o	4	v	1
+t h	a	1	o	1
+t i	 	1
+t j	i	1
+t k	 	1	o	2	r	2
+t m	r	1
+t n	a	1	e	4	i	1
+t o	b	1	n	1
+t p	≈	2	o	1	r	1	s	1
+t r	o	1
+t s	e	2	i	2	v	1
+t t	a	5	i	5	r	1
+t u	≈	1	 	1	c	1	t	2
+t v	 	2	o	1	z	1
+t z	a	1	l	1	v	1
+t ≈	°	1
+t ‚	Ä	10
+t!		2
+t! 	T	2	V	1
+t!‚	Ä	2
+t,		1
+t, 	≈	6	a	5	c	1	d	1	e	1	g	1	h	1	k	1	p	1	s	2	t	3	u	2	v	2	z	2
+t,‚	Ä	2
+t.		13
+t. 	≈	2	.	3	A	6	C	2	H	1	J	1	O	1	P	1	T	4	U	1	V	2	Z	1
+t.‚	Ä	2
+t:		2
+t? 	D	1	J	1	N	2	Z	1
+t?‚	Ä	4
+ta		2
+ta 	 	1	a	2	h	2	k	1	m	2	n	2	p	1	s	5	z	1
+ta!	 	3
+ta,	 	2
+ta.		2	 	4
+tah	√	3	e	1	n	1	o	1	u	2
+taj	√	1	e	3	i	2	o	1
+tak	√	12	≈	7		3	 	49	!	2	,	6	o	19
+tal	 	14	,	2	.	2	:	2	a	2	i	6	o	6
+tam		2	 	31	,	4	.	1	?	1
+tan	e	12	t	1	u	1
+tar	√	9	≈	3	c	2	o	22
+tas	i	1
+tat	√	13	,	1	?	1	e	1	i	3	n	13	o	1
+tav	ƒ	1		1	 	1	a	1	e	1	i	7	o	3	t	1	u	2	y	2
+ta≈	ô	15	°	1
+te 	≈	1	‚	1	T	1	a	2	b	2	d	5	i	1	j	3	k	1	m	4	n	2	p	2	s	8	u	1	v	3	z	3
+te!	‚	4	 	2
+te,	‚	1		2	 	7
+te.	‚	2	 	3
+te?	‚	5
+teb	o	2
+tec	 	3	,	2	h	3
+ted	 	1	y	4
+teh	d	1	o	2
+tej	n	3
+tek	,	2	.	1	[	1	e	1	l	4
+tel	 	1	a	3	e	3	i	2	n	7	s	1
+tem	 	2	.	1	n	3
+ten	 	22	k	3	t	1
+tep	l	4	r	2
+ter	√	34	o	2
+tet	i	1
+tev	≈	5
+teƒ	ç	9	è	8
+te≈	ô	6
+ti		7
+ti 	≈	3	‚	3	J	1	T	2	a	3	b	2	c	2	d	6	e	1	h	2	i	1	j	4	l	1	m	3	n	11	o	3	p	6	s	13	t	4	v	4	z	2
+ti!		1	 	4
+ti,		1	 	21
+ti.	‚	1		8	 	9
+ti?	 	3
+tic	h	13
+tih	l	1	y	1
+tik	o	2
+til	 	12	,	2	.	2	a	3	e	2	i	5	n	2	o	4	y	1
+tin	√	1	 	1
+tis	√	8	k	2
+tit	 	1	,	1	i	2
+tiv	√	1	ƒ	3	i	1
+tiƒ	ç	1
+ti≈	°	2	æ	2
+tka	.	2	l	2	m	1
+tke	m	1
+tkl	.	1
+tkn	e	1	o	1
+tkr	√	1
+tku	 	1
+tky	 	2	.	1
+tk√	©	1
+tl 	z	1
+tl,	 	1
+tl.	 	1
+tla	ƒ	4	 	1	.	1	l	1
+tli	ƒ	1	 	3	?	1	v	3
+tlo	u	6
+tlu	m	3	s	1
+tl√	°	1	≠	1	Ω	1
+tma	v	1
+tm√	≠	1
+tmƒ	õ	1
+tni	c	3
+tno	s	1
+tn√	°	2	©	4	≠	21	Ω	7
+tnƒ	õ	14
+to		5
+to 	≈	3	‚	1	C	1	F	2	K	1	R	1	V	1	a	1	b	11	c	1	d	8	e	1	h	3	j	23	k	2	l	2	m	10	n	16	o	5	p	2	r	1	s	10	t	7	u	5	v	6	z	9
+to,	 	14
+to.	 	1
+to?	‚	2	 	1
+tob	ƒ	3
+toh	 	1	,	1	l	1	o	14	u	8
+toj	√	2	n	1
+tok	 	1	a	1
+tol	e	3	i	4	u	3
+tom		4	 	26	,	1	.	1	:	1	n	1	t	1	u	8
+ton	o	2
+tor	 	6	a	6	e	4	o	1
+tos	 	1	t	3
+tot	i	2	n	1	o	1	u	1
+tou	≈	1	‚	1	 	2	l	2	n	4	p	7	z	1
+tov	√	5	.	1	a	5	i	4	o	1	y	1
+toƒ	ç	11
+to≈	•	1	æ	12
+tr 	≈	1	b	1	n	2	o	2	p	1	r	1	s	5	u	1	v	1	z	1
+tr,	 	1
+tr.		1
+tra	≈	7	 	6	,	2	c	7	h	2	l	1	n	8	p	1	t	3
+tre	f	2	m	1	s	2
+trh	√	3	a	7	l	2	n	1
+tri	c	2
+trj	e	1
+trn	√	4	ƒ	6
+tro	≈	1	b	1	c	7	j	1	m	9	s	1	u	2	v	11
+trp	ƒ	3
+trs	t	1
+tru	 	1	b	1	h	1	m	1
+trv	√	1	a	2
+try	s	3
+tr√	°	4	©	1	∫	1	Ω	25
+trƒ	ç	1
+tr≈	Ø	4
+tu 	b	2	c	2	d	4	e	1	h	1	i	1	j	2	m	2	n	2	s	5	t	1	u	2	v	1	z	2
+tu!	‚	3		1
+tu,	 	6
+tu.		1	 	5
+tu?		1
+tud	e	1
+tuj	e	1
+tul	√	2	e	1
+tup	ƒ	1	.	1	u	1
+tu≈	°	3
+tu‚	Ä	1
+tva		1	 	6	l	1
+tvi	s	1
+tvo	≈	1	j	1	r	2
+tvr	d	4	t	2
+tvu	 	1	,	1	.	1
+tv√	°	9	≠	5
+ty		1
+ty 	≈	2	.	1	K	1	b	1	d	1	j	1	m	1	o	2	p	1	s	3	t	2	u	1	v	2	z	2
+ty!	‚	1	 	1
+ty,	 	5
+ty.		1
+tyd	ƒ	2
+tyƒ	ç	1
+ty≈	ô	1
+ty‚	Ä	1
+t√°	ƒ	1	≈	2	 	5	c	3	d	3	h	6	l	8	m	1	n	1	t	8	v	3	z	1
+t√©		1	 	12	,	1	.	2	c	3	h	5	j	4	k	1	m	1	p	1	t	1	v	3
+t√≠		4	 	19	!	6	,	7	.	5	h	1	k	6	l	1	m	13	n	17	p	1	r	2	t	1	z	2
+t√Ω		1	 	2	k	1	l	1	m	5
+tƒõ	≈	5		5	 	46	!	1	,	3	.	6	c	1	d	2	j	6	k	7	l	37	m	4	n	2	r	1	s	10	z	1
+t≈ô	√	3	.	1	e	23	i	6	k	2	p	1
+t≈°	√	3
+t≈Ø	 	2	.	2	:	1	l	1	m	2
+t‚Ä	ú	2
+u		1	 	1	a	2	c	2	h	1	j	1	k	1	m	2	n	7	p	4	r	1	s	2	u	1	v	3	z	1
+u F	a	3	e	1
+u H	a	1
+u J	e	3
+u K	u	1
+u O	l	1
+u P	e	1
+u R	u	1
+u T	o	1
+u Z	e	1
+u a		1	 	12	n	1
+u b	√	3	e	1	l	3	o	3	u	1	y	5
+u c	e	1	h	4
+u d	√	2	ƒ	1	≈	1	a	1	e	1	i	2	l	1	n	2	o	6	r	1	v	1
+u e	≈	1
+u h	a	1	l	2	n	1	o	5	r	2
+u i	 	4
+u j	√	1	a	1	e	6	i	3
+u k	≈	2	 	1	a	2	e	2	l	1	m	1	o	4	y	1
+u l	√	1	e	2	i	1
+u m	√	4	ƒ	1	a	2	u	4	y	1
+u n	√	7	ƒ	5	a	6	e	9	i	3	o	4
+u o	 	1	b	1	d	3	p	4	t	1	z	1
+u p	≈	10	a	2	e	1	o	7	r	3
+u r	√	1	o	2	u	3	y	1
+u s	√	2	a	1	e	22	i	6	k	2	m	1	p	1	t	3	v	3
+u t	√	1	ƒ	1	≈	2	a	6	e	2	i	1	l	1	o	2	r	1	u	3	v	1
+u u	≈	2	c	3	j	1	k	6	p	1	s	1	v	1
+u v	ƒ	2	 	6	a	1	i	1	l	1	r	3	s	2	y	7	z	1
+u z	 	1	a	14	b	1	e	2	l	2	n	1	v	1
+u √	∫	1
+u ≈	°	1	æ	4
+u ‚	Ä	8
+u!		3
+u! 	D	1	H	1	N	2	R	1
+u!‚	Ä	6
+u) 	‚	1
+u,		8
+u, 	ƒ	1	≈	2	‚	1	a	11	c	7	d	3	e	1	g	2	j	3	k	13	l	1	n	5	o	2	p	7	r	3	s	4	t	8	v	4	z	3
+u-l	i	1
+u.		23
+u. 	≈	2	‚	1	.	2	A	4	B	5	C	1	D	2	J	3	K	3	M	1	N	2	O	6	P	5	S	4	T	1	V	2	Z	2
+u.‚	Ä	1
+u: 	‚	1	r	1
+u?		1
+u? 	A	1	K	1	N	1
+u?‚	Ä	5
+uba	?	1
+ube	j	1	n	1
+ubi	l	2	t	1
+ubk	y	2
+ubo	h	1	k	3	u	1	v	1
+ubu	d	1	j	1
+uby	 	2	,	1
+uce	 	4	,	1
+uch	√	1	.	1	a	8	e	2	l	2	o	5	t	2	u	2	y	4
+uci	 	5	,	3	.	2	t	1
+ucp	a	1
+uct	i	1
+uc√	≠	9
+ud 	b	1	c	1	k	1	n	1
+uda	 	9	.	4
+udc	e	6
+ude	≈	4		2	 	20	!	1	,	2	.	2	m	5	n	1
+udi	l	4	n	2	t	2	v	1
+udk	√	1
+udn	o	1
+udo	u	6	v	3
+udr	√	1	o	1
+udu	 	7	,	2
+udy		1	 	3	,	2	.	1
+ud√	°	1	©	1	≠	1	∫	3	Ω	1
+udƒ	ç	1	õ	13
+ufa	l	3
+uhl	a	2	y	1
+uhn	o	1
+uho		1	 	4	u	3
+uh√	©	8	Ω	3
+ujd	e	2
+uje	≈	1		1	 	8	,	1	.	1
+ujn	√	1
+uj√	≠	10
+uk!	‚	1	 	1
+uk.	‚	1	 	1
+uka	 	2	.	1	l	2	m	2	n	1	z	4
+uke	m	1
+ukl	√	1	 	2	.	1	a	1	i	1	o	2
+ukn	√	1	ƒ	1	i	1
+uko	u	5
+ukr	√	1	l	1	o	1	u	1	y	3
+uku	 	2
+uky	 	2	,	1
+uk√	°	5
+uk≈	Ø	3
+uk‚	Ä	1
+ul 	k	1	s	2	z	1
+ul.		2
+ula	l	2
+ule	k	1
+uli	 	1	c	1
+ulo	 	2	m	2
+uly	 	1	.	1
+ul√	°	2	≠	1
+um 	a	1
+um,	‚	1
+ume	n	3
+umf	l	1
+umi	l	1
+uml	a	1
+umo	v	1
+umu	j	2
+umy	l	1	t	1
+um√	≠	3
+umƒ	õ	2
+un		1
+un 	n	1
+un!	‚	1	 	1
+un,	 	1
+una	 	1	!	1
+unc	e	2	i	1
+und	e	1
+une	k	1	m	1
+uno	z	1
+uny	.	1
+un√	≠	2
+up.		1
+upa	l	1
+upc	e	1
+upe	n	2
+upi	ƒ	1	l	5	t	1
+upl	√	1	 	2	i	1
+upn	e	1
+upo	t	1
+upr	c	1
+upu	j	1
+up√	©	1	≠	1
+upƒ	õ	2
+up≈	ô	4
+ura	l	1
+urd	o	1
+urn	√	1
+uro	v	1
+ury	c	2	k	2
+ur√	°	2
+urƒ	ç	1
+us,	 	1
+usa	m	1
+usc	h	1	u	1
+use	‚	1	d	3	k	4	l	5	m	1
+usi	l	3	t	1
+usk	o	2	u	1	y	1
+usl	√	1	 	1	e	4	i	1
+usm	√	6
+usn	a	1	u	2
+uso	v	1
+usp	a	1
+ust	√	4	ƒ	1	≈	1	i	9	o	1	r	2
+usy	 	4	,	2	.	4
+us√	°	1	≠	9
+ut 	≈	1	‚	2	a	1	o	1	u	1
+ut,	 	1
+ut.		1
+ut?	 	1
+uta	j	2
+ute	ƒ	5	k	2	m	1
+uti	 	9	.	1	l	1
+utk	a	1	e	1
+utn	√	4	ƒ	2
+utr	h	1
+utu	!	1
+utv	o	1
+uty	 	2
+ut√	°	1	©	4	≠	20
+utƒ	õ	1
+uva	≈	1	j	1	l	1
+uvi	d	5	l	3	s	1	t	2
+uvy	 	1
+uv√	°	3	≠	1
+uvƒ	õ	4
+uz 	J	1
+uza	v	1
+uze	 	1	l	1
+uzl	o	2
+uzn	√	1	i	1
+uƒç	a	1	e	4	i	2	k	2
+uƒè	 	1	.	1	t	1
+u≈à	k	1
+u≈ô	√	1	e	2	i	3	l	2
+u≈°	√	1	 	7	,	1	.	1	e	8	i	4	k	6	o	1	t	7	u	1
+u≈•	,	1
+u≈æ		1	 	28	,	1	e	2	s	3
+u‚Ä	ò	1	ú	7
+v	‚	1	h	1	o	1	r	1	s	1
+v P	e	2
+v b	l	2	y	1
+v c	e	1	h	2
+v d	√	2	u	1
+v h	l	1
+v j	e	2
+v k	≈	1	o	1	u	2
+v l	√	1
+v m	√	1	r	1
+v n	ƒ	3	e	1	o	4
+v o	ƒ	2	b	1
+v p	≈	1	a	1	l	1	o	4
+v r	u	1	y	1
+v s	√	1	i	2	o	2
+v t	√	1	ƒ	2	e	1	o	6	r	1	u	1
+v v	 	1	e	1
+v z	a	2	o	1
+v √	∫	1
+v ƒ	ç	1
+v ≈	°	1
+v, 	b	1	z	1
+v. 	O	1
+va		2
+va 	c	1	d	4	h	1	j	1	k	2	m	2	n	2	o	2	p	1	r	1	s	1	t	3	u	1	z	4
+va!	‚	3		1	 	3
+va,		1	 	6
+va.		1	 	1
+va?	 	2
+vac	e	2
+vad	√	1	i	2
+vah	o	1	y	1
+vaj	√	10	 	3	e	2	t	1
+vak	r	1
+val		1	 	39	!	2	,	3	.	13	?	1	a	6	e	1	i	18	o	5	u	1	v	1	y	4
+van	√	9	.	1
+vap	√	1	e	2
+vat	√	2	 	1	,	1	.	1	?	1	i	3
+vaƒ	ç	1
+va≈	ô	2	°	3	æ	1
+vce	 	2
+vch		1
+vda	,	2	.	3	?	1
+vdo	v	6
+vdu		1	 	4	!	2	,	1	?	1
+ve 	≈	3	‚	1	d	5	n	3	p	1	s	6	t	1	v	2
+ve,	 	1
+ve.		1
+vec	!	1	h	1
+ved	a	1	l	11	o	2	u	2
+vej	c	1	t	2
+vel	e	1	i	6	k	2	m	8	y	1
+vem		1	 	2
+ven	√	5	 	1	,	1	.	2	c	1
+ver	!	1	k	1	u	1
+ves	 	1	e	3	n	2
+vev	e	1
+vez	√	1	l	2	m	3
+veƒ	ç	10
+ve≈	ô	12	°	1
+vi		3
+vi 	‚	2	a	2	b	2	c	1	d	1	h	1	i	1	m	1	n	2	p	2	s	2	t	3	v	2	z	2
+vi!	 	1
+vi,		2	 	5
+vi.		1	 	3
+vi?	 	2
+vic	u	1
+vid	√	9	ƒ	10	i	1
+vih	a	1	l	3	n	1
+vik	a	1
+vil	 	4	,	1	.	2	?	1	a	2	c	1	i	5	k	11	o	2	y	1
+vin	a	1
+vis	e	1	k	2	l	1	t	1
+vit	√	2	ƒ	1	.	3	i	3
+viƒ	ç	2
+vje	l	2
+vka	m	1
+vke	m	1
+vku	‚	1	 	1	,	3	.	1
+vky	 	1	!	1	,	1
+vl 	h	1	n	1
+vla	 	1	s	4
+vle	k	1	t	2	z	1
+vli	≈	1
+vlk	≈	1	 	1
+vl√	°	4	©	1	≠	1
+vlƒ	ç	1
+vna	 	1
+vni	c	1	k	1	t	1
+vno	 	5	,	1	v	1
+vn√	°	2	©	3	≠	3	Ω	5
+vnƒ	õ	4
+vo		1
+vo 	z	1
+vo,	 	2
+vo.	 	2
+vob	o	2
+voc	e	2
+vod	ƒ	2		1	,	1	i	3	n	1	u	1	y	4
+voj	√	1	e	2	n	1
+vok	√	2
+vol	√	2	a	2	i	1	n	1	v	2
+von	k	2	u	1
+vor		1	,	1	a	3	e	1
+vos	√	1	t	2
+vot	ƒ	1	,	1	.	2	a	3	n	5
+vou		2	 	11	.	3	n	1	s	1
+vov	√	1	a	3
+voƒ	ç	1
+vo≈	ô	3
+vpa	d	2
+vra	b	1	t	6	z	1
+vrb	y	1
+vrd	√	3	i	1
+vrh	 	1	n	2	o	1
+vro	u	1
+vrt	√	1	ƒ	2	 	1	e	1
+vru	≈	1
+vr√	°	6
+vrƒ	ç	1
+vr≈	°	1
+vsi	 	1
+vsk	√	2
+vst	√	1	≈	1	a	1	o	1
+vsu	‚	1
+vte	 	1
+vto	m	1
+vu 	a	4	d	1	k	1	o	1
+vu,	 	4
+vu.		2	 	4
+vuk	y	1
+vy		1
+vy 	a	1	b	1	h	1	j	1	n	1	o	2	s	4	t	1	u	1	v	1
+vyb	ƒ	2	r	1
+vyc	e	1
+vyd	√	2	r	4
+vyh	≈	1	l	1	n	1	r	7
+vyj	√	2	d	1
+vyk	≈	6	e	1	l	3	r	4	u	1
+vyl	e	1	i	1	o	1
+vym	ƒ	2
+vyn	o	1
+vyp	√	1	l	1	r	3	s	1	t	1	u	1
+vyr	a	5	u	1
+vys	a	1	k	3	m	2	o	4	p	1	t	1	v	1
+vyt	≈	1	a	5	e	1	r	5	u	1
+vyv	s	1
+vyƒ	ç	1
+vy≈	ô	2	°	13
+vza	l	4
+vzb	u	2
+vzd	√	1	a	3
+vze	z	1
+vzh	≈	2
+vzk	√	1	≈	1
+vzl	√	1
+vzn	√	1
+vzp	a	3	o	6
+vzr	u	1
+vzt	e	2	y	1
+v√°	≈	13		2	 	11	,	3	.	1	c	2	d	1	l	1	m	9	n	4	r	1	s	8	t	1	v	1	z	4
+v√©	‚	1		2	 	18	,	2	h	14	m	4
+v√≠	ƒ	1	≈	8	 	9	,	4	.	2	?	1	c	8	d	7	l	11	m	7	r	4	t	10
+v√Ω	≈	2	 	18	,	1	b	3	c	11	k	5	m	14	r	1	s	5	t	1	z	2
+vƒç	a	8	e	4	i	11
+vƒõ	ƒ	4	≈	5		4	 	31	.	2	:	1	c	1	d	23	j	1	k	7	l	2	m	1	n	3	r	2	s	2	t	25	z	1
+v≈ô	√	4	e	11
+v≈°	√	4	a	5	e	24	i	9	u	1
+v≈Ø	b	1	d	2	m	1	r	7
+v≈æ	d	8	i	1
+y	‚	2	a	2	c	2	d	1	j	1	m	1	n	2	o	1	r	1	s	4	t	2	z	1
+y .	 	1
+y B	√	1
+y K	a	1	l	1
+y N	e	1
+y a		4	 	13	l	1	s	2
+y b	o	1	r	1	u	1	y	11
+y c	e	1
+y d	ƒ	2	l	1	o	9	v	4
+y h	n	1	o	8	u	1
+y i	h	1
+y j	a	1	e	8	i	8	s	1
+y k	≈	1	 	2	o	1	r	2
+y l	√	1
+y m	ƒ	2	a	1	i	1	o	2	u	8
+y n	√	3	ƒ	2	a	10	e	16
+y o	ƒ	4	 	1	b	1	d	4	h	1	k	1	p	1
+y p	ƒ	1	≈	2	a	1	e	1	o	1	r	5	u	1
+y s	√	6	 	1	a	4	e	28	i	10	m	1	t	9
+y t	≈	1	a	12	e	2	i	3	o	15	u	2	v	1
+y u		1	 	4
+y v	√	2	ƒ	3	≈	2		2	 	1	e	3	j	1	o	1	z	1
+y z	 	2	a	7	e	2	k	1	p	1
+y ƒ	ç	1
+y ≈	ô	1	°	3	æ	1
+y ‚	Ä	5
+y!		2
+y! 	A	3	C	1	D	2	J	1	T	1	Z	1
+y!‚	Ä	4
+y,		2
+y, 	≈	2	a	4	b	2	c	1	d	2	h	1	j	4	k	5	l	1	m	1	n	1	o	1	p	3	s	2	t	4	u	1	v	2
+y,‚	Ä	1
+y.		14
+y. 	ƒ	1	.	1	A	2	B	1	C	1	D	1	H	1	J	2	K	1	M	4	N	1	O	2	T	2	U	1	V	3	Z	2
+y.‚	Ä	1
+y: 	R	1
+y?		1
+y? 	N	1
+y?!	 	2
+y?‚	Ä	2
+yb,	 	1
+yba	 	1	j	1
+ybn	√	5
+ybo	v	1
+ybr	a	1
+ybu	,	1
+yby		2	 	30	c	2	s	2
+yb√	°	1
+ybƒ	õ	2
+yce	n	2
+ych	 	7	,	1	l	24	o	3	t	1
+yck	y	4
+ydl	o	1
+ydr	≈	4
+yd√	°	2
+ydƒ	õ	2
+yf 	t	1
+yhl	√	1
+yhn	u	1
+yhr	√	1	a	5	n	1	o	1
+yh≈	ô	1
+yjd	o	1
+yj√	≠	2
+yk 	‚	1
+yka	l	1
+yke	m	1
+ykl	√	3
+ykr	√	1	a	1	o	2
+yku	l	1
+yk≈	ô	7
+yk‚	Ä	1
+yl		2
+yl 	ƒ	2	F	1	L	1	a	1	b	4	d	1	h	3	j	2	k	1	m	2	n	1	o	1	p	4	r	1	s	5	t	9	u	2	v	2	z	1
+yl,	 	1
+yl.	 	1
+yla	 	15
+yle	z	1
+yli	 	11	l	1
+ylo		5	 	40	!	1	u	1
+yly		1	 	11	.	1	?	1
+ymƒ	õ	2
+yne	ƒ	1
+yni	.	2
+ynk	u	3
+yno	≈	1
+ynu	l	2
+yn√	≠	6
+ynƒ	õ	2
+ypa	n	1
+ypl	a	1
+ypr	√	2	a	1
+yps	a	1
+ypt	a	1
+ypu	s	1
+yp√	≠	1
+yra	z	6
+yri	l	10
+yro	,	2
+yru	≈	1
+ys 	d	1	m	1	n	2	v	1
+ysa	d	1
+yse	l	1
+ysk	l	3	o	7
+ysl	√	8	e	2	i	1
+ysm	√	1	ƒ	1	e	4
+yso	k	3	u	1
+ysp	√	1
+yst	≈	1	a	1	e	4	u	1
+ysv	l	1
+ysy	 	1
+yt 	o	1	v	1
+yta	h	4	l	2	s	1
+yte	k	1
+yti	l	3	v	1
+ytk	y	1
+ytl	 	1	,	1	i	1
+ytr	√	2	p	1	u	1	v	1	y	3
+ytu	≈	1	.	1
+yt√	°	1	©	1	Ω	1
+yt≈	ô	1
+yvk	y	1
+yvs	t	1
+yƒç	√	1	 	1	!	1	,	1	.	1	?	1	e	4	n	1
+y≈ô	√	1	i	2	s	1
+y≈°	√	3	≈	1	!	1	e	5	l	17	n	1	p	2	t	1	v	2
+y≈•		2	 	15
+y≈æ		3	 	30	e	1
+y‚Ä	ú	3
+z B	r	1
+z J	e	1
+z b	o	1
+z c	i	1
+z d	√	1	a	1	o	2
+z h	l	1
+z j	e	2	i	1
+z k	a	1	o	1
+z m	ƒ	1
+z n	√	1	ƒ	1	e	1	i	3	o	1
+z o	ƒ	2	n	1
+z p	e	1	o	2
+z s	t	1
+z t	√	1	e	1	o	2	r	1
+z v	ƒ	1	o	1	r	1
+z ƒ	ç	1
+z,		1
+z, 	a	1	d	6	h	1	t	1
+z. 	P	1
+z? 	J	1
+za		4
+za 	√	1	ƒ	2	≈	2	P	1	T	1	b	2	c	3	d	1	j	2	k	3	m	2	n	4	o	2	p	2	s	10	t	3	v	4	z	1
+za.		5	 	2
+za?	 	1
+zab	√	1	ƒ	1	i	3	l	3	o	2	r	3	u	1
+zac	h	7
+zad	√	2	a	1	n	2	r	1
+zah	≈	2	a	2	l	5	n	1	o	1	r	8	u	2
+zaj	√	5	a	3	i	1	m	1
+zak	√	1	a	3	o	1	r	2	v	1
+zal	 	7	!	1	,	1	.	2	a	3	e	1
+zam	√	1	i	1	k	1	l	1	y	1
+zan	√	1	e	2	i	1
+zap	a	2	i	1	l	1	o	5	r	3
+zar	a	4	o	2	u	1	y	1
+zas	 	6	.	1	a	1	e	11	k	2	l	9	m	1	t	7	y	1
+zat	√	6	,	2	a	2	i	2	l	2	o	3
+zav	√	8	ƒ	1	≈	3	a	2	o	2	r	3
+zaz	√	1	d	1	n	2
+za√	∫	1
+zaƒ	ç	11
+za≈	ô	5	°	4
+zba	 	1	v	2
+zbi	l	3	t	1
+zbl	e	1
+zbo	u	1
+zbu	d	4
+zby	 	2	.	1	l	1	t	1
+zb√	≠	1
+zbƒ	õ	4
+zci	t	1
+zda	≈	1	l	4
+zde	ƒ	1	!	1
+zdi	l	2	v	1
+zdn	√	1
+zdo	.	1	b	1
+zdr	√	2	≈	1
+zdy	,	1
+zd√	°	5	≠	1
+zdƒ	õ	13
+ze		1
+ze 	≈	1	‚	1	a	1	d	3	n	1	s	6	z	1
+ze!	‚	1
+ze,	 	2
+ze.		3
+zec	h	1
+zed	n	1
+zeh	n	1
+zej	√	2
+zel	 	4	,	1	.	1	a	2	o	1
+zem	ƒ	1	≈	2	 	3	e	1	i	4
+zen	√	5
+zep	t	1
+zes	l	2	m	1	t	1
+zet	e	1	i	1
+zev	n	1
+zez	≈	1	n	1	p	1
+zhl	√	2	e	1
+zho	d	7
+zh≈	Ø	2
+zi		1
+zi 	s	1	t	1
+zil	 	5	i	3	o	1	y	1
+zim	o	1
+zin	e	1
+zit	i	1
+ziv	√	2
+zka	≈	1	 	1	z	5
+zkl	a	3
+zko	 	3	!	1	.	1	s	4	u	1
+zkr	o	1
+zku	 	1	.	1	s	2
+zky	 	3	!	1	,	1
+zk√	°	1	©	2	Ω	1
+zk≈	ô	2
+zl 	n	2
+zla	,	1
+zle	,	1	h	1	t	1
+zlo	 	1	b	3	d	7	m	1	s	4	v	3
+zl√	©	4	Ω	2
+zma	n	1
+zme	 	1
+zmi	j	1	z	1
+zml	√	1	o	1
+zmo	c	7	u	1
+zmu	ƒ	1
+zm√	°	1
+zmƒ	õ	2
+zna	ƒ	2	d	1	l	4	m	7	t	1
+zni	l	1
+zn√	°	4	©	1	Ω	2
+znƒ	õ	7
+zol	a	1	u	1
+zor	!	1	n	1	o	2
+zos	t	1
+zou	.	1	f	2
+zov	a	10	i	3	o	1
+zpa	m	3
+zpe	ƒ	6
+zpo	m	7
+zp√	°	1	≠	3
+zpƒ	õ	2
+zp≈	ô	1	Ø	1
+zra	z	2
+zro	v	1
+zru	≈	1
+zr√	°	2
+zst	a	1
+zte	 	3	k	2
+ztl	u	1
+ztr	a	3	e	1	h	2
+zty	ƒ	1
+zu 	n	1	p	1	z	1
+zu,		1
+zu.		2
+zub	y	3
+zuj	e	2
+zum	√	1	ƒ	1	 	1	,	1	u	2
+zu≈	ô	3
+zva	l	3
+zve	d	4
+zvl	√	2
+zvo	n	3
+zvu	k	1
+zvƒ	õ	5
+zy 	m	1	n	1
+zy.		3
+z√°	≈	3	d	3	h	2	k	2	l	6	m	1	p	2	v	11
+z√≠		1	 	4	,	2	c	1	m	2	t	4
+z√∫	 	1	.	1
+z√Ω	!	1	v	1
+zƒç	i	1
+z≈ô	e	2
+z≈°	t	1
+z≈Ø	s	9
+Äî		17
+Äî 	≈	1	‚	11	(	1	A	1	F	1	H	1	L	1	N	1	P	1	R	1	T	1	U	1	V	1	a	18	c	6	d	2	j	3	k	4	m	2	n	1	o	3	p	1	r	1	s	2	t	5	u	2	v	6	z	1
+Äî!	‚	1
+Äî,	‚	3
+Äî.		1
+Äî‚	Ä	40
+Äò,	‚	1
+Äöp	o	1
+Äú		165
+Äú 	ƒ	1	≈	1	‚	4	A	2	I	1	J	1	N	1	O	2	P	6	R	1	S	1	T	3	V	1	a	8	b	1	c	1	d	1	h	3	k	1	l	3	n	4	o	4	p	9	r	6	s	6	t	1	v	10	z	15
+Äú,		2	 	14
+Äú.		4	 	8
+ÄûA	√	1	 	26	l	9	n	2
+ÄûB	u	4
+ÄûC	h	4	o	10	y	2
+ÄûD	o	5	y	2
+ÄûE	n	1
+ÄûF	a	2
+ÄûG	d	1
+ÄûH	a	1	e	4	m	2	o	2	r	2	u	1
+ÄûI	d	1
+ÄûJ	√	12	a	6	e	2	o	1	s	1
+ÄûK	a	2	d	1	e	1	l	2
+ÄûL	y	1
+ÄûM	√	1	a	3	o	1	u	1	y	2
+ÄûN	√	1	a	3	e	6	i	1	o	13
+ÄûO	b	1	n	1	p	3
+ÄûP	√	2	≈	1	a	8	o	6	r	2
+ÄûS	√	1	 	1	l	2	n	1	p	1	t	5
+ÄûT	≈	1	a	18	e	1	o	16	y	2
+ÄûU	≈	3	p	1
+ÄûV	√	1	ƒ	1	≈	2	i	4	y	1
+Äûa	 	1	l	1
+Äûb	r	1
+Äûc	u	3
+Äûd	o	2	u	1
+Äûe	n	1
+Äûh	a	1	o	2	r	2
+Äûj	e	2
+Äûk	a	1	o	2
+Äûm	√	1
+Äûn	a	1	e	1
+Äûo		1	 	1	h	1	p	2
+Äûp	a	1	o	2	r	1
+Äûr	o	1
+Äûs	o	1	t	1
+Äûu	≈	1
+Äûv	√	1	z	1
+Äûz	a	1
+Äû√	Å	1
+Äû≈	ò	1	ô	1	†	5	°	7	Ω	2	æ	2
+Äû‚	Ä	4
+ÅTN	√	1
+Å√°	√	1
+à a	 	1
+à b	e	1	u	1
+à d	e	1	v	1
+à k	l	1
+à m	l	1	y	1
+à n	a	1	e	1
+à p	ƒ	1	≈	1
+à t	a	1	i	1
+à u	c	1
+à! 	K	1
+à, 	B	1	p	1	z	1
+à.		1
+à. 	.	1
+àad	r	2
+àk!	 	1
+àu 	a	1
+à√°	c	1
+à√∫	.	1	?	1
+à≈Ø	m	1
+â P	O	1
+åas	n	1
+ået	n	2
+åi 	j	1	z	1
+ålo	v	1
+åtr	n	1
+å√≠	m	1
+ç		1	 	1
+ç N	A	1
+ç V	 	1
+ç b	y	2
+ç n	e	2
+ç s	e	1
+ç t	i	1
+ç u	≈	1
+ç ‚	Ä	1
+ç! 	A	1	P	1
+ç, 	a	2	c	2	p	1	v	1
+ç.		2
+ç. 	T	1
+ç? 	N	1
+çDK	Y	1
+çal	 	4	.	1	a	2	i	1
+ças	≈	1	 	3	.	1	n	2	t	1	u	1
+çat	.	1	a	5	e	1
+çce	 	2
+çci	 	1
+çe		1
+çe 	‚	1	d	1	h	1	n	2	p	1	v	2
+çe,	 	3
+çe?	‚	1	 	1
+çeh	o	1
+çej	i	1	n	2
+çek	√	4		4	 	38	,	8	.	5	a	6
+çel	√	1	 	1	.	3	a	1	e	1	o	1
+çem	≈	1		1	u	2
+çen	√	5	ƒ	1	o	2	u	1
+çer	 	1	a	4	e	2	n	4	u	1	v	4
+çet	:	1	e	1	i	2	n	3
+çe≈	ô	6
+çi		1
+çi 	‚	1	B	1	T	2	a	1	j	3	s	4	u	1
+çi,	 	1
+çi.		3	 	3
+çic	√	1	e	1
+çil	≈	2	 	19	.	6	?	2	a	1	e	1	i	2	o	3
+çim	a	3
+çin	n	1	o	1
+çis	k	2	t	2
+çit	e	2	i	7
+çiƒ	ç	1
+çka	‚	1		3	 	9	,	3	.	3	j	1	m	1	v	1
+çke	j	2	m	4
+çko	 	4	m	1	s	1	v	15
+çku	‚	1		3	 	4	!	1	)	1	,	8	.	3	?	2
+çky	 	2	,	2
+çk√	°	1	Ω	1
+çlo	v	9
+çme	n	1
+çni	t	1
+çno	,	1	s	4	u	1
+çn√	©	1	≠	2	Ω	3
+çnƒ	õ	14
+çok	o	5
+çov	a	2	i	1
+çtr	n	1
+çtv	r	2
+çty	≈	1
+çuj	√	1
+çuk	≈	2	‚	1	.	1	e	1
+ç√°	k	2	m	1	s	1	t	1
+ç√©	k	1
+ç√≠	 	11	!	1	,	1	.	2	:	2	c	6	k	1	m	5	n	2	t	4
+ç√∫	!	1
+è b	e	1
+è d	o	1
+è j	i	1
+è m	u	1
+è p	≈	2
+è s	e	1	p	1
+è t	ƒ	1	a	1
+è z	k	1
+è ‚	Ä	1
+è! 	J	1	P	1
+è!‚	Ä	1
+è, 	a	1	k	2	t	1
+è.		2
+è. 	A	1
+è? 	P	1
+èa 	p	1	s	1
+èa.	 	1
+ème	!	1
+ète	 	5	!	1	,	2
+ì, 	a	1
+î		13	K	1	M	1	h	1	p	1
+î (	d	1
+î A	l	1
+î F	a	1
+î H	e	1
+î L	o	1
+î N	y	1
+î P	o	1
+î R	u	1
+î T	o	1
+î U	s	1
+î V	t	1
+î a	 	12	c	1	l	4	n	1
+î c	h	2	i	1	o	3
+î d	o	1	v	1
+î j	a	1	e	2
+î k	a	1	d	1	o	2
+î m	≈	1	o	1
+î n	o	1
+î o	b	1	p	1	v	1
+î p	r	1
+î r	√	1
+î s	e	1	l	1
+î t	≈	1	a	1	e	1	o	2
+î u	 	1	l	1
+î v	√	1	≈	2	 	1	i	1	r	1
+î z	a	1
+î ≈	†	1
+î ‚	Ä	11
+î!‚	Ä	1
+î,‚	Ä	3
+î.		1
+î‚Ä	ú	40
+ò,‚	Ä	1
+òek	l	3	n	1
+ô b	y	1
+ô d	e	1
+ô j	e	1
+ô s	o	1
+ô z	a	1
+ô, 	s	1
+ô.		1
+ôa 	a	1
+ôad	√	1	u	1	y	2
+ôa≈	æ	1
+ôbe	t	2
+ôe		2
+ôe 	a	2	b	1	k	1	n	2	s	3	t	2	v	1
+ôe!	 	1
+ôe,		1	 	4
+ôe.		6	 	7
+ôe?	 	1
+ôeb	a	6
+ôec	a	2	e	8	h	1
+ôed		1	 	14	?	1	i	1	m	1	s	3	u	1
+ôeh	 	2	o	3	u	4
+ôej	d	1
+ôek	√	1	l	6	n	8	o	1	v	3	y	1
+ôel		1	 	5	.	1	a	3	b	1	e	1	y	2
+ôem	√	2	e	1	i	1
+ôen	√	4	 	1	a	1	k	2	y	1
+ôep	a	5	u	1
+ôes		1	 	9	o	1	p	1	t	5	v	1
+ôet	√	2	e	2
+ôev	ƒ	1	a	2
+ôez	√	1	a	1
+ôeƒ	ç	14
+ôe≈	°	9
+ôi 	‚	2	a	1	c	1	h	1	m	1	o	1	p	2	t	5
+ôi!	 	2
+ôi,	 	3
+ôi.	 	1
+ôi?		1
+ôib	ƒ	5	l	2
+ôic	e	1	h	23
+ôid	a	2
+ôih	n	2	o	1
+ôij	√	1	a	1	d	11	e	1
+ôik	√	1	≈	1	 	2	,	1	.	1	a	1	e	1	l	4	n	3	r	1	u	2	y	2
+ôil	√	1	 	3	,	2	.	1	a	2	i	2	o	3	y	2
+ôim	h	1
+ôin	ƒ	1	e	1	y	1
+ôip	a	1	r	1
+ôis	k	2	t	4	v	1
+ôit	√	1	i	2	o	1	v	1
+ôiv	√	5	ƒ	2	≈	1	e	1
+ôiz	o	1
+ôiƒ	ç	7	è	2
+ôi≈	°	8
+ôka	 	5	,	1	.	2
+ôko	,	1
+ôku	 	1
+ôky	,	1
+ôli	v	2
+ômi	,	1
+ôn√	©	1
+ôov	√	3	i	2
+ôpy	t	1
+ôst	u	1
+ôu?	‚	1
+ôva	n	1
+ô√°	d	3	l	2	n	1	p	1
+ô√©	c	1
+ô√≠	ƒ	1	≈	1		1	 	10	.	1	?	2	b	1	c	5	d	5	h	2	j	4	k	5	l	2	m	5	n	1	p	1	s	5	t	8	v	7	z	1
+ö		1
+öDI	N	1
+öpo	d	1
+õ		1	 	1	b	2	h	3	i	1	k	1	n	3	p	2	r	1	s	2	u	1	v	1	z	1
+õ P	e	1
+õ T	o	1
+õ a	≈	2	 	3	n	1
+õ b	√	1	e	1	u	1	y	5
+õ c	h	9	i	1
+õ d	√	1	o	9	v	1
+õ h	≈	1	l	4	o	4	r	1
+õ i	 	2
+õ j	√	1	e	6	i	4	s	1
+õ k	≈	1	r	2
+õ l	e	3
+õ m	ƒ	1	a	1	l	1	u	1
+õ n	a	5	e	11	i	2
+õ o	b	1	d	3	h	1	v	1
+õ p	≈	4	o	10	r	3
+õ r	o	3
+õ s	√	1	a	1	e	7	i	3	k	1	l	1	m	1	p	2	v	1
+õ t	a	1	e	1	l	1	o	3	u	3
+õ u	k	2	p	1	r	1	s	2	t	2
+õ v	√	1	≈	2	 	2	e	2	s	1	y	5	z	1
+õ z	√	1	a	14	d	1	r	2
+õ ƒ	ç	2
+õ ≈	ô	1	°	2
+õ ‚	Ä	3
+õ!		1
+õ! 	A	1	B	1
+õ!‚	Ä	1
+õ, 	≈	2	P	1	a	5	k	1	m	1	n	2	t	1	v	3
+õ.		6
+õ. 	≈	3	A	4	B	1	D	1	F	1	H	2	J	2	L	4	O	1	P	1	T	1
+õ:		1
+õ? 	ƒ	1	T	1
+õ?‚	Ä	1
+õch	 	1	a	3	u	1
+õci	 	1
+õck	o	1
+õco	 	9	!	1	,	1
+õd 	t	1
+õda	v	3
+õde	k	1
+õdi	n	16
+õdo	m	4
+õdr	o	2
+õdu	 	2	,	1
+õdv	a	2
+õd√	≠	1
+õdƒ	ç	2	õ	12
+õha	l	2
+õhe	m	1
+õhl	 	5	a	1	i	2
+õhn	e	1	i	1	o	1
+õho		2	 	7	,	1	.	1
+õhu	.	2
+õj 	c	1	n	1	r	1	z	1
+õj,	 	1
+õja	k	18
+õje	 	5	!	1
+õji		3	 	7	,	2	.	2
+õjn	√	1
+õjt	e	1
+õj√	≠	1	∫	1
+õj≈	°	9	Ø	1
+õk 	j	1
+õk,	 	3
+õka		1	 	1	.	1	l	3	m	1
+õkd	e	1	o	8	y	2
+õkk	√	3
+õkn	√	2	ƒ	5	o	2
+õko	h	2	l	5	m	1	t	2	v	1
+õkt	e	5
+õku	 	1	.	1	d	2
+õky	 	1
+õk√	Ω	1
+õl		2
+õl 	≈	2	‚	1	P	1	b	1	d	4	h	1	j	2	k	2	m	1	n	10	p	3	r	1	s	6	t	3	u	2	v	9
+õl,		1	 	7
+õl-	l	1
+õl.	 	6
+õl:		1
+õl?	‚	1
+õla	 	7	,	1	.	1	j	1	l	12	t	4
+õle	 	1	n	1
+õli	 	15	!	2	,	5	.	1	c	1	l	1	v	1
+õlo	 	4	.	1
+õlt	e	1
+õly	 	2	,	1	.	1
+õl√	°	3	©	1	≠	3	Ω	1
+õm 	b	1	p	2	s	1	t	1	v	1
+õm!	 	1
+õm?	‚	1
+õma	 	2
+õmi	 	2	!	1	t	1
+õmu	≈	1		1	 	7
+õm≈	æ	3
+õn.		1
+õni	l	2
+õno	u	1
+õnu	,	1
+õny	 	2
+õn√	°	1	©	4	≠	5	Ω	1
+õnƒ	õ	1
+õr 	j	1	z	1
+õrb	≈	1
+õre	m	4
+õrn	ƒ	2
+õsi	c	2
+õsn	√	1	ƒ	2
+õst	√	7	.	1	a	2	i	1	n	2	o	4
+õt 	‚	2	a	1	b	1	d	2	h	1	k	1	m	1	t	3
+õt,	‚	1	 	3
+õt.		1	 	1
+õt?	‚	1
+õta	,	1	.	2
+õte	 	5	!	1	,	1	.	1
+õti		1	 	4	,	1	k	2	n	1
+õtl	a	1
+õtn	i	3
+õtu	?	1
+õt√	°	1	©	3	≠	2
+õtƒ	õ	4
+õt≈	ô	1	°	3
+õv 	b	1
+õve	m	2
+õvƒ	ç	11
+õz 	o	1
+õz,	 	1
+õz?	 	1
+õzn	√	1	ƒ	1
+õƒç	e	3	n	2
+õ≈ô	 	2	i	3
+õ≈°	e	6	i	3	n	1
+õ≈æ	√	1	c	1	e	1	k	3
+õ‚Ä	ú	1
+ú	‚	1		162	P	1	v	1
+ú A	l	1	n	1
+ú I	g	1
+ú J	e	1
+ú N	e	1
+ú O	h	1	t	1
+ú P	≈	1	e	3	o	2
+ú R	u	1
+ú S	k	1
+ú T	o	2	u	1
+ú V	≈	1
+ú a	 	8
+ú b	≈	1
+ú c	h	1
+ú d	a	1
+ú h	l	1	o	1	r	1
+ú k	√	1
+ú l	√	1	e	1	h	1
+ú n	a	3	e	1
+ú o	d	3	p	1
+ú p	≈	5	a	1	o	2	t	1
+ú r	o	6
+ú s	e	2	o	1	p	1	t	2
+ú t	o	1
+ú v	≈	1	o	2	p	1	y	5	z	1
+ú z	≈	1	a	13	e	1
+ú ƒ	å	1
+ú ≈	°	1
+ú ‚	Ä	4
+ú,		2
+ú, 	≈	2	a	3	b	1	k	1	n	1	p	1	s	1	t	2	v	1	z	1
+ú.		4
+ú. 	≈	1	.	1	C	1	J	1	K	2	N	1	O	1
+ûA 	ƒ	1	≈	1	c	3	g	1	h	1	j	4	k	3	m	2	n	2	o	1	p	2	s	1	t	3	v	1
+ûAl	e	9
+ûAn	o	2
+ûA√	°	1
+ûBu	ƒ	1	d	3
+ûCh	l	2	v	1	y	1
+ûCo	 	8	?	2
+ûCy	r	2
+ûDo	b	4	s	1
+ûDy	≈	2
+ûEn	o	1
+ûFa	n	2
+ûGd	e	1
+ûHa	m	1
+ûHe	k	3	r	1
+ûHm	 	1	,	1
+ûHo	r	2
+ûHr	e	1	o	1
+ûHu	r	1
+ûId	e	1
+ûJa	 	1	,	1	.	1	k	3
+ûJe	n	2
+ûJo	z	1
+ûJs	t	1
+ûJ√	°	11	©	1
+ûKa	r	2
+ûKd	o	1
+ûKe	≈	1
+ûKl	u	2
+ûLy	≈	1
+ûMa	≈	1	m	2
+ûMo	≈	1
+ûMu	s	1
+ûMy	 	1	s	1
+ûM√	°	1
+ûNa	 	2	t	1
+ûNe	!	1	?	1	b	2	h	1	r	1
+ûNi	c	1
+ûNo	 	3	,	10
+ûN√	°	1
+ûOb	e	1
+ûOn	d	1
+ûOp	o	1	r	2
+ûPa	n	8
+ûPo	ƒ	2	d	1	j	1	s	1	v	1
+ûPr	o	2
+ûP√	°	2
+ûP≈	ô	1
+ûS 	L	1
+ûSl	√	1	e	1
+ûSn	√	1
+ûSp	√	1
+ûSt	√	2	a	2	r	1
+ûS√	∫	1
+ûTa	d	1	k	12	m	1	t	4
+ûTe	n	1
+ûTo	≈	9	 	7
+ûTy	 	2
+ûT≈	ô	1
+ûUp	l	1
+ûU≈	æ	3
+ûVi	d	2	j	2
+ûVy	 	1
+ûV√	≠	1
+ûVƒ	ç	1
+ûV≈	°	2
+ûa 	v	1
+ûal	e	1
+ûbr	u	1
+ûcu	k	1	m	1	r	1
+ûdo	 	1	s	1
+ûdu	t	1
+ûen	o	1
+ûha	t	1
+ûho	l	1	r	1
+ûhr	e	1	u	1
+ûje	n	2
+ûka	l	1
+ûko	≈	1	l	1
+ûm√	°	1
+ûna	 	1
+ûne	!	1
+ûo		1
+ûo 	j	1
+ûoh	l	1
+ûop	√	2
+ûpa	r	1
+ûpo	c	1	m	1
+ûpr	o	1
+ûro	≈	1
+ûso	m	1
+ûst	o	1
+ûu≈	æ	1
+ûvz	h	1
+ûv√	≠	1
+ûza		1
+û√Å	√	1
+û≈ò	e	1
+û≈ô	√	1
+û≈†	a	5
+û≈°	a	1	k	1	l	3	p	2
+û≈Ω	e	2
+û≈æ	e	1	r	1
+û‚Ä	î	4
+†ak	 	10
+†at	y	1
+†ko	l	1
+†la	h	2
+†na	j	2
+†pa	l	1
+†ro	u	1
+†tƒ	õ	3
+°	≈	1	b	1	d	1	s	1	v	2	z	1
+° O	t	1
+° a		1	 	1	j	1
+° b	√	1	o	1	y	1
+° c	h	2	o	2
+° d	ƒ	2	o	5
+° e	≈	1
+° h	l	1	o	3	u	1
+° i	 	1	d	1
+° j	√	2	e	2	i	2	s	1
+° k	o	4
+° l	√	1
+° m	√	1	≈	1	a	1	l	1	o	1	y	1
+° n	a	2	e	2	i	2	o	1
+° o	p	1
+° p	ƒ	2	≈	3	a	1	o	5	r	2
+° r	o	1	u	2
+° s	 	2	a	2	e	17	i	1	m	2	t	3	v	1
+° t	√	2	a	10	i	1	o	2	r	2
+° u	≈	1	 	1	s	1
+° v	√	4	ƒ	2	 	1	e	1	i	1
+° z	√	1	a	1	l	1
+° √	∫	3
+° ≈	ô	2	æ	1
+° ‚	Ä	5
+°! 	H	1
+°!‚	Ä	8
+°, 	≈	5	F	1	T	1	a	3	c	3	d	1	j	1	k	4	m	1	n	2	s	3	t	2
+°-l	i	2
+°.		4
+°. 	.	1	A	3	D	1	N	1	P	1	T	1
+°.‚	Ä	3
+°: 	s	1
+°? 	A	1	J	1	M	1
+°?‚	Ä	8
+°ak		2	 	17	,	1
+°at	y	1
+°bl	√	1	,	1
+°bn	u	1
+°c		1
+°c 	d	1	s	1
+°c,		1	 	1
+°c.		1
+°ce	 	2	,	1	.	2	n	2
+°ch	‚	1	 	3	,	1	.	1	o	1
+°ci	‚	1	 	1	!	1	,	3
+°ck	√	2
+°cn	u	1
+°co	v	2
+°ct	√	1	 	2	.	1	i	1
+°c√	≠	1
+°d 	b	1	p	1
+°d,	 	2
+°da	 	4	,	1	l	2	t	1
+°dc	e	1
+°de	c	1	m	1
+°dh	e	3
+°di	 	1
+°dk	u	5
+°dl	.	1
+°dn	√	4
+°do	 	1	c	1	v	5
+°dy	!	1	.	1
+°d√	°	1	≠	1
+°dƒ	õ	1
+°d≈	Ø	1
+°e 	j	1	r	1	s	2	v	1
+°e,	 	1
+°e.		1	 	1
+°ec	h	23	k	3
+°ed	e	1
+°ek	 	6
+°el		1	 	10	,	2	i	2
+°em	 	1	,	1	.	2
+°en	√	12	ƒ	3
+°ep	o	2
+°er	m	1
+°et	≈	1	,	1
+°e≈	à	2
+°ha	l	2
+°hl	√	1	 	3	e	7
+°hn	e	1	o	2
+°hu	b	1
+°i 	≈	1	n	1	p	1
+°i!	 	1
+°i,	 	1
+°i?	‚	1	 	1
+°ic	h	10
+°id	e	1
+°il	 	3	,	1	e	1	i	4	o	1
+°im	l	4
+°in	 	1
+°ir	o	1
+°k 	a	1	n	1	s	1
+°ka	,	1	.	1	?	1	l	2	r	1	v	2
+°ke	≈	1	r	1
+°kl	√	1
+°ko	d	3	l	6	n	1
+°ku		1	 	2	,	2	.	1
+°ky	‚	1	 	1
+°k≈	Ø	2
+°l		1
+°l 	a	1	o	1	s	1	u	1
+°l,	 	2
+°l.		1	 	2
+°la	 	6	h	6	j	5	l	1	p	1
+°lc	e	3
+°le	ƒ	1	≈	4		1	 	3	,	1	.	2	?	1	l	1	n	10
+°li	 	15	,	1	.	1	b	1	t	1
+°lo	≈	4	 	8	,	5	.	3	v	1
+°lu	,	1
+°ly	 	1	,	1	.	1
+°l√	∫	1	Ω	2
+°l≈	Ø	1
+°m 	≈	2	‚	3	a	4	d	1	m	1	n	2	p	2	r	1	s	4	t	6	u	1	v	2	z	2
+°m!	‚	1	 	1
+°m,	‚	1	 	6
+°m.		1	 	5
+°m?	‚	1
+°ma	 	2	.	1	?	1	h	1	l	5	n	2
+°mb	u	2
+°me		1	 	6	!	2	,	1	.	1	n	8
+°mk	u	1
+°mo	,	1	u	2
+°mu	,	1
+°m√	Ω	2
+°mƒ	õ	1
+°n 	a	1	b	2	d	1	j	1	s	3
+°n!	‚	1	 	1
+°n.		2
+°na	 	3	,	1	.	1
+°nb	√	1
+°ne	k	1	m	3
+°ni		1	,	3	.	1	?	1	l	4	t	2
+°no	ƒ	1	 	3	,	2	v	2
+°ny		1	 	1	,	1
+°n√	©	1	≠	13	Ω	1
+°nƒ	õ	7
+°n‚	Ä	1
+°of	t	1
+°ou	r	1
+°ov	i	1
+°pa	c	1	d	3	g	2	l	5	t	3	v	2
+°pe	k	1
+°pi	ƒ	1	n	1
+°pl	h	2
+°pr	t	1
+°ra	l	1	m	1
+°rn	√	1
+°ro	u	1
+°ru	b	1
+°s 	ƒ	1	‚	1	a	2	b	1	n	2	t	3	v	1
+°s,	 	2
+°s.	 	1
+°s?	 	1
+°sa	l	5
+°sc	e	1
+°si	 	1	l	1	t	1
+°sk	l	1
+°sl	e	1	i	1
+°sn	√	7	ƒ	1
+°so	b	1
+°st	 	1	.	1	e	1
+°sy	 	1
+°t 	‚	1	a	2	j	1	n	1	p	3	s	1	t	4	u	1	z	1
+°t!		1	 	1
+°t,	 	2
+°t.		1	 	1
+°ta	 	1	n	1
+°te	 	4	,	2	m	1
+°ti	 	3	,	1	l	7	t	3
+°tk	√	1	n	1	u	1	y	1
+°tl	a	1
+°tn	√	1	o	1
+°to	 	1	,	6
+°tr	a	1
+°tu	‚	1	 	1
+°tv	a	1
+°ty	,	1
+°t√	©	1	≠	3
+°tƒ	õ	41
+°t‚	Ä	1
+°ud	e	2
+°uj	e	1
+°um	ƒ	1
+°us	t	1
+°va	!	1	.	1	j	5	l	11	n	1	t	1
+°vc	e	1
+°ve	j	1	s	1
+°vi	d	3	h	5	s	1
+°vk	u	2	y	1
+°vn	o	4
+°vo	d	6
+°vr	a	2	h	1
+°vs	i	1
+°vy	 	1
+°v√	°	3
+°vƒ	õ	14
+°z,		1	 	6
+°za	l	7	n	1	t	4
+°zd	n	1
+°ze	j	2	l	5	m	1
+°zk	a	1	u	1	y	2
+°zn	ƒ	3
+°z√	≠	4
+°√°	√	4	,	2
+°√©	l	1
+°√≠	≈	2		1	 	12	,	1	.	4	h	6	m	8
+°√∫	s	1
+°ƒç	√	1	 	3	e	10	k	4
+°ƒè	.	1
+°≈ô	 	1	a	2	e	4	i	7
+°≈°	√	1	 	4	!	1	,	2	?	2	e	4	i	2	t	3
+°≈•	a	2
+°≈Ø	j	1
+°≈æ	d	1	e	4	i	2	n	3
+•	R	1	s	1
+• b	y	1
+• c	i	1	o	1
+• h	o	4
+• j	a	1	e	3	s	2
+• m	y	1
+• n	a	2	e	2
+• o	t	1
+• p	a	1
+• s	a	1	i	2
+• t	a	1	e	1
+• u	≈	1	 	1
+• v	 	1
+• ≈	ô	1	°	1
+•! 	N	1	V	1
+•!‚	Ä	1
+•, 	s	1
+•. 	.	1
+•a 	e	1	n	1
+•as	t	2
+©	≈	1	b	1	h	1	k	1	m	1	o	1	r	1	s	2	t	1
+© J	o	1
+© a		1	 	3
+© b	√	1	r	1	u	1
+© c	h	3
+© d	√	1	ƒ	2	o	2	u	1
+© h	l	2	u	1
+© j	√	1	a	1	e	2	i	1	s	1
+© k	≈	1	o	1	r	2
+© m	√	1	ƒ	2	n	1	u	3	y	2
+© n	a	2	e	3
+© o	ƒ	1	b	4	d	3	s	1
+© p	ƒ	1	≈	1	a	2	e	2	l	1	o	5	r	2
+© r	o	1
+© s	√	1	e	3	i	1	k	2	l	4	m	1	t	3	v	1
+© t	ƒ	1	a	1	e	1	l	1	r	2	v	1
+© v	√	1	ƒ	3	e	1	o	1	y	1	z	1
+© z	a	1	k	1	l	1
+© √	∫	2
+© ƒ	ç	1
+© ≈	°	1	æ	2
+© ‚	Ä	8
+©! 	K	1	T	1
+©!‚	Ä	1
+©,		3
+©, 	≈	2	‚	1	I	1	d	1	j	1	k	3	n	1	p	1	r	1	s	1	t	3	z	1
+©,‚	Ä	2
+©. 	ƒ	1	.	1	A	1	J	1	N	1	Z	1
+©.‚	Ä	1
+©? 	√	1	R	1
+©ci	 	1	.	1
+©ct	,	1	.	1
+©dl	 	2	,	1	i	1
+©ha	l	2
+©ho		4	 	30	!	1	,	10	.	4	:	1
+©j 	k	2	r	1	s	1
+©jd	a	1
+©jt	o	1
+©k 	b	1
+©ka	 	2	.	1	?	1	l	1
+©kl	 	2	i	1
+©l 	b	1
+©le	 	1
+©m		1
+©m 	√	1	≈	1	d	2	k	1	l	1	o	1	r	1	s	1	t	2	z	1
+©mu	 	6	,	1
+©mƒ	õ	2
+©nc	e	2
+©ne	k	1
+©ni	 	1	.	1
+©nk	a	1	u	6	y	2
+©n√	≠	1
+©pe	 	3	,	1
+©pk	≈	1
+©st	i	1
+©tl	i	3
+©to	 	1
+©vc	e	1
+©vk	u	2	y	1
+©≈ô	e	1
+©‚Ä	ú	2
+≠	≈	1		1	a	1	b	2	d	1	j	1	k	2	n	1	s	2	t	1	u	1	v	2	z	3
+≠ F	a	1
+≠ K	l	2
+≠ M	a	2
+≠ O	l	1
+≠ T	o	1
+≠ a	 	9	n	1
+≠ b	e	2	o	1	u	1	y	2
+≠ c	e	1	h	5
+≠ d	ƒ	1	o	11
+≠ h	l	2	n	1	o	3	r	4	u	1
+≠ j	√	1	a	3	e	3	i	4
+≠ k	a	1	d	1	e	1	l	2	r	2
+≠ l	e	2	i	2	u	1
+≠ m	a	1	o	3	u	3
+≠ n	ƒ	2	a	5	e	5	o	1
+≠ o	d	3	k	2	t	1
+≠ p	≈	3	e	1	l	1	o	4	r	1
+≠ r	√	2	o	1
+≠ s	e	15	i	1	k	1	l	1	m	1	o	1	t	7	v	2
+≠ t	≈	1	a	4	o	1	r	1	u	1
+≠ u	 	1	d	1
+≠ v	ƒ	1	≈	1	e	2	y	1
+≠ z	√	1	a	6	l	1	m	1
+≠ √	∫	1
+≠ ≈	æ	2
+≠ ‚	Ä	8
+≠!		2
+≠! 	A	1	O	1	T	1
+≠!‚	Ä	3
+≠,		3
+≠, 	≈	5	a	5	j	4	k	7	m	1	n	3	p	1	t	2	v	3
+≠-l	i	1
+≠.		17
+≠. 	.	1	A	3	D	1	J	1	L	2	M	1	O	2	P	1	S	1	T	1	U	1	V	2	Z	2
+≠.‚	Ä	1
+≠: 	‚	2
+≠?		3
+≠? 	A	1	J	1	K	1
+≠?‚	Ä	4
+≠bi	l	1
+≠bl	a	1
+≠bu	z	1
+≠c		1
+≠c 	a	1	k	2	n	1	p	1
+≠c.		2	 	2
+≠ce	 	7	,	1	.	1
+≠ch		2	 	11	,	3	.	2	u	3
+≠ci	 	2	,	2	.	2	?	1
+≠c√	≠	13
+≠da	ƒ	2	l	4	n	1	t	2
+≠di	l	2	t	2
+≠dl	 	1
+≠dn	ƒ	1
+≠du	.	1
+≠d√	°	4	≠	1
+≠ha	 	1	l	1
+≠ho		2	 	12	,	1	.	1	?	1	d	3
+≠je	l	1	m	4
+≠k 	s	1	z	1
+≠k!	 	1
+≠k,	 	3
+≠k.	‚	1		1
+≠k?		1
+≠ka		1	 	2	,	1	.	1	l	5
+≠ke	m	4
+≠kl	a	1
+≠ko	v	2
+≠ku	,	1
+≠ky	!	1	,	1
+≠k√	°	4
+≠k≈	Ø	1
+≠l 	s	1
+≠le	ƒ	1	 	1	!	1	.	2	l	1	m	1
+≠li	≈	2	 	2	!	1
+≠lu	 	1	,	1	.	1
+≠ly	 	3	.	3
+≠l√	≠	1	Ω	1
+≠l‚	Ä	1
+≠m		1
+≠m 	‚	2	a	3	c	3	d	5	h	2	k	3	l	1	n	3	o	2	p	7	s	5	t	4	u	1	v	8	z	3
+≠m,		1	 	9
+≠m.		1
+≠ma	j	1	l	4
+≠me	 	5	!	1	.	3	?	2
+≠mi	 	3
+≠mn	o	1
+≠mo	 	3
+≠mu	 	1	.	1
+≠m√	°	2
+≠na	l	4
+≠ne	k	9
+≠ni	 	1	,	1	l	1
+≠nk	a	7	e	1	o	1
+≠n√	°	1	≠	1
+≠nƒ	õ	3
+≠n≈	Ø	1
+≠pa	l	1
+≠pn	e	1
+≠ra	l	9
+≠ru	 	1	.	1
+≠ry	 	2
+≠r√	°	1
+≠sa	h	1
+≠sk	a	1
+≠sn	√	2	ƒ	2
+≠st	ƒ	2	e	2	o	7	u	2
+≠t 	d	2	n	1	u	1
+≠t,	 	1
+≠t.	 	3
+≠ta	l	4
+≠te	 	4	!	1	,	1	.	2	?	2	l	1
+≠ti	 	9	.	2	?	1	l	9
+≠to	 	1	m	1	s	3
+≠tr	a	2
+≠t√	°	1	≠	5
+≠tƒ	õ	1
+≠t≈	ô	2
+≠va	j	5	l	26	n	1	t	3
+≠ve	 	3	,	1	j	1
+≠vk	e	1	u	1
+≠v√	°	3
+≠zd	ƒ	1	e	1	o	1	y	1
+≠ze	 	1	,	1	.	2	l	1	n	3	t	1
+≠zk	√	2	o	6	u	1	y	1
+≠z√	≠	2
+≠ƒç	,	2	.	2	c	1	e	6	i	1	k	10
+≠≈ô	e	2	i	4	k	1
+≠≈°	 	10	!	3	,	9	?	2	e	4
+≠≈æ	√	2	 	3	d	2	e	7	i	5
+Ø a		1
+Ø h	l	1
+Ø k	 	1
+Ø m	√	1
+Ø n	e	2
+Ø o	n	1
+Ø p	o	2
+Ø s	a	1	e	2
+Ø t	a	1
+Ø z	a	2	m	1
+Ø ‚	Ä	3
+Ø! 	T	1
+Ø!‚	Ä	2
+Ø, 	a	1	j	1	k	1	m	1	n	2	p	2	z	2
+Ø,‚	Ä	1
+Ø.		2
+Ø. 	B	1	K	1	M	1	O	1	P	1	T	2
+Ø:		1
+Øbe	c	1
+Ødc	e	2
+Øhv	√	2
+Øj 	a	1
+Øj.	 	1
+Øjd	e	7	o	1	u	3
+Øjƒ	ç	1
+Øl 	d	2	m	1
+Øl,	 	1
+Øl.		1	 	1
+Øle	≈	1
+Øln	o	1
+Øm 	d	1	s	2	t	1	v	1	z	1
+Øm,	 	1
+Øm.		1	 	1
+Ør 	‚	1	P	1	a	2
+Ør,	 	2
+Ør.	 	1
+Øra	z	1
+Ørk	a	1
+Øru	!	1	.	1
+Øso	b	1
+Øst	a	11	o	1
+Øv		1
+Øv 	c	1	h	1	v	1
+Øvo	d	1
+Øvƒ	õ	1
+Øza	 	1
+Øzi	 	1
+Ø≈à	 	6	!	1	,	1	.	1
+Ø≈æ	.	1	e	7	i	1	k	1
+≥, 	≈	1	n	1
+≥m!	‚	1
+≥√≥	√	2	,	2
+∫	 	1
+∫ d	o	2	y	1
+∫ m	ƒ	1	y	1
+∫ n	a	1	e	1
+∫ o	s	1
+∫ p	ƒ	1	r	1
+∫ t	a	2	o	1
+∫ v	≈	1	 	2	a	2
+∫ z	√	2	 	1
+∫ ƒ	ç	1
+∫ ‚	Ä	2
+∫!‚	Ä	2
+∫, 	a	1	t	1
+∫-l	i	1
+∫. 	D	2	P	1	T	1
+∫?‚	Ä	1
+∫bi	l	1
+∫ch	a	1
+∫de	r	1
+∫dy	!	1
+∫h√	°	1
+∫kr	y	1
+∫lo	h	3
+∫na	v	2
+∫pl	n	1
+∫po	t	1
+∫ro	d	1
+∫ry	v	1
+∫se	k	1
+∫si	l	1
+∫sm	ƒ	3
+∫st	√	1	a	1	e	1
+∫t 	a	1
+∫to	ƒ	1
+∫tu	l	1
+∫tƒ	õ	2
+∫zk	√	1	o	3
+∫ƒç	e	1
+∫≈æ	a	1
+ªøF	.	1
+Ω	ƒ	1	b	1	k	2	n	2	o	1	p	2	s	2
+Ω J	o	1
+Ω R	u	1
+Ω T	o	1
+Ω a		1	 	1
+Ω b	a	1	u	2	y	1
+Ω c	h	3	i	2
+Ω d	e	3	i	1	o	2	r	1	v	1
+Ω h	l	4	o	1	r	1
+Ω j	a	3	e	3	i	1
+Ω k	√	2	≈	3	a	2	o	3	r	1
+Ω l	√	1	i	1
+Ω m	ƒ	1	a	3	o	1	u	1
+Ω n	ƒ	1	≈	1
+Ω o	≈	1	b	1	t	1
+Ω p	ƒ	1	≈	2	e	1	l	1	o	4	r	4
+Ω r	a	1	o	2
+Ω s	√	1	e	7	i	3	p	1	t	5	v	3
+Ω t	a	2	e	2
+Ω v	ƒ	1	l	1	z	2
+Ω z	 	2	e	1	t	1
+Ω ƒ	ç	2
+Ω ≈	°	2	æ	1
+Ω ‚	Ä	2
+Ω!		1
+Ω! 	O	1
+Ω!‚	Ä	2
+Ω,		1
+Ω, 	≈	3	a	2	n	2	o	1	p	2	s	1	t	1	u	1	z	1
+Ω.		3
+Ω. 	K	1	S	1
+Ω: 	b	1
+Ω?‚	Ä	1
+Ωan	d	3
+Ωba	l	1	t	1
+Ωbl	u	1
+Ωbo	j	1	r	1
+Ωbr	≈	2
+Ωbƒ	õ	1
+Ωch		4	 	24	!	1	,	2	a	4
+Ωe 	b	1	j	1	m	1	n	2	s	2	t	1
+Ωil	 	1
+Ωka	l	2	t	1
+Ωkl	a	1
+Ωk≈	ô	4
+Ωlk	y	1
+Ωm		3
+Ωm 	√	1	≈	1	d	2	e	1	h	2	j	1	k	2	m	1	n	1	o	2	p	6	s	4	u	1	v	3
+Ωm,	‚	1	 	1
+Ωm.		2	 	1
+Ωma	 	1
+Ωmi		2	 	12	,	2	.	1
+Ωms	i	1
+Ωra	l	1	z	1
+Ωsi	 	1
+Ωsk	a	1	l	1	n	1
+Ωsm	ƒ	1
+Ωso	v	3
+Ωst	r	2
+Ωti		2	 	1	,	1
+Ωt√	°	1
+Ωva	j	1	l	5
+Ωvk	u	1
+Ωvl	 	1
+Ωv√	°	5
+Ωzn	a	2
+Ω√Ω	√	1	 	1
+Ωƒç	e	16	k	7
+Ω≈°	e	1	i	1	l	1
+æ	‚	1	n	1	o	1	z	1
+æ B	o	1
+æ H	e	1
+æ J	o	1
+æ a	n	4
+æ b	≈	2	l	1	r	1	u	1	y	10
+æ c	e	1	h	2
+æ d	√	2	o	7	v	3
+æ g	d	2
+æ h	l	1	o	3
+æ i	d	1
+æ j	√	1	d	1	e	5	s	1
+æ k	 	3	e	3
+æ m	√	1	o	2	u	1	y	1
+æ n	ƒ	3	a	4	e	19	i	1
+æ o	k	1	p	2	t	1
+æ p	ƒ	1	≈	9	e	1	o	8	u	1
+æ s	√	2	a	1	e	12	i	3	k	1	l	2	n	1	p	1	t	3	v	1
+æ t	a	2	e	4	o	10	u	1
+æ u	 	1	v	1
+æ v	√	3	≈	2	e	2	y	5
+æ z	a	4	l	1	n	1
+æ √	∫	2
+æ ≈	ô	1	°	1
+æ ‚	Ä	2
+æ,		1
+æ, 	o	2
+æ.		1
+æab	.	1
+æas	e	1
+æat	√	1
+æce	 	1
+ædo	r	1	u	1
+ædy	≈	13	c	4	f	1
+æd√	©	3	Ω	13
+ædƒ	õ	3
+æe		5
+æe 	≈	1	‚	1	F	1	H	2	P	1	T	1	b	7	d	1	i	2	j	10	k	1	l	2	m	7	n	10	o	4	p	3	r	1	s	15	t	7	u	7	v	1	z	3
+æe!	‚	1	 	1
+æe,	 	3
+æe.	 	3
+æe?	‚	2
+æeb	r	4
+æej	√	2
+æel	 	9	,	1	.	1	a	2	i	3	y	1
+æen	√	5	ƒ	2	a	1	e	3	i	1	o	2
+æer	e	1	t	1
+æet	 	1	.	1	e	1
+æe≈	°	3
+æi 	a	1	n	1
+æi,	 	1
+æik	e	2	u	2
+æil	 	3	,	1	a	1	e	1	i	1
+æit	√	2	ƒ	3	a	1	i	1	o	1
+æiv	√	4	a	1	l	1	o	9
+æi≈	°	1
+æka	 	1	,	1	.	1
+æko	u	1
+æky	 	1
+æk√	°	1
+æna	 	2
+æno		1	 	2	s	1
+ænu	 	1
+æny	.	1
+æn√	°	3	Ω	2
+æov	a	4
+ær√	°	2
+æsk	o	1
+æst	v	2
+æto	 	1
+æu 	s	1
+æ√°	d	4
+æ√©	n	9
+æ√≠	≈	2		2	 	2	,	2	.	1	?	1	c	1	h	1	l	4	t	1
+øF.	 	1
+√ÅT	N	1
+√Å√	°	1
+√â 	P	1
+√ç 	N	1	V	1
+√çD	K	1
+√ì,	 	1
+√ö		1
+√°		7
+√° 	√	3	≈	3	‚	2	a	2	b	3	c	3	d	6	e	1	h	3	i	2	j	7	k	2	l	1	m	6	n	6	o	1	p	4	r	3	s	20	t	10	u	2	v	6	z	2
+√°!	‚	3
+√°,	 	13
+√°-	l	2
+√°.	‚	2		2	 	6
+√°:	 	1
+√°?	‚	2	 	1
+√°b	l	2	n	1
+√°c	√	1		1	 	2	,	2	.	1	e	7	h	7	i	6	k	2	n	1	o	2	t	5
+√°d	√	2	ƒ	1	≈	1	 	2	,	2	a	8	c	1	e	2	h	3	i	1	k	5	l	1	n	4	o	7	y	2
+√°h	a	2	l	11	n	3	u	1
+√°k	≈	1	 	3	a	5	e	1	o	1	u	2	y	1
+√°l	√	1	≈	1		1	 	4	,	2	.	3	a	1	c	3	e	14	i	9	o	14	u	1	y	3
+√°m	√	2	ƒ	1	 	31	!	2	,	7	.	6	?	1	a	12	b	2	e	19	k	1	o	3	u	1
+√°n	√	9	ƒ	3	‚	1	 	8	!	2	.	2	a	5	b	1	e	4	i	11	o	8	y	3
+√°p	a	7	e	1	r	1
+√°r	a	1	n	1
+√°s	 	11	,	2	.	1	?	1	a	5	c	1	i	3	k	1	l	2	n	8	o	1	t	3	y	1
+√°t	√	3	‚	1	 	15	!	2	,	2	.	2	a	1	e	7	i	10	k	3	l	1	o	7	r	1	u	1	y	1
+√°v	√	2	ƒ	14	a	20	c	1	e	2	i	4	k	3	n	4	o	6	r	3	s	1	y	1
+√°z	√	4	,	7	a	12	d	1	e	8	k	4	n	3
+√°√	°	6
+√°ƒ	ç	10	è	1
+√°≈	ô	14	°	18	æ	10
+√©		10
+√© 	√	2	ƒ	1	≈	3	‚	8	J	1	a	4	b	3	c	3	d	6	h	3	j	6	k	4	m	9	n	5	o	9	p	14	r	1	s	16	t	7	v	8	z	3
+√©!	‚	1	 	2
+√©,	‚	2		3	 	17
+√©.	‚	1	 	6
+√©?	 	2
+√©c	i	2	t	2
+√©d	l	4
+√©h	a	2	o	50
+√©j	 	4	d	1	t	1
+√©k	 	1	a	5	l	3
+√©l	 	1	e	1
+√©m	ƒ	2		1	 	12	u	7
+√©n	√	1	c	2	e	1	i	2	k	9
+√©p	e	4	k	1
+√©s	t	1
+√©t	l	3	o	1
+√©v	c	1	k	3
+√©≈	ô	1
+√©‚	Ä	2
+√≠		19
+√≠ 	√	1	≈	2	‚	8	F	1	K	2	M	2	O	1	T	1	a	10	b	6	c	6	d	12	h	11	j	11	k	7	l	5	m	7	n	13	o	6	p	10	r	3	s	29	t	8	u	2	v	5	z	9
+√≠!	‚	3		2	 	3
+√≠,		3	 	31
+√≠-	l	1
+√≠.	‚	1		17	 	19
+√≠:	 	2
+√≠?	‚	4		3	 	3
+√≠b	i	1	l	1	u	1
+√≠c	√	13		1	 	5	.	4	e	9	h	21	i	7
+√≠d	√	5	a	9	i	4	l	1	n	1	u	1
+√≠h	a	2	o	20
+√≠j	e	5
+√≠k	√	4	≈	1	 	2	!	1	,	3	.	2	?	1	a	10	e	4	l	1	o	2	u	1	y	2
+√≠l	√	2	‚	1	 	1	e	7	i	5	u	3	y	6
+√≠m	√	2		1	 	52	,	10	.	1	a	5	e	11	i	3	n	1	o	3	u	2
+√≠n	√	2	ƒ	3	≈	1	a	4	e	9	i	3	k	9
+√≠p	a	1	n	1
+√≠r	√	1	a	9	u	2	y	2
+√≠s	a	1	k	1	n	4	t	13
+√≠t	√	6	ƒ	1	≈	2	 	4	,	1	.	3	a	4	e	11	i	21	o	5	r	2
+√≠v	√	3	a	35	e	5	k	2
+√≠z	√	2	d	4	e	9	k	10
+√≠ƒ	ç	22
+√≠≈	ô	7	°	28	æ	19
+√≥,	 	2
+√≥m	!	1
+√≥√	≥	4
+√∫		1
+√∫ 	ƒ	1	‚	2	d	3	m	2	n	2	o	1	p	2	t	3	v	5	z	3
+√∫!	‚	2
+√∫,	 	2
+√∫-	l	1
+√∫.	 	4
+√∫?	‚	1
+√∫b	i	1
+√∫c	h	1
+√∫d	e	1	y	1
+√∫h	√	1
+√∫k	r	1
+√∫l	o	3
+√∫n	a	2
+√∫p	l	1	o	1
+√∫r	o	1	y	1
+√∫s	e	1	i	1	m	3	t	3
+√∫t	ƒ	2	 	1	o	1	u	1
+√∫z	k	4
+√∫ƒ	ç	1
+√∫≈	æ	1
+√Ω		11
+√Ω 	ƒ	2	≈	3	‚	2	J	1	R	1	T	1	a	2	b	4	c	5	d	8	h	6	j	7	k	11	l	2	m	6	n	2	o	3	p	13	r	3	s	20	t	4	v	4	z	4
+√Ω!	‚	2		1	 	1
+√Ω,		1	 	14
+√Ω.		3	 	2
+√Ω:	 	1
+√Ω?	‚	1
+√Ωb	ƒ	1	a	2	o	2	r	2
+√Ωc	h	35
+√Ωk	≈	4	a	3	l	1
+√Ωl	k	1
+√Ωm		3	 	28	,	2	.	3	a	1	i	17	s	1
+√Ωr	a	1
+√Ωs	i	1	k	3	m	1	o	3	t	2
+√Ωt	√	1	i	4
+√Ωv	√	5	a	6	k	1	l	1
+√Ωz	n	2
+√Ω√	Ω	2
+√Ωƒ	ç	23
+√Ω≈	°	3
+ƒåa	s	1
+ƒåe	t	2
+ƒåi	 	2
+ƒål	o	1
+ƒåt	r	1
+ƒå√	≠	1
+ƒç		2
+ƒç 	‚	1	b	2	n	2	s	1	t	1	u	1
+ƒç!	 	2
+ƒç,	 	6
+ƒç.		2	 	1
+ƒç?	 	1
+ƒça	l	8	s	9	t	7
+ƒçc	e	2	i	1
+ƒçe	≈	6		1	 	8	,	3	?	2	h	1	j	3	k	65	l	8	m	4	n	9	r	16	t	7
+ƒçi	ƒ	1		1	 	13	,	1	.	6	c	2	l	36	m	3	n	2	s	4	t	9
+ƒçk	√	2	a	22	e	6	o	21	u	23	y	4
+ƒçl	o	9
+ƒçm	e	1
+ƒçn	√	6	ƒ	14	i	1	o	6
+ƒço	k	5	v	3
+ƒçt	r	1	v	2	y	1
+ƒçu	j	1	k	5
+ƒç√	°	5	©	1	≠	35	∫	1
+ƒè 	‚	1	b	1	d	1	j	1	m	1	p	2	s	2	t	2	z	1
+ƒè!	‚	1	 	2
+ƒè,	 	4
+ƒè.		2	 	1
+ƒè?	 	1
+ƒèa	 	2	.	1
+ƒèm	e	1
+ƒèt	e	8
+ƒöD	I	1
+ƒõ		20
+ƒõ 	ƒ	2	≈	3	‚	3	P	1	T	1	a	6	b	8	c	10	d	11	h	10	i	2	j	12	k	3	l	3	m	4	n	18	o	6	p	17	r	3	s	18	t	9	u	8	v	14	z	18
+ƒõ!	‚	1		1	 	2
+ƒõ,	 	16
+ƒõ.		6	 	21
+ƒõ:		1
+ƒõ?	‚	1	 	2
+ƒõc	h	5	i	1	k	1	o	11
+ƒõd	√	1	ƒ	14	 	1	a	3	e	1	i	16	o	4	r	2	u	3	v	2
+ƒõh	a	2	e	1	l	8	n	3	o	11	u	2
+ƒõj	√	2	≈	10	 	4	,	1	a	18	e	6	i	14	n	1	t	1
+ƒõk	√	1	 	1	,	3	a	7	d	11	k	3	n	9	o	11	t	5	u	4	y	1
+ƒõl	√	8		2	 	49	,	8	-	1	.	6	:	1	?	1	a	26	e	2	i	26	o	5	t	1	y	4
+ƒõm	≈	3	 	6	!	1	?	1	a	2	i	4	u	9
+ƒõn	√	11	ƒ	1	.	1	i	2	o	1	u	1	y	2
+ƒõr	 	2	b	1	e	4	n	2
+ƒõs	i	2	n	3	t	17
+ƒõt	√	6	ƒ	4	≈	4	 	12	,	4	.	2	?	1	a	3	e	8	i	9	l	1	n	3	u	1
+ƒõv	ƒ	11	 	1	e	2
+ƒõz	 	1	,	1	?	1	n	2
+ƒõƒ	ç	5
+ƒõ≈	ô	5	°	10	æ	6
+ƒõ‚	Ä	1
+≈à 	a	1	b	2	d	2	k	1	m	2	n	2	p	2	t	2	u	1
+≈à!	 	1
+≈à,	 	3
+≈à.		1	 	1
+≈àa	d	2
+≈àk	!	1
+≈àu	 	1
+≈à√	°	1	∫	2
+≈à≈	Ø	1
+≈òe	k	4
+≈ô 	b	1	d	1	j	1	s	1	z	1
+≈ô,	 	1
+≈ô.		1
+≈ôa	≈	1	 	1	d	4
+≈ôb	e	2
+≈ôe	ƒ	14	≈	9		2	 	12	!	1	,	5	.	13	?	1	b	6	c	11	d	22	h	9	j	1	k	20	l	14	m	4	n	9	p	6	s	18	t	4	v	3	z	2
+≈ôi	ƒ	9	≈	8	 	14	!	2	,	3	.	1	?	1	b	7	c	24	d	2	h	3	j	14	k	20	l	16	m	1	n	3	p	2	s	7	t	5	v	9	z	1
+≈ôk	a	8	o	1	u	1	y	1
+≈ôl	i	2
+≈ôm	i	1
+≈ôn	√	1
+≈ôo	v	5
+≈ôp	y	1
+≈ôs	t	1
+≈ôu	?	1
+≈ôv	a	1
+≈ô√	°	7	©	1	≠	68
+≈†a	k	10	t	1
+≈†k	o	1
+≈†l	a	2
+≈†n	a	2
+≈†p	a	1
+≈†r	o	1
+≈†t	ƒ	3
+≈° 	‚	3	O	1	a	1	c	1	d	1	h	2	k	2	n	1	p	9	s	8	t	7	u	1	v	3	z	1
+≈°!	‚	5	 	1
+≈°,	 	14
+≈°.	‚	1		2	 	2
+≈°?	‚	6	 	2
+≈°a	k	20	t	1
+≈°e	≈	2	 	5	,	1	.	2	c	26	d	1	k	6	l	15	m	4	n	15	p	2	r	1	t	2
+≈°i	 	3	!	1	,	1	?	2	c	10	d	1	l	10	m	4	n	1	r	1
+≈°k	≈	1	a	3	e	1	l	1	o	9	u	4	y	1
+≈°l	√	2	a	18	e	10	i	10	o	7
+≈°n	√	6	ƒ	4	i	1
+≈°o	f	1	u	1	v	1
+≈°p	a	9	i	2	l	2
+≈°r	a	1	o	1	u	1
+≈°t	√	1	ƒ	41	a	1	i	4	k	1	n	2	u	1	v	1
+≈°u	d	2	j	1	m	1	s	1
+≈°v	√	1	i	5
+≈°√	©	1	≠	34	∫	1
+≈°ƒ	ç	8
+≈°≈	°	1	•	2	Ø	1
+≈•		2
+≈• 	≈	2	b	1	c	2	h	4	j	6	m	1	n	4	o	1	p	1	s	3	t	2	u	2	v	1
+≈•!	‚	1	 	2
+≈•,	 	1
+≈•.	 	1
+≈•a	 	2	s	2
+≈Ø 	‚	3	a	1	h	1	k	1	m	1	n	2	o	1	p	2	s	3	t	1	z	3
+≈Ø!	‚	2	 	1
+≈Ø,	‚	1	 	10
+≈Ø.		2	 	7
+≈Ø:		1
+≈Øb	e	1
+≈Ød	c	2
+≈Øh	v	2
+≈Øj	ƒ	1	 	1	.	1	d	11
+≈Øl	 	3	,	1	.	2	e	1	n	1
+≈Øm	 	6	,	1	.	2
+≈Ør	 	4	,	2	.	1	a	1	k	1	u	2
+≈Øs	o	1	t	12
+≈Øv	ƒ	1		1	 	3	o	1
+≈Øz	a	1	i	1
+≈Ø≈	à	9	æ	10
+≈Ωa	n	3
+≈Ωb	l	1
+≈Ωe	 	8
+≈Ωi	l	1
+≈Ωr	a	1
+≈æ		4
+≈æ 	√	2	≈	2	‚	2	B	1	H	1	J	1	a	4	b	15	c	3	d	12	g	2	h	4	i	1	j	8	k	6	m	5	n	27	o	4	p	20	s	27	t	17	u	2	v	12	z	6
+≈æ,		1	 	2
+≈æ.		1
+≈æa	b	1	s	1	t	1
+≈æc	e	1
+≈æd	√	16	ƒ	3	o	2	y	18
+≈æe	≈	3		5	 	88	!	2	,	3	.	3	?	2	b	4	j	2	l	17	n	14	r	2	t	3
+≈æi	≈	1	 	2	,	1	k	4	l	7	t	8	v	15
+≈æk	√	1	a	3	o	1	y	1
+≈æn	√	5	a	2	o	4	u	1	y	1
+≈æo	v	4
+≈ær	√	2
+≈æs	k	1	t	2
+≈æt	o	1
+≈æu	 	1
+≈æ√	°	4	©	9	≠	17
+‚Äî	‚	40		17	 	80	!	1	,	3	.	1
+‚Äò	,	1
+‚Äö	p	1
+‚Äú		165	 	98	,	16	.	12
+‚Äû	√	1	≈	18	‚	4	A	38	B	4	C	16	D	7	E	1	F	2	G	1	H	12	I	1	J	22	K	6	L	1	M	8	N	24	O	5	P	19	S	11	T	38	U	4	V	9	a	2	b	1	c	3	d	3	e	1	h	5	j	2	k	3	m	1	n	2	o	5	p	4	r	1	s	2	u	1	v	2	z	1
+Ôªø	F	1

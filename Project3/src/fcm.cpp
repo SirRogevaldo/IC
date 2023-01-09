@@ -44,15 +44,15 @@ void fcm::estimate(map<string, map<char, int>> &model, char *filename){
         context.append(1, aux);
     }
 
-    int occNumber = 0, occTotal = 0, count = 0;
+    int occNumber, occTotal = 0, count = 0;
     double d = 0;
 
     do{
         readChar(inFile, &aux);
 
         if(model.count(context) > 0){
-            map<char, int> occ = model[context];
-            if(occ[aux] > 0){
+            map<char, int> &occ = model[context];
+            if(occ.count(aux) > 0){
                 occNumber = occ[aux];
             }else{
                 occNumber = 0;

@@ -2990,8 +2990,6 @@ Gue	o	1	r	2
 Gui	a	2	d	2	m	2	p	1
 Guz	a	1
 Gï¿	½	4
-H11	A	1
-HH1	1	1
 Hab	i	1
 Haj	a	1
 Har	p	2
@@ -5637,6 +5635,7 @@ m-s	e	20
 m-t	e	4
 m."	"	1
 m..	-	1	.	64	A	11	C	3	D	1	E	4	F	1	M	4	O	3	P	1	Q	1	T	3	U	1	V	2
+m11	A	1
 m36	6	1
 m: 	"	2	t	1	u	1
 m::	"	1	:	1	A	2	C	2	D	2	E	1	O	1	P	2	Q	1	S	1	U	1
@@ -5759,6 +5758,7 @@ mit	a	13	e	5	i	4	o	2
 miz	a	10
 miï	¿	5
 mm(	Q	1
+mm1	1	1
 mm3	6	1
 mmA	 	15	l	1	n	1	o	2	q	1	r	2	s	17	t	1
 mmC	o	10

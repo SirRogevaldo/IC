@@ -25,17 +25,16 @@ int main(int argc, char** argv){
         }
 
         else {
-            if(minD > f.distance) { // check which model distance is lower
+            if(minD < f.distance) { // check which model distance is lower
 
                 modelL = argv[i];
                 minD = f.distance;
             }
         }
+        model.clear();
     }
     
     cout << "The text is most likely to be written in: " << modelL << endl;
     cout << "The distance between the text and the model is: " << minD << endl;
-
-    model.clear();
 
 }
