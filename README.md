@@ -8,4 +8,4 @@ João Gonçalves 98287
 
 - **Project 2:** Project2 Folder
 
-- **Project 3:** Project3 Folder (In Progress)
+- **Project 3:** Project3 Folder
